@@ -100,6 +100,14 @@ Now, feel free to customize the theme however you like (don't forget to change t
 After you are done, **commit** your final changes.
 Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by running the deploy script:
 
+Instructions:
+- Include all the assets (pdf files) in assets/pdf files
+- Change tex.slides, tex.html... in zotero
+- Commit all changes
+- publish all changes
+- close vscode editor (it launches permission denied because of windows)
+- ./bin/deploy (con --user da problemas)
+
 ```bash
 $ ./bin/deploy [--user]
 ```

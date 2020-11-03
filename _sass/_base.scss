@@ -151,6 +151,16 @@ a, table.table a {
 
 // News
 
+.news {
+  h2 {
+    color: var(--global-theme-color);
+    margin-bottom: 1rem;
+    span {
+      font-size: 1.5rem;
+    }
+  }
+}
+
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);
@@ -292,14 +302,15 @@ footer.sticky-bottom {
     margin-bottom: 1em;
   }
   h2 {
+    color: var(--global-theme-color);
     margin-bottom: 1rem;
     span {
       font-size: 1.5rem;
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
+    color: $theme-color-light;
+    border-top: 1px solid $theme-color-light;
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
@@ -357,8 +368,8 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: var(--global-link-color);
+            border-color: var(--global-link-color);
           }
         }
       }
