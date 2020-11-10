@@ -106,7 +106,7 @@ Instructions:
 - Commit all changes
 - publish all changes
 - close vscode editor (it launches permission denied because of windows)
-- ./bin/deploy (con --user da problemas)
+- ./bin/deploy --user
 
 ```bash
 $ ./bin/deploy [--user]
