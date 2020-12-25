@@ -103,10 +103,17 @@ Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by
 Instructions:
 - Include all the assets (pdf files) in assets/pdf files
 - Change tex.slides, tex.html... in zotero
+- Update the _publications files. All the folders starting with _ are modifiable, the rest of them are for the webpage.
 - Commit all changes
 - publish all changes
 - close vscode editor (it launches permission denied because of windows)
 - ./bin/deploy --user
+
+To change the selected publications:
+- Go to Zotero and change "tex.selected"
+
+To change the news:
+- Just change the date. The 5 last ones will be shown.
 
 ```bash
 $ ./bin/deploy [--user]
