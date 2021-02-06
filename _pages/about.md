@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Lehrstuhl für Theoretische Elektrotechnik</p>
-    <p>Universität des Saarlandes</p>
-    <p>Campus C6 3, 11. OG</p>
-    <p>Saarbrücken, Germany 66123</p>
+    <p>Radiofrequency, Microwave, Electromagnetics and Antennas Group</p>
+    <p>University Carlos III of Madrid</p>
+    <p>4.2.E01</p>
+    <p>Leganés, Spain</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Born in Móstoles and raised in Toledo, Spain.
-I am a **postdoctoral researcher** at Saarland University (Germany) from the beginning of 2019.
+I am a **assistant professor** at University Carlos III of Madrid (Spain) from February 2021.
 
 My research interests are **computational electromagnetics** and antenna
 measurements. My Ph.D. dissertation included the development and implementation
@@ -32,6 +32,7 @@ As a researcher, I am part of **10 indexed papers** and **26 conference papers**
 I have been a **visiting scholar** at The Ohio State University hosted by Prof.
 Jin-Fa Lee for seven months, and at the University of Macau for two
 months.
+I was a postdoctoral researcher at Saarland University from 2019 to 2020 with Prof. Dyczij-Edlinger.
 
 You can download my CV in its Spanish version **[here](/assets/pdf/cvn_es.pdf)**,
 and in its English version **[here](/assets/pdf/curriculum_en.pdf)**.
