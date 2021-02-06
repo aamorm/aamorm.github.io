@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Born in Móstoles and raised in Toledo, Spain.
-I am a **assistant professor** at University Carlos III of Madrid (Spain) from February 2021.
+I am an **assistant professor** at University Carlos III of Madrid (Spain) from February 2021.
 
 My research interests are **computational electromagnetics** and antenna
 measurements. My Ph.D. dissertation included the development and implementation

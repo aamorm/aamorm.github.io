@@ -101,9 +101,10 @@ After you are done, **commit** your final changes.
 Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by running the deploy script:
 
 Instructions:
+- To see the local version, do bundle exec jekyll serve and follow the link shown in the command line.
 - Include all the assets (pdf files) in assets/pdf files
 - Change tex.slides, tex.html... in zotero
-- Update the _publications files. All the folders starting with _ are modifiable, the rest of them are for the webpage.
+- Update the _publications files. Don't copy directly from zotero. All the folders starting with _ are modifiable, the rest of them are for the webpage.
 - Commit all changes
 - publish all changes
 - close vscode editor (it launches permission denied because of windows)
