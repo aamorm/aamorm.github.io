@@ -53,7 +53,7 @@ keybase_username: # your keybase user name
 contact_note: >
   If you need me to answer you promptly, just drop me an email!
 
-google_analytics:  # out your google-analytics code
+google_analytics: G-LZJWKMPQJR  # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -147,7 +147,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
