@@ -1,77 +1,158 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Adrián Amor Martín",
+    "position": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "phone": "91-6248378",
+    "expertise": "Computational Electromagnetics, High Performance Computing, mathematical modelling"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "University Carlos III of Madrid",
+      "position": "Assistant Professor",
+      "url": "https://www.uc3m.es",
+      "startDate": "2021-02-01",
+      "endDate": "",
+      "summary": "Research and teaching."
+    },
+    {
+      "name": "Saarland University",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.uni-saarland.de/lehrstuhl/dyczij-edlinger.html",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Research and teaching."
+    },
+    {
+      "name": "University Carlos III of Madrid",
+      "position": "Assistant",
+      "url": "https://www.uc3m.es",
+      "startDate": "2018-10-01",
+      "endDate": "2019-01-01",
+      "summary": "Research and teaching."
+    },
+    {
+      "name": "University Carlos III of Madrid",
+      "position": "Predoctoral researcher",
+      "url": "https://www.uc3m.es",
+      "startDate": "2012-09-01",
+      "endDate": "2018-10-01",
+      "summary": "M.Sc. grant, PIPF, and FPU grants holder."
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "University Carlos III of Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Multimedia and Communications",
+      "studyType": "Ph.D.",
+      "startDate": "2014-10-01",
+      "endDate": "2018-10-01",
+      "score": "Cum Laude, International mention"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University Carlos III of Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Multimedia and Communications",
+      "studyType": "M.Sc.",
+      "startDate": "2012-10-01",
+      "endDate": "2014-10-01",
+      "score": ""
+    },
+    {
+      "institution": "University Carlos III of Madrid",
+      "url": "https://www.uc3m.es/",
+      "area": "Telecommunications",
+      "studyType": "Engineer",
+      "startDate": "2007-09-01",
+      "endDate": "2012-07-25",
+      "score": ""
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
+  "participation in organizations": [
+    {
+      "organization": "GT Jóvenes @ COIT",
+      "url": "https://www.coit.es/grupos-de-trabajo/gt-jovenes",
+      "startDate": "2020-10",
+      "role": "Coordinator",
+      "highlights": [
+        "Collaboration with CEET, EYE",
+        "Organization of several workshops"
+      ]
+    },
+    {
+      "organization": "ment-it",
+      "url": "https://www.coit.es/servicios/mentorizacion-ment-it",
+      "startDate": "2021-04",
+      "role": "Co-founder",
+      "highlights": [
+        "Three editions",
+        "More than 100 engineers involved"
+      ]
+    },
+    {
+      "organization": "Member of the URSI's National committee",
+      "url": "https://ursi.es/comite-nacional/",
+      "startDate": "2022-11",
+      "role": "Member, social networks and representative of young engineers"
+    }
+  ],
+  "selected projects": [
+    {
+      "name": "MIMACUHSPACE-CM", 
+      "summary": "MIcrowave MAterial Characterization Using Heterogeneous Systems-on-chip for the SPACE environment",
+      "amount": "Principal Investigator, funded with 60,000€ by Madrid Regional Government",
+      "startDate": "2022-01",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "PTec-UC3M", 
+      "summary": "Plan de promoción de estudios de telecomunicaciones y atracción de talento UC3M",
+      "amount": "Principal Investigator in 2024, funded with 204,000€ by Spanish Ministry of Economy and Digital Transformation",
+      "startDate": "2021-11",
+      "endDate": "2024-12"
+    },
+    {
+      "name": "SPACECAR", 
+      "summary": "Caracterización de materiales mediante tecnología de microondas usando sistemas embebidos heterogéneos para el entorno espacial",
+      "amount": "Principal Investigator, funded with 50,000€ by Arquimea Aerospace Defence and Security",
+      "startDate": "2023-04",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "STARRING-IMPLE", 
+      "summary": "Spatial Audio and Array Processing for Industrial Applications and Digital Transformation: Efficient Implementations through Parallel and Approximate Computing",
+      "amount": "Principal Investigator, funded with 42,000€ by Spanish Research Agency in the 2022 call of Proyectos de Generación de Conocimiento",
+      "startDate": "2023-10",
+      "endDate": "2026-05"
+    },
+    {
+      "name": "FEM solutions for AIRBUS", 
+      "summary": "Integration and Industrialization of FEM Solutions for Computational Electromagnetics",
+      "amount": "Part of the research team, funded by Airbus Defence and Space",
+      "startDate": "2022-05",
+      "endDate": "2023-05"
+    }
+  ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "C1 certified"
+    },
+    {
+      "language": "German",
+      "fluency": "B1"
     }
   ],
   "interests": [],
-  "references": [],
-  "projects": []
+  "references": []
 }
