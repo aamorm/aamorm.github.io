@@ -2,45 +2,25 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Radiofrequency, Microwave, Electromagnetics and Antennas Group</p>
-    <p>University Carlos III of Madrid</p>
-    <p>4.2.A05I</p>
-    <p>Leganés, Spain</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Born in Móstoles and raised in Toledo, Spain. I am an **assistant professor** at
-University Carlos III of Madrid (Spain) from February 2021.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research interests are **computational electromagnetics**, High Performance
-Computing (HPC) techniques, and antenna measurements. I am part of **20 indexed
-papers** and **43 conference papers**. I was a **postdoctoral researcher** at
-Saarland University from 2019 to 2020 with Prof. Dyczij-Edlinger. I have also
-been a **visiting scholar** at The Ohio State University hosted by Prof. Jin-Fa
-Lee for seven months, and at the University of Macau for two months. 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Related to teaching, I have imparted more than 800 teaching hours in different
-Telecommunication bachelor and master degrees in the last 10 years. You can find
-more details (in Spanish) **[here.](https://aamorm.github.io/teaching)**
-
-See my **[CV](https://aamorm.github.io/cv)** for my participation in research
-projects and in organizations. You can also download my
-**[CVN](https://cvn.fecyt.es/0000-0002-6123-4324)** and
-**[CVA](/assets/pdf/cva_aamor.pdf)**.
-
-<!-- I am the current coordinator at the **[GT-Jóvenes](https://www.coit.es/grupos-de-trabajo/gt-jovenes)** at the Spanish College of Telecommunications Engineers (COIT), and I have also been appointed to the Spanish committee of **[URSI](https://ursi.es/comite-nacional/)** as the representative of young researchers in the field of radio science. I am also the representative of my university in the international working group IEEE P2816 APS/SC/CEM on computational electromagnetics.
-
-You can download my personal CV **[here](/assets/pdf/curriculum_en.pdf)**,
-my CVN **[here](https://cvn.fecyt.es/0000-0002-6123-4324)**,
-and their abbreviated version **[here](/assets/pdf/cva_aamor.pdf)**. -->
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
