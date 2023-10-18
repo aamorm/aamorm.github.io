@@ -118,7 +118,7 @@ Cristina García Muñoz, 2014.
 <br>
 Publicación en URSI 2013. 
 <br>
-Calificación: 10 (matrícula de honor).
+Calificación: SOBRESALIENTE 10 (matrícula de honor).
 <br><br>
 </details>
 
@@ -131,7 +131,7 @@ César Turienzo Forcada, 2023.
 <br>
 Publicación en URSI 2023. 
 <br>
-Calificación: 10 (nominado matrícula de honor).
+Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
 <br><br>
 </details>
 
@@ -144,7 +144,18 @@ Antonio Rueda Escalona, 2023.
 <br>
 Publicación en URSI 2023. 
 <br>
-Calificación: 10 (nominado matrícula de honor).
+Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
+<br><br>
+</details>
+
+### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
+
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<br>
+Pablo Iglesias García, 2023. 
+<br>
+Calificación: SOBRESALIENTE 9.1
 <br><br>
 </details>
 
@@ -157,9 +168,9 @@ Calificación: 10 (nominado matrícula de honor).
 <details>
 <summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
 <br>
-Marta López Izquierdo, 2023. 
+Marta López Izquierdo, 2024. 
 <br>
-Defensa prevista en septiembre de 2023.
+Defensa prevista en febrero de 2024.
 <br><br>
 </details>
 
@@ -168,20 +179,9 @@ Defensa prevista en septiembre de 2023.
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
-Antonio Javier Cascales, 2023. 
+Antonio Javier Cascales, 2024. 
 <br>
-Defensa prevista en septiembre de 2023.
-<br><br>
-</details>
-
-### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
-
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Pablo Iglesias García, 2023. 
-<br>
-Defensa prevista en septiembre de 2023.
+Defensa prevista en febrero de 2024.
 <br><br>
 </details>
 
