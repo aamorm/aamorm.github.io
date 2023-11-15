@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: docencia
+title: docencia/tfg-tfm
 description: Oferta de TFG/TFM, TFG/TFM dirigidos y en dirección, y cursos impartidos.
 nav: true
 nav_order: 2
@@ -180,6 +180,28 @@ Defensa prevista en febrero de 2024.
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
 Antonio Javier Cascales, 2024. 
+<br>
+Defensa prevista en febrero de 2024.
+<br><br>
+</details>
+
+### Implementación de un simulador 2D de elementos finitos en Julia
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Mario Núñez Domínguez, 2024. 
+<br>
+Defensa prevista en febrero de 2024.
+<br><br>
+</details>
+
+### Desarrollo de una interfaz para Paraview desde Fortran
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Macarena Fernández Rodríguez, 2024. 
 <br>
 Defensa prevista en febrero de 2024.
 <br><br>
