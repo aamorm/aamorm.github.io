@@ -163,7 +163,7 @@ Calificación: SOBRESALIENTE 9.1
 
 ## TFG/TFM en dirección
 
-### Comparativa entre las tecnologías LTE-M, LTE Cat 1 y LTE Cat 1 bis
+### Sonda de monitorización para redes privadas
 
 <details>
 <summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
@@ -171,6 +171,28 @@ Calificación: SOBRESALIENTE 9.1
 Marta López Izquierdo, 2024. 
 <br>
 Defensa prevista en febrero de 2024.
+<br><br>
+</details>
+
+### Comparativa entre las tecnologías LTE-M, LTE Cat 1 y LTE Cat 1 bis
+
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<br>
+Marta López Izquierdo, 2024. 
+<br>
+Defensa prevista en febrero de 2024.
+<br><br>
+</details>
+
+### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA
+
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
+<br>
+Fernando Martín San Bruno, 2024. 
+<br>
+Defensa prevista en julio de 2024.
 <br><br>
 </details>
 
@@ -207,6 +229,17 @@ Defensa prevista en febrero de 2024.
 <br><br>
 </details>
 
+### Design, simulation and development of improvements for material characterization technologies
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Carlos de Quinto Cáceres, 2024. 
+<br>
+Defensa prevista en julio de 2024.
+<br><br>
+</details>
+
 ***
 
 ## Cursos en el extranjero
@@ -220,6 +253,32 @@ Defensa prevista en febrero de 2024.
 ***
 
 ## Cursos Impartidos
+
+### 2023/2024
+
+<details>
+<summary>Asignaturas</summary>
+<br>
+<h4> Campos Electromagnéticos </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Coordinador, profesor de grupo reducido y prácticas.
+<br><br>
+<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+Coordinador, profesor de grupo reducido.
+<br><br>
+<h4> Tecnologías de Alta Frecuencia </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Profesor de grupo reducido.
+<br><br>
+<h4> Dispositivos inalámbricos en IoT </h4> 
+<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+Coordinador, profesor de teoría y de prácticas.
+<br><br>
+<h4> Fundamentals on computational electromagnetism applied to communications I </h4>
+<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+Profesor de teoría.
+<br><br><br><br>
+</details>
 
 ### 2022/2023
 

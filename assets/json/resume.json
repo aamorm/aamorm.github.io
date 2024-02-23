@@ -104,27 +104,6 @@
   ],
   "selected projects": [
     {
-      "name": "MIMACUHSPACE-CM", 
-      "summary": "MIcrowave MAterial Characterization Using Heterogeneous Systems-on-chip for the SPACE environment",
-      "amount": "Principal Investigator, funded with 60,000€ by Madrid Regional Government",
-      "startDate": "2022-01",
-      "endDate": "2023-12"
-    },
-    {
-      "name": "PTec-UC3M", 
-      "summary": "Plan de promoción de estudios de telecomunicaciones y atracción de talento UC3M",
-      "amount": "Principal Investigator in 2024, funded with 204,000€ by Spanish Ministry of Economy and Digital Transformation",
-      "startDate": "2021-11",
-      "endDate": "2024-12"
-    },
-    {
-      "name": "SPACECAR", 
-      "summary": "Caracterización de materiales mediante tecnología de microondas usando sistemas embebidos heterogéneos para el entorno espacial",
-      "amount": "Principal Investigator, funded with 50,000€ by Arquimea Aerospace Defence and Security",
-      "startDate": "2023-04",
-      "endDate": "2023-12"
-    },
-    {
       "name": "STARRING-IMPLE", 
       "summary": "Spatial Audio and Array Processing for Industrial Applications and Digital Transformation: Efficient Implementations through Parallel and Approximate Computing",
       "amount": "Principal Investigator, funded with 42,000€ by Spanish Research Agency in the 2022 call of Proyectos de Generación de Conocimiento",
@@ -132,11 +111,32 @@
       "endDate": "2026-05"
     },
     {
+      "name": "MIMACUHSPACE-CM", 
+      "summary": "MIcrowave MAterial Characterization Using Heterogeneous Systems-on-chip for the SPACE environment",
+      "amount": "Principal Investigator, funded with 60,000€ by Madrid Regional Government",
+      "startDate": "2022-01",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "SPACECAR", 
+      "summary": "Caracterización de materiales mediante tecnología de microondas usando sistemas embebidos heterogéneos para el entorno espacial",
+      "amount": "Principal Investigator, funded with 60,500€ by Arquimea Aerospace Defence and Security",
+      "startDate": "2023-04",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "PTec-UC3M", 
+      "summary": "Plan de promoción de estudios de telecomunicaciones y atracción de talento UC3M",
+      "amount": "Principal Investigator in 2024, funded with 250,000€ by Spanish Ministry of Economy and Digital Transformation",
+      "startDate": "2021-11",
+      "endDate": "2024-12"
+    },
+    {
       "name": "FEM solutions for AIRBUS", 
       "summary": "Integration and Industrialization of FEM Solutions for Computational Electromagnetics",
       "amount": "Part of the research team, funded by Airbus Defence and Space",
       "startDate": "2022-05",
-      "endDate": "2023-05"
+      "endDate": "2024-12"
     }
   ],
   "languages": [

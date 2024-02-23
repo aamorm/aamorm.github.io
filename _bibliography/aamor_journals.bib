@@ -8,11 +8,11 @@
   ids = {amor2023mms},
   title = {A {{Rigorous Code Verification Process}} of the {{Domain Decomposition Method}} in a {{Finite Element Method For Electromagnetics}}},
   author = {Amor-Martin, Adrian and Garcia-Castillo, Luis E. and Toth, Laszlo L. and Floch, Oliver and Dyczij-Edlinger, Romanus},
-  date = {2023},
-  year = {2023},
+  date = {2024},
+  year = {2024},
   journal = {IEEE Transactions on Antennas and Propagation},
   journaltitle = {IEEE Transactions on Antennas and Propagation},
-  volume = {71},
+  volume = {72},
   publisher = {{IEEE}},
   abstract = {The finite element method (FEM) has benefited recently from the introduction of the domain decomposition method (DDM), especially to tackle large-scale problems. Many versions of DDM may be found in the literature, and almost none of them have used a rigorous approach to show the accuracy of the formulation. Here, we suggest the use of the method of manufactured solutions (MMS) to introduce DDM into a FEM code. This approach also allows us to debug the demanding coding process of the method. First, we introduce the mandatory operators used for DDM to construct second-order absorbing boundary conditions. Then, we use these results to show the correct implementation of DDM with basis functions up to fourth order for tetrahedra, triangular prisms, and hexahedra, obtaining the convergence rates predicted by the classic FEM theory. Finally, we illustrate how to use MMS to test different formulations, assessing the effect of using different spaces and orders for the arising ancillary variables.},
   html = {https://doi.org/10.1109/TAP.2023.3294001},
@@ -28,11 +28,11 @@
   ids = {toth2023um},
   title = {Hierarchical {{Universal Matrices}} for {{Curvilinear Tetrahedral H}}(Curl) {{Finite Elements}} with {{Inhomogeneous Material Properties}}},
   author = {Toth, Laszlo L. and Amor-Martin, Adrian and Dyczij-Edlinger, Romanus},
-  date = {2023},
-  year = {2023},
+  date = {2024},
+  year = {2024},
   journal = {IEEE Transactions on Antennas and Propagation},
   journaltitle = {IEEE Transactions on Antennas and Propagation},
-  volume = {71},
+  volume = {72},
   publisher = {{IEEE}},
   abstract = {A general method for calculating the mass and stiffness matrices of H(curl)-conforming finite elements is pro- posed. It applies to curvilinear geometries geometry and/or inhomogeneous materials, preserves the nullspace of the curl operator, and is computationally efficient. In the finite element integrals, the terms incorporating the effects of geometry and materials are expanded in a series of multivariate polynomials. As a result, the element matrices can always be integrated analytically by means of predefined universal matrices. The mapping from the reference element to the physical configuration is done performed by suitable forms of the Piola transformation the Piola transformations so that the resulting finite element bases are guaranteed to preserve the nullspace of the curl operator. A mathematical proof, including the curvilinear case, is included. The suggested approach features a representation limit: When the metric expansion is continued beyond a critical order, which is determined by the order of the finite element basis, the truncation error becomes zero. Hence, the number of universal matrices is bounded, and the sole source of error is the numerical calculation of the expansion coefficients for the metric terms. The method is validated by numerical examples, and its computational efficiency is demonstrated by a comparison to competing approaches.},
   html = {https://doi.org/10.1109/TAP.2023.3293652},
@@ -44,7 +44,6 @@
 }
 
 @article{castillo_cg23,
-  abbr={IEEE TAP},
 	title = {Meshing strategies for 3d geo-electromagnetic modeling in the presence of metallic infrastructure},
 	author = {Castillo-Reyes, Octavio and Rulff, Paula and Schankee Um, Evan and {Amor-Martin}, Adrian},
   date = {2023},
@@ -70,7 +69,7 @@
   year = {2023},
   journal = {IEEE Transactions on Antennas and Propagation},
   journaltitle = {IEEE Transactions on Antennas and Propagation},
-  volume = {Accepted, Oct 4},
+  volume = {71},
   publisher = {{IEEE}},
   abstract = {We follow a systematic approach to obtain mixed-order curl-conforming basis functions for the hexahedron that are compatible with basis functions for tetrahedra and triangular prisms previously published. The approach is mathematically sound since we obtain the functions as the dual basis with respect to properly discretized N\'ed\'elec degrees of freedom. Simple to use and well-conditioned bases without the need for added orthogonalization procedures are obtained. We provide simple closed-form expressions for second-order basis functions in a reference hexahedron in terms of integer coefficients and monomials. The expressions are ready to use as long as the appropriate geometric mappings are made. We apply the Method of Manufactured Solutions to a finite element double curl vector wave formulation for verification purposes; specifically, we make a study of the non-symmetrical structure of the corresponding tensor product finite element space. We also solve generalized eigenvalue problems for well-known cavities. We provide the open-source code for generating the coefficients, evaluating the basis functions, and computing the finite element matrices involved in some of the numerical solutions shown in the paper.},
   copyright = {All rights reserved},
@@ -106,6 +105,29 @@
   preview = {22_jos.png}
 }
 
+@article{belloch_js24,
+  title = {Urban {{Sound Classification}} Using {{Neural Networks}} on {{Embedded FPGAs}}},
+  author = {Belloch, Jose A. and Coronado, Raúl and Valls, Óscar and family=Amor, given=Rocío, prefix=del, useprefix=true and León, Germán and Naranjo, Valery and Dolz, Manuel and Amor-Martin, Adrian and Piñero, Gema},
+  date = {2022},
+  year = {2022},
+  journaltitle = {The Journal of Supercomputing},
+  journal = {The Journal of Supercomputing},
+  shortjournal = {J Supercomput},
+  volume = {Accepted},
+  pages = {7648--7664},
+  publisher = {{Springer US}},
+  issn = {1573-0484},
+  doi = {10.1007/s11227-022-04975-6},
+  url = {https://doi.org/10.1007/s11227-022-04975-6},
+  abstract = {The sound classification assisted by neural networks has led to high-accurate results. A high number of different applications uses this kind of sound classification, such as: control and monitoring of the number of vehicles on roads or identifying different types of animals in natural environments. While traditional acoustic processing applications have been developed taking into account high-throughput computing platforms equipped with expensive multichannel audio interfaces, the IoT paradigm demands the use of more flexible and energy-efficient systems. Although there exist software-based platforms devoted to implementing general neural networks, they are not optimized for sound classification leading to the waste of energy and computational resources. Here, we have used FPGAs to develop an ad-hoc system where only the required hardware for our application is synthesized, obtaining faster and cheaper (in terms of energy) circuits. The results show that our developments accelerates by a factor of 35 with respect to a software-based implementation on a Raspberry Pi.},
+  html = {https://doi.org/10.1007/s11227-022-04975-6},
+  jcr = {3.3 (2022)},
+  jcrcat = {Q2, 37/111 (Computer Science, Theory \& Methods)},
+  langid = {english},
+  selected = {false},
+  keywords = {CUDA,Finite elements,GPU,OpenMP,Parallel computing}
+}
+
 
 @article{falcon_epjc22,
   title = {Propagation of Light in the Presence of Gravity Generated by Static and Spherically Symmetric Curved Space-Times Using {{Maxwell}} Equations},
@@ -138,12 +160,12 @@
   month = mar,
   journal = {Physical Review D},
   journaltitle = {Physical Review D},
-  volume = {Accepted},
+  volume = {107},
   publisher = {{American Physical Society}},
   issn = {1434-6052},
-  doi = {10.1140/epjc/s10052-022-11124-z},
+  doi = {10.1103/PhysRevD.107.124042},
   abstract = {In this manuscript, we present an alternative method for calculating null geodesics in General Static Isotropic Metrics in General Relativity and Extended Theories of Gravity. By applying a conformal transformation, we are able to consider an analogue gravity model, where curvature is encoded in the dielectric and magnetic properties of a medium. In other words, we pass from curved to flat space-times, where instead of the Einstein field equations, the Maxwell equations are solved. Within this geometrical background, the photon geodesics are calculated. Then, given different black hole and wormhole metrics, we apply this method obtaining an excellent agreement with respect to the exact solutions in the original gravity framework by committing angular deviations below \$\$3\^\{\textbackslash circ \}\$\$. Finally, we provide the image of a Schwarzschild black hole surrounded by a thin accretion disk, and the apparent image of a Morris and Thorne-like WH wormhole within an angular discrepancy below \$\$4\^\{\textbackslash circ \}\$\$.},
-  html = {https://doi.org/10.1140/epjc/s10052-022-11124-z},
+  html = {https://doi.org/10.1103/PhysRevD.107.124042},
   jcr = {5.407 (2021)},
   jcrcat = {Q1, 7/29 (Physics, Particles \& Fields)},
   langid = {english},
@@ -172,7 +194,6 @@
   file = {C\:\\Users\\rial9\\Zotero\\storage\\4JCW25YM\\Castillo-Reyes et al. - 2022 - Tailored meshing for parallel 3D electromagnetic m.pdf;C\:\\Users\\rial9\\Zotero\\storage\\8BHZ4MAK\\S1877750322001818.html},
   preview = {22_jcs.png}
 }
-
 
 @article{castillo_cg22,
   title = {{{3D}} Magnetotelluric Modeling Using High-Order Tetrahedral {{N\'ed\'elec}} Elements on Massively Parallel Computing Platforms},
