@@ -114,7 +114,7 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 <details>
 <summary>PFC en Ingeniería de Telecomunicación</summary>
 <br>
-Cristina García Muñoz, 2014. 
+Cristina García Muñoz, octubre 2014. 
 <br>
 Publicación en URSI 2013. 
 <br>
@@ -127,7 +127,7 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor).
 <details>
 <summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
 <br>
-César Turienzo Forcada, 2023. 
+César Turienzo Forcada, julio 2023. 
 <br>
 Publicación en URSI 2023. 
 <br>
@@ -140,11 +140,11 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación</summary>
 <br>
-Antonio Rueda Escalona, 2023. 
+Antonio Rueda Escalona, julio 2023. 
 <br>
 Publicación en URSI 2023. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
+Calificación: SOBRESALIENTE 10 (matrícula de honor).
 <br><br>
 </details>
 
@@ -153,24 +153,20 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
-Pablo Iglesias García, 2023. 
+Pablo Iglesias García, septiembre 2023. 
 <br>
 Calificación: SOBRESALIENTE 9.1
 <br><br>
 </details>
-
-***
-
-## TFG/TFM en dirección
 
 ### Sonda de monitorización para redes privadas
 
 <details>
 <summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
 <br>
-Marta López Izquierdo, 2024. 
+Marta López Izquierdo, marzo 2024. 
 <br>
-Defensa prevista en febrero de 2024.
+Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 
@@ -179,11 +175,26 @@ Defensa prevista en febrero de 2024.
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
-Marta López Izquierdo, 2024. 
+Marta López Izquierdo, marzo 2024. 
 <br>
-Defensa prevista en febrero de 2024.
+Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
+
+### Implementación de un simulador 2D de elementos finitos en Julia
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Mario Núñez Domínguez, marzo 2024. 
+<br>
+Calificación: SOBRESALIENTE 9.3
+<br><br>
+</details>
+
+***
+
+## TFG/TFM en dirección
 
 ### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA
 
@@ -202,17 +213,6 @@ Defensa prevista en julio de 2024.
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
 Antonio Javier Cascales, 2024. 
-<br>
-Defensa prevista en febrero de 2024.
-<br><br>
-</details>
-
-### Implementación de un simulador 2D de elementos finitos en Julia
-
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Mario Núñez Domínguez, 2024. 
 <br>
 Defensa prevista en febrero de 2024.
 <br><br>
