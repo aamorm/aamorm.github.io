@@ -166,7 +166,7 @@ Calificación: SOBRESALIENTE 9.1
 <br>
 Marta López Izquierdo, marzo 2024. 
 <br>
-Calificación: SOBRESALIENTE 10
+Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
 <br><br>
 </details>
 
@@ -192,6 +192,17 @@ Calificación: SOBRESALIENTE 9.3
 <br><br>
 </details>
 
+### Desarrollo de una interfaz para Paraview desde Fortran
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Macarena Fernández Rodríguez, marzo 2024. 
+<br>
+Calificación: SOBRESALIENTE 10 (nominada matrícula de honor).
+<br><br>
+</details>
+
 ***
 
 ## TFG/TFM en dirección
@@ -213,17 +224,6 @@ Defensa prevista en julio de 2024.
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
 Antonio Javier Cascales, 2024. 
-<br>
-Defensa prevista en febrero de 2024.
-<br><br>
-</details>
-
-### Desarrollo de una interfaz para Paraview desde Fortran
-
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Macarena Fernández Rodríguez, 2024. 
 <br>
 Defensa prevista en febrero de 2024.
 <br><br>
