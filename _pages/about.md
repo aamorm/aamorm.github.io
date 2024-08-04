@@ -24,13 +24,13 @@ Born in Móstoles and raised in Toledo, Spain. I am an **assistant professor** a
 University Carlos III of Madrid (Spain) from February 2021.
 
 My research interests are **computational electromagnetics**, High Performance
-Computing (HPC) techniques, and antenna measurements. I am part of **22 indexed
+Computing (HPC) techniques, and antenna measurements. I am part of **23 indexed
 papers** and **45 conference papers**. I was a **postdoctoral researcher** at
 Saarland University from 2019 to 2020 with Prof. Dyczij-Edlinger. I have also
 been a **visiting scholar** at The Ohio State University hosted by Prof. Jin-Fa
 Lee for seven months, and at the University of Macau for two months. 
 
-Related to teaching, I have imparted more than 800 teaching hours in different
+Related to teaching, I have imparted more than 1000 teaching hours in different
 Telecommunication bachelor and master degrees in the last 10 years. You can find
 more details (in Spanish) **[here.](https://aamorm.github.io/teaching)**
 
