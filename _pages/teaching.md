@@ -254,6 +254,36 @@ Defensa prevista en julio de 2024.
 
 ## Cursos Impartidos
 
+### 2024/2025
+
+<details>
+<summary>Asignaturas</summary>
+<br>
+<h4> Campos Electromagnéticos </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Coordinador, profesor de grupo reducido y prácticas.
+<br><br>
+<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+Coordinador, profesor de grupo reducido.
+<br><br>
+<h4> Tecnologías de Alta Frecuencia </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Profesor de grupo reducido.
+<br><br>
+<h4> Dispositivos inalámbricos en IoT </h4> 
+<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+Coordinador, profesor de teoría y de prácticas.
+<br><br>
+<h4> Prácticas en empresa </h4> 
+<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+Coordinador.
+<br><br>
+<h4> Fundamentals on computational electromagnetism applied to communications I </h4>
+<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+Profesor de teoría.
+<br><br><br><br>
+</details>
+
 ### 2023/2024
 
 <details>
