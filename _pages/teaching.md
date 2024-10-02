@@ -260,6 +260,10 @@ Calificación: .
 <br><br>
 </details>
 
+***
+
+## TFG/TFM en dirección
+
 ### Diseño y fabricación de circuitos de adaptación para uso docente
 
 <details>
@@ -290,43 +294,6 @@ Calificación: .
 Alejandro Fernández-Vegue García-Caro, febrero 2025. 
 <br>
 Calificación: .
-<br><br>
-</details>
-
-***
-
-## TFG/TFM en dirección
-
-### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA
-
-<details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
-<br>
-Fernando Martín San Bruno, 2024. 
-<br>
-Defensa prevista en julio de 2024.
-<br><br>
-</details>
-
-### Creación e investigación de un escenario para la identificación de materiales en la banda de microondas
-
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Antonio Javier Cascales, 2024. 
-<br>
-Defensa prevista en febrero de 2024.
-<br><br>
-</details>
-
-### Design, simulation and development of improvements for material characterization technologies
-
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Carlos de Quinto Cáceres, 2024. 
-<br>
-Defensa prevista en julio de 2024.
 <br><br>
 </details>
 
