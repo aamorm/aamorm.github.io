@@ -170,7 +170,7 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
 <br><br>
 </details>
 
-### Comparativa entre las tecnologías LTE-M, LTE Cat 1 y LTE Cat 1 bis
+### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
 
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
@@ -188,6 +188,8 @@ Calificación: SOBRESALIENTE 9.5
 <br>
 Mario Núñez Domínguez, marzo 2024. 
 <br>
+Publicación en URSI 2024. 
+<br>
 Calificación: SOBRESALIENTE 9.3
 <br><br>
 </details>
@@ -200,6 +202,94 @@ Calificación: SOBRESALIENTE 9.3
 Macarena Fernández Rodríguez, marzo 2024. 
 <br>
 Calificación: SOBRESALIENTE 10 (nominada matrícula de honor).
+<br><br>
+</details>
+
+### Envío de datos por redes IoT para caracterización de materiales a través de microondas
+
+<details>
+<summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
+<br>
+Pablo Iglesias García, septiembre 2024. 
+<br>
+Calificación: NOTABLE 8.8
+<br><br>
+</details>
+
+### Implementación de un sensor para la identificación de materiales en la banda de microondas
+
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<br>
+Antonio Javier Ruiz Cascales, septiembre 2024. 
+<br>
+Calificación: NOTABLE 7.0
+<br><br>
+</details>
+
+### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
+
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
+<br>
+Fernando Martín San Bruno, septiembre 2024. 
+<br>
+Calificación: SOBRESALIENTE 9.4
+<br><br>
+</details>
+
+### Estudio comparativo de diferentes software de diferenciación automática
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Alberto López de Lerma del Olmo, septiembre 2024. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Design, simulation and development of improvements for material characterization technologies.
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Carlos de Quinto Cáceres, septiembre 2024. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Diseño y fabricación de circuitos de adaptación para uso docente
+
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<br>
+Luis María Casla Gárate, febrero 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Estudio de los efectos del modelado electromagnético sobre técnicas de inteligencia artificial
+
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<br>
+Lucía Diéguez González, febrero 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Alejandro Fernández-Vegue García-Caro, febrero 2025. 
+<br>
+Calificación: .
 <br><br>
 </details>
 

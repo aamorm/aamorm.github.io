@@ -91,7 +91,7 @@
       "startDate": "2021-04",
       "role": "Co-founder",
       "highlights": [
-        "Three editions",
+        "Four editions",
         "More than 100 engineers involved"
       ]
     },
@@ -99,7 +99,12 @@
       "organization": "Member of the URSI's National committee",
       "url": "https://ursi.es/comite-nacional/",
       "startDate": "2022-11",
-      "role": "Member, social networks and representative of young engineers"
+      "role": "Member, social networks and representative of young engineers. Created the LinkedIn channel from scratch to the current 552 followers"
+    },
+    {
+      "organization": "Treasurer of the Spanish Chapter of IEEE MTT and AP-S Sections",
+      "startDate": "2024-03",
+      "role": "Treasurer, elected on march 2024"
     }
   ],
   "selected projects": [
@@ -127,7 +132,7 @@
     {
       "name": "PTec-UC3M", 
       "summary": "Plan de promoción de estudios de telecomunicaciones y atracción de talento UC3M",
-      "amount": "Principal Investigator in 2024, funded with 250,000€ by Spanish Ministry of Economy and Digital Transformation",
+      "amount": "Principal Investigator, funded with 250,000€ by Spanish Ministry of Economy and Digital Transformation",
       "startDate": "2021-11",
       "endDate": "2024-12"
     },
