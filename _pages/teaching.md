@@ -245,7 +245,7 @@ Calificación: SOBRESALIENTE 9.4
 <br>
 Alberto López de Lerma del Olmo, septiembre 2024. 
 <br>
-Calificación: .
+Calificación: NOTABLE 8.2
 <br><br>
 </details>
 
@@ -256,7 +256,7 @@ Calificación: .
 <br>
 Carlos de Quinto Cáceres, septiembre 2024. 
 <br>
-Calificación: .
+Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 
