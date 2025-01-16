@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Visual record of my research CV
 permalink: /ryc/
+title: Visual record of my research CV
+description: Visual record of some indicators from my papers.
 nav: false
+nav_order: 7
 ---
 
 # Some visual data about my JCR papers
