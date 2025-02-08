@@ -27,3 +27,8 @@ _Yearly distribution of the number of published papers._
 
 ![Q](/assets/img/ryc/206Funding.png){: width="100%"}  
 _Annual secured funding as Principal Investigator (PI)._
+
+# BSc and MSc supervised theses
+
+![Q](/assets/img/ryc/314TFEDirigidos.png){: width="100%"}  
+_Annual secured funding as Principal Investigator (PI)._

@@ -91,15 +91,20 @@
       "startDate": "2021-04",
       "role": "Co-founder",
       "highlights": [
-        "Four editions",
-        "More than 100 engineers involved"
+        "Five editions",
+        "More than 100 engineers involved",
+        "55 mentees in the last edition"
       ]
     },
     {
       "organization": "Member of the URSI's National committee",
       "url": "https://ursi.es/comite-nacional/",
       "startDate": "2022-11",
-      "role": "Member, social networks and representative of young engineers. Created the LinkedIn channel from scratch to the current 552 followers"
+      "role": "Member, social networks and representative of young engineers",
+      "highlights": [ 
+        "Created the LinkedIn channel from scratch to the current 552 followers",
+        "Created the 3MT Award"
+      ]
     },
     {
       "organization": "Treasurer of the Spanish Chapter of IEEE MTT and AP-S Sections",
@@ -108,6 +113,13 @@
     }
   ],
   "selected projects": [
+    {
+      "name": "DISCO6G-CM", 
+      "summary": "Desarrollo e Integración de Sensores y COmunicaciones para servicios avanzados en 6G",
+      "amount": "Principal Investigator of IPMEC-UC3M, funded with 112,301€ by Madrid Regional Government in the call Tecnologías 2024",
+      "startDate": "2025-01",
+      "endDate": "2028-12"
+    },
     {
       "name": "STARRING-IMPLE", 
       "summary": "Spatial Audio and Array Processing for Industrial Applications and Digital Transformation: Efficient Implementations through Parallel and Approximate Computing",
