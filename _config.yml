@@ -82,7 +82,8 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 orcid_id: 0000-0002-6123-4324 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: F-9881-2016 # your ID on Publons
+publons_id: # your ID on Publons
+# publons_id: F-9881-2016 # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: Adrian_Amor-Martin # your profile on ResearchGate
