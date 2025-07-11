@@ -260,10 +260,6 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 
-***
-
-## TFG/TFM en dirección
-
 ### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
 
 <details>
@@ -271,40 +267,7 @@ Calificación: SOBRESALIENTE 9.7
 <br>
 Antonio Rueda Escalona, febrero 2025. 
 <br>
-Calificación: .
-<br><br>
-</details>
-
-### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
-
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Silvia Casino Colom, julio 2025. 
-<br>
-Calificación: .
-<br><br>
-</details>
-
-### Diseño y fabricación de circuitos de adaptación para uso docente
-
-<details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
-<br>
-Luis María Casla Gárate, julio 2025. 
-<br>
-Calificación: .
-<br><br>
-</details>
-
-### Estudio de los efectos del modelado electromagnético sobre técnicas de inteligencia artificial
-
-<details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
-<br>
-Lucía Diéguez González, julio 2025. 
-<br>
-Calificación: .
+Calificación: 9.5 SOBRESALIENTE.
 <br><br>
 </details>
 
@@ -315,20 +278,92 @@ Calificación: .
 <br>
 Alejandro Fernández-Vegue García-Caro, julio 2025. 
 <br>
-Calificación: .
+Calificación: 9.7 SOBRESALIENTE.
 <br><br>
 </details>
 
-### Diseño experimental de un array de antenas en banda Ka para comunicaciones con HAPS (High Altitude Platform Station)
+### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
 
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
 Rodrigo Ruiz Bustos, julio 2025. 
 <br>
+Calificación: 8.6 NOTABLE.
+<br><br>
+</details>
+
+### Diseño experimental de una antena para generación de imagen por microondas
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Miguel Ángel Hurtado Manchado, julio 2025. 
+<br>
+Calificación: 8.6 NOTABLE.
+<br><br>
+</details>
+
+***
+
+## TFG/TFM en dirección
+
+### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
+
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<br>
+Silvia Casino Colom, septiembre 2025. 
+<br>
 Calificación: .
 <br><br>
 </details>
+
+### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
+
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
+<br>
+Rubén Ribes Serrano, julio 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Diseño y fabricación de circuitos de adaptación para uso docente
+
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<br>
+Luis María Casla Gárate, septiembre 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Refactorización de un código de elementos finitos en Julia
+
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Alberto Trufero Martínez, septiembre 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+### Estudio de los efectos del modelado electromagnético sobre técnicas de inteligencia artificial
+
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<br>
+Lucía Diéguez González, septiembre 2025. 
+<br>
+Calificación: .
+<br><br>
+</details>
+
+
 
 ***
 

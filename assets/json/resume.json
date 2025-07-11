@@ -1,18 +1,26 @@
 {
   "basics": {
     "name": "Adrián Amor Martín",
-    "position": "Assistant Professor",
+    "position": "Associate Professor",
     "image": "",
     "phone": "91-6248378",
-    "expertise": "Computational Electromagnetics, High Performance Computing, antenna measurements"
+    "expertise": "Computational Electromagnetics, High Performance and Heterogeneous Computing, Antenna Measurements"
   },
   "work": [
+    {
+      "name": "University Carlos III of Madrid",
+      "position": "Associate Professor",
+      "url": "https://www.uc3m.es",
+      "startDate": "2025-03-04",
+      "endDate": "",
+      "summary": "Research and teaching."
+    },
     {
       "name": "University Carlos III of Madrid",
       "position": "Assistant Professor",
       "url": "https://www.uc3m.es",
       "startDate": "2021-02-01",
-      "endDate": "",
+      "endDate": "2025-03-03",
       "summary": "Research and teaching."
     },
     {
@@ -76,9 +84,19 @@
   "skills": [],
   "participation in organizations": [
     {
+      "organization": "GT Ciencia @ COIT",
+      "url": "https://www.coit.es/grupos-de-trabajo/ciencia",
+      "startDate": "2025-04",
+      "role": "Coordinator",
+      "highlights": [
+        "Promoting collaboration between academia and industry"
+      ]
+    },
+    {
       "organization": "GT Jóvenes @ COIT",
       "url": "https://www.coit.es/grupos-de-trabajo/gt-jovenes",
       "startDate": "2020-10",
+      "endDate": "2025-04",
       "role": "Coordinator",
       "highlights": [
         "Collaboration with CEET, EYE",

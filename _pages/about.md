@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Born in Móstoles and raised in Toledo, Spain. I am an **assistant professor** at
-University Carlos III of Madrid (Spain) from February 2021.
+Born in Móstoles and raised in Toledo, Spain. I am an **associate professor** at
+University Carlos III of Madrid (Spain) from March 2025.
 
 My research interests are **computational electromagnetics**, High Performance
 Computing (HPC) techniques, and antenna measurements. I am part of **26 indexed
