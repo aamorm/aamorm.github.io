@@ -118,7 +118,7 @@ Cristina García Muñoz, octubre 2014.
 <br>
 Publicación en URSI 2013. 
 <br>
-Calificación: SOBRESALIENTE 10 (matrícula de honor).
+Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 
@@ -131,7 +131,7 @@ César Turienzo Forcada, julio 2023.
 <br>
 Publicación en URSI 2023. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
+Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 
@@ -144,7 +144,7 @@ Antonio Rueda Escalona, julio 2023.
 <br>
 Publicación en URSI 2023. 
 <br>
-Calificación: SOBRESALIENTE 10 (matrícula de honor).
+Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 
@@ -166,7 +166,7 @@ Calificación: SOBRESALIENTE 9.1
 <br>
 Marta López Izquierdo, marzo 2024. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominado matrícula de honor).
+Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 <br><br>
 </details>
 
@@ -201,7 +201,7 @@ Calificación: SOBRESALIENTE 9.3
 <br>
 Macarena Fernández Rodríguez, marzo 2024. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominada matrícula de honor).
+Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 <br><br>
 </details>
 
@@ -267,7 +267,7 @@ Calificación: SOBRESALIENTE 9.7
 <br>
 Antonio Rueda Escalona, febrero 2025. 
 <br>
-Calificación: 9.5 SOBRESALIENTE.
+Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 
@@ -278,7 +278,7 @@ Calificación: 9.5 SOBRESALIENTE.
 <br>
 Alejandro Fernández-Vegue García-Caro, julio 2025. 
 <br>
-Calificación: 9.7 SOBRESALIENTE.
+Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
 
@@ -289,7 +289,7 @@ Calificación: 9.7 SOBRESALIENTE.
 <br>
 Rodrigo Ruiz Bustos, julio 2025. 
 <br>
-Calificación: 8.6 NOTABLE.
+Calificación: NOTABLE 8.6 
 <br><br>
 </details>
 
@@ -300,13 +300,9 @@ Calificación: 8.6 NOTABLE.
 <br>
 Miguel Ángel Hurtado Manchado, julio 2025. 
 <br>
-Calificación: 8.6 NOTABLE.
+Calificación: NOTABLE 8.6 
 <br><br>
 </details>
-
-***
-
-## TFG/TFM en dirección
 
 ### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
 
@@ -315,7 +311,7 @@ Calificación: 8.6 NOTABLE.
 <br>
 Silvia Casino Colom, septiembre 2025. 
 <br>
-Calificación: .
+Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 
@@ -326,18 +322,7 @@ Calificación: .
 <br>
 Rubén Ribes Serrano, julio 2025. 
 <br>
-Calificación: .
-<br><br>
-</details>
-
-### Diseño y fabricación de circuitos de adaptación para uso docente
-
-<details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
-<br>
-Luis María Casla Gárate, septiembre 2025. 
-<br>
-Calificación: .
+Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 
@@ -348,21 +333,36 @@ Calificación: .
 <br>
 Alberto Trufero Martínez, septiembre 2025. 
 <br>
-Calificación: .
+Calificación: NOTABLE 8.5 
 <br><br>
 </details>
 
-### Estudio de los efectos del modelado electromagnético sobre técnicas de inteligencia artificial
+### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
 
 <details>
 <summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
 <br>
 Lucía Diéguez González, septiembre 2025. 
 <br>
-Calificación: .
+Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
 
+***
+
+## TFG/TFM en dirección
+
+
+### Diseño y fabricación de circuitos de adaptación para uso docente
+
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<br>
+Luis María Casla Gárate, septiembre 2025. 
+<br>
+Calificación: ---
+<br><br>
+</details>
 
 
 ***
@@ -378,6 +378,32 @@ Calificación: .
 ***
 
 ## Cursos Impartidos
+
+### 2025/2026
+
+<details>
+<summary>Asignaturas</summary>
+<br>
+<h4> Campos Electromagnéticos </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Coordinador, profesor de grupo reducido y prácticas.
+<br><br>
+<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+Coordinador, profesor de grupo reducido.
+<br><br>
+<h4> Tecnologías de Alta Frecuencia </h4> 
+<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+Profesor de grupo reducido.
+<br><br>
+<h4> Dispositivos inalámbricos en IoT </h4> 
+<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+Coordinador, profesor de teoría y de prácticas.
+<br><br>
+<h4> Prácticas en empresa </h4> 
+<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+Coordinador.
+<br><br><br><br>
+</details>
 
 ### 2024/2025
 
