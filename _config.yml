@@ -75,15 +75,15 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: aamorm # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: 
-# scholar_userid: 4-R_tKQAAAAJ # your Google Scholar ID
+# scholar_userid: 
+scholar_userid: 4-R_tKQAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-6123-4324 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
-# publons_id: F-9881-2016 # your ID on Publons
+# publons_id: # your ID on Publons
+publons_id: F-9881-2016 # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: Adrian_Amor-Martin # your profile on ResearchGate

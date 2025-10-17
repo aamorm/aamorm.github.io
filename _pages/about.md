@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Radiofrequency, Microwave, Electromagnetics and Antennas Group</p>
-    <p>University Carlos III of Madrid</p>
-    <p>4.3.B12</p>
-    <p>Leganés, Spain</p>
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
