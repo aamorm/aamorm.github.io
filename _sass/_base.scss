@@ -719,6 +719,60 @@ footer.sticky-bottom {
       }
     }
   }
+
+  .pub-toolbar {
+    display: flex;
+    gap: .5rem;
+    justify-content: flex-end;
+    margin: .5rem 0 1rem;
+  }
+
+  .btn-small {
+    font: inherit;
+    line-height: 1;
+    padding: .4rem .6rem;
+    border: 1px solid var(--global-divider-color);
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color);
+    border-radius: .35rem;
+    cursor: pointer;
+  }
+  .btn-small:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
+  /* Estado "pressed" (cuando todo está expandido) */
+  #pub-expand-all[aria-pressed="true"] {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
+
+  /* estilo normal */
+  details.pub-year { border-top: 1px solid var(--global-divider-color); padding-top: .5rem; }
+  details.pub-section { border-top: 1px solid var(--global-divider-color); padding-top: .5rem; }
+  summary { cursor: pointer; list-style: none; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "▸"; margin-left: .5rem; transition: transform .2s; display: inline-block; }
+  details[open] > summary::after { transform: rotate(90deg); }
+
+  /* === Modo “todo expandido”: no mostrar cabeceras de año, solo separadores + listas === */
+  &.all-expanded {
+    /* oculta títulos de año */
+    details.pub-year > summary { display: none; }
+    /* evita padding extra al desaparecer el summary */
+    details.pub-year { padding-top: .25rem; }
+
+    /* los de sección (JCR journals / conferences) se ven como título, sin chevron ni mano */
+    details.pub-section > summary { cursor: default; }
+    &.all-expanded details.pub-section > summary::after { content: none; }
+
+    /* (opcional) si también quieres ocultar los summary de sección, descomenta: */
+    /* details.pub-section > summary { display: none; } */
+  }
+
+  /* (opcional) oculta el h2 duplicado que imprime jekyll-scholar */
+  .bibwrap > h2.bibliography { display: none; }
+
 }
 
 // Rouge Color Customization
