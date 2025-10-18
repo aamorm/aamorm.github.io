@@ -196,6 +196,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+  parse_block_html: true
   syntax_highlighter_opts:
     css_class: 'highlight'
     span:
@@ -203,7 +204,7 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
-  parse_block_html: true
+  
 
 # Includes & excludes
 include: ['_pages']
