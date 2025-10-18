@@ -23,7 +23,7 @@ nav_order: 1
 {:/}
 {% for y in page.years %}
 {::nomarkdown}
-  <details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
+  <details class="pub-year" data-year="{{ y }}"{% if forloop.index <= 2 %} open{% endif %}>
     <summary><span class="year">{{ y }}</span></summary>
   <div class="bibwrap">
 {:/}
@@ -43,7 +43,7 @@ nav_order: 1
 {:/}
 {% for y in page.conference_years %}
 {::nomarkdown}
-  <details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
+  <details class="pub-year" data-year="{{ y }}"{% if forloop.index <= 2 %} open{% endif %}>
     <summary><span class="year">{{ y }}</span></summary>
   <div class="bibwrap">
 {:/}

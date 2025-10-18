@@ -747,30 +747,34 @@ footer.sticky-bottom {
     color: var(--global-theme-color);
   }
 
-  /* estilo normal */
-  details.pub-year { border-top: 1px solid var(--global-divider-color); padding-top: .5rem; }
-  details.pub-section { border-top: 1px solid var(--global-divider-color); padding-top: .5rem; }
-  summary { cursor: pointer; list-style: none; }
-  summary::-webkit-details-marker { display: none; }
-  summary::after { content: "▸"; margin-left: .5rem; transition: transform .2s; display: inline-block; }
-  details[open] > summary::after { transform: rotate(90deg); }
-
-  /* === Modo “todo expandido”: no mostrar cabeceras de año, solo separadores + listas === */
-  &.all-expanded {
-    /* oculta títulos de año */
-    details.pub-year > summary { display: none; }
-    /* evita padding extra al desaparecer el summary */
-    details.pub-year { padding-top: .25rem; }
-
-    /* los de sección (JCR journals / conferences) se ven como título, sin chevron ni mano */
-    details.pub-section > summary { cursor: default; }
-    &.all-expanded details.pub-section > summary::after { content: none; }
-
-    /* (opcional) si también quieres ocultar los summary de sección, descomenta: */
-    /* details.pub-section > summary { display: none; } */
+  /* línea divisoria normal */
+  details.pub-year {
+    position: relative;
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: .5rem;
   }
 
-  /* (opcional) oculta el h2 duplicado que imprime jekyll-scholar */
+  /* Modo “todo expandido”: ocultas summary, pero mostramos el año a la derecha sobre la línea */
+  &.all-expanded {
+    details.pub-year > summary { display: none; }
+
+    details.pub-year::before {
+      content: attr(data-year);
+      position: absolute;
+      right: 0;                 /* pegado al borde derecho */
+      top: -0.9rem;             /* súbelo para que “asiente” sobre la línea */
+      font-weight: 700;
+      font-size: 1.25rem;       /* ajusta el tamaño del “año grande” */
+      line-height: 1;
+      color: var(--global-text-color);
+      background: var(--global-bg-color); /* tapa la línea por debajo para mejor lectura */
+      padding-left: .5rem;
+      /* opcional: si quieres más contraste, usa el gris fuerte que definiste */
+      /* color: var(--pub-divider-strong, var(--global-text-color)); */
+    }
+  }
+
+  /* Evita el año duplicado que mete jekyll-scholar */
   .bibwrap > h2.bibliography { display: none; }
 
 }
