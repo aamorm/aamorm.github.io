@@ -10,9 +10,17 @@ nav_order: 2
 <div class="teaching">
 
 ## Oferta de TFG/TFM
+{::nomarkdown}
+<div class="section" id="sec-oferta">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
 
 ### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -109,9 +117,22 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 
 ***
 
+</div>
+{:/}
+
 ## TFG/TFM dirigidos
 
+{::nomarkdown}
+<div class="section" id="sec-dirigidos">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
+
 ### Plataforma web de simulación remota en un cluster de computación científica
+
+{::nomarkdown}
 
 <details>
 <summary>PFC en Ingeniería de Telecomunicación</summary>
@@ -379,10 +400,22 @@ Calificación: ---
 
 ***
 
+</div>
+{:/}
+
 ## Cursos Impartidos
 
 ### 2025/2026
 
+{::nomarkdown}
+<div class="section" id="sec-cursos">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
+
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -551,10 +584,13 @@ Profesor de teoría.
 </details>
 
 </div>
+{:/}
+
+</div>
 
 {::nomarkdown}
 <style>
-/* Toolbar y comportamiento por sección */
+/* Toolbar y botones */
 .teaching .section-toolbar{
   display:flex; gap:.5rem; justify-content:flex-end; margin:.5rem 0 1rem;
 }
@@ -568,78 +604,45 @@ Profesor de teoría.
 .teaching .btn-small:hover{
   border-color:var(--global-theme-color); color:var(--global-theme-color);
 }
-.teaching .section.all-expanded .btn-expand{ border-color:var(--global-theme-color); color:var(--global-theme-color); }
+.teaching .section.all-expanded .btn-expand{
+  border-color:var(--global-theme-color); color:var(--global-theme-color);
+}
 
-/* Estilo de details + ocultar summaries cuando todo está expandido en esa sección */
+/* Details y comportamiento “todo expandido” por sección */
 .teaching details{ border-top:1px solid var(--global-divider-color); padding-top:.5rem; }
 .teaching summary{ cursor:pointer; list-style:none; }
 .teaching summary::-webkit-details-marker{ display:none; }
-.teaching summary::after{
-  content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block;
-}
+.teaching summary::after{ content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block; }
 .teaching details[open] > summary::after{ transform:rotate(90deg); }
 
-/* En modo "todo expandido" de UNA sección: ocultamos los summaries de esa sección */
+/* En modo all-expanded de UNA sección, escondemos summaries */
 .teaching .section.all-expanded details > summary{ display:none; }
 .teaching .section.all-expanded details{ padding-top:.25rem; }
-
-/* Separadores/títulos */
-.teaching h2{ position:relative; margin-top:2rem; }
-.teaching .section{ margin-bottom:2rem; }
 </style>
 {:/}
 
 {::nomarkdown}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  const root = document.querySelector('.teaching');
-  if (!root) return;
-
-  // 1) Agrupar automáticamente cada sección desde un H2 hasta el siguiente H2
-  const h2s = Array.from(root.querySelectorAll(':scope > h2'));
-  h2s.forEach((h2, idx) => {
-    // crear wrapper .section
-    const section = document.createElement('div');
-    section.className = 'section';
-    h2.before(section);
-    section.appendChild(h2);
-
-    // mover nodos hasta el próximo H2 (o fin)
-    let next = section.nextSibling;
-    while (next && !(next.nodeType === 1 && next.tagName === 'H2')) {
-      const moving = next;
-      next = next.nextSibling;
-      section.appendChild(moving);
-    }
-
-    // 2) Insertar toolbar con Expand/Collapse para ESA sección
-    const toolbar = document.createElement('div');
-    toolbar.className = 'section-toolbar';
-    toolbar.innerHTML = `
-      <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
-      <button type="button" class="btn-small btn-collapse">Collapse all</button>
-    `;
-    h2.after(toolbar);
-
-    const btnExpand = toolbar.querySelector('.btn-expand');
-    const btnCollapse = toolbar.querySelector('.btn-collapse');
-
-    const detailsInSection = () => Array.from(section.querySelectorAll('details'));
+  const sections = document.querySelectorAll('.teaching .section');
+  sections.forEach(section => {
+    const btnExpand   = section.querySelector('.btn-expand');
+    const btnCollapse = section.querySelector('.btn-collapse');
+    const detailsIn   = () => Array.from(section.querySelectorAll('details'));
 
     function setAll(open){
-      detailsInSection().forEach(d => d.open = !!open);
+      detailsIn().forEach(d => d.open = !!open);
       updateState();
     }
     function updateState(){
-      const det = detailsInSection();
-      const openCount = det.filter(d => d.open).length;
-      const allOpen = det.length > 0 && openCount === det.length;
-      btnExpand.setAttribute('aria-pressed', allOpen ? 'true' : 'false');
+      const det = detailsIn();
+      const allOpen = det.length > 0 && det.every(d => d.open);
+      btnExpand?.setAttribute('aria-pressed', allOpen ? 'true' : 'false');
       section.classList.toggle('all-expanded', allOpen);
     }
 
-    btnExpand.addEventListener('click', () => setAll(true));
-    btnCollapse.addEventListener('click', () => setAll(false));
+    btnExpand?.addEventListener('click', () => setAll(true));
+    btnCollapse?.addEventListener('click', () => setAll(false));
 
     section.addEventListener('toggle', (e) => {
       if (e.target.tagName === 'DETAILS') updateState();
