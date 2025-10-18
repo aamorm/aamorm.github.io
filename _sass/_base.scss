@@ -545,10 +545,8 @@ footer.sticky-bottom {
   }
 }
 
-/* Icono junto al nombre en la portada */
-.home main h1:first-of-type::after,
-.homepage main h1:first-of-type::after,
-.landing main h1:first-of-type::after {
+/* Icono junto al nombre del hero (usando tu selector exacto) */
+body > div.container.mt-5 > div > header > h1::after {
   content: "";
   display: inline-block;
   width: 1em;
@@ -556,27 +554,19 @@ footer.sticky-bottom {
   margin-left: .35rem;
   vertical-align: -0.15em;
 
-  /* SVG que hereda el color del texto */
+  /* Preferido: SVG que hereda el color del texto */
   background-color: currentColor;
   -webkit-mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
           mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
 
-  /* Si prefieres background-image en lugar de mask, comenta lo de arriba y descomenta:
+  /* Fallback (si el mask no se ve en tu navegador):
   background-image: url("/assets/img/favicons/favicon.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  background-color: transparent; // quita el color si usas background-image
   */
 }
-
-/* Por si quedara un <img> inline en el H1, fuerza tamaño seguro (opcional) */
-.home main h1:first-of-type img,
-.homepage main h1:first-of-type img,
-.landing main h1:first-of-type img {
-  width: 1em; height: 1em; vertical-align: -0.15em; margin-left: .35rem;
-}
-
-
 
 .teaching {
   /* Toolbar y botones (solo teaching) */

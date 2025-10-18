@@ -143,7 +143,7 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
   </div>
 {:/}
 
-### Plataforma web de simulación remota en un cluster de computación científica
+##### Plataforma web de simulación remota en un cluster de computación científica
 
 {::nomarkdown}
 <details>
@@ -158,7 +158,7 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 </details>
 {:/}
 
-### Clasificación y detección de contaminantes en datos generados por microondas
+##### Clasificación y detección de contaminantes en datos generados por microondas
 
 {::nomarkdown}
 <details>
@@ -173,7 +173,7 @@ Calificación: SOBRESALIENTE 10
 </details>
 {:/}
 
-### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
+##### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
 
 {::nomarkdown}
 <details>
@@ -188,7 +188,7 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 </details>
 {:/}
 
-### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
+##### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
 <details>
@@ -201,7 +201,7 @@ Calificación: SOBRESALIENTE 9.1
 </details>
 {:/}
 
-### Sonda de monitorización para redes privadas
+##### Sonda de monitorización para redes privadas
 
 {::nomarkdown}
 <details>
@@ -214,7 +214,7 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 </details>
 {:/}
 
-### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
+##### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
 
 {::nomarkdown}
 <details>
@@ -227,7 +227,7 @@ Calificación: SOBRESALIENTE 9.5
 </details>
 {:/}
 
-### Implementación de un simulador 2D de elementos finitos en Julia
+##### Implementación de un simulador 2D de elementos finitos en Julia
 
 {::nomarkdown}
 <details>
@@ -242,7 +242,7 @@ Calificación: SOBRESALIENTE 9.3
 </details>
 {:/}
 
-### Desarrollo de una interfaz para Paraview desde Fortran
+##### Desarrollo de una interfaz para Paraview desde Fortran
 
 {::nomarkdown}
 <details>
@@ -255,7 +255,7 @@ Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 </details>
 {:/}
 
-### Envío de datos por redes IoT para caracterización de materiales a través de microondas
+##### Envío de datos por redes IoT para caracterización de materiales a través de microondas
 
 {::nomarkdown}
 <details>
@@ -268,7 +268,7 @@ Calificación: NOTABLE 8.8
 </details>
 {:/}
 
-### Implementación de un sensor para la identificación de materiales en la banda de microondas
+##### Implementación de un sensor para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
 <details>
@@ -281,7 +281,7 @@ Calificación: NOTABLE 7.0
 </details>
 {:/}
 
-### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
+##### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
 
 {::nomarkdown}
 <details>
@@ -294,7 +294,7 @@ Calificación: SOBRESALIENTE 9.4
 </details>
 {:/}
 
-### Estudio comparativo de diferentes software de diferenciación automática
+##### Estudio comparativo de diferentes software de diferenciación automática
 
 {::nomarkdown}
 <details>
@@ -307,7 +307,7 @@ Calificación: NOTABLE 8.2
 </details>
 {:/}
 
-### Design, simulation and development of improvements for material characterization technologies.
+##### Design, simulation and development of improvements for material characterization technologies.
 
 {::nomarkdown}
 <details>
@@ -320,7 +320,7 @@ Calificación: SOBRESALIENTE 9.7
 </details>
 {:/}
 
-### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
+##### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
 
 {::nomarkdown}
 <details>
@@ -333,7 +333,7 @@ Calificación: SOBRESALIENTE 9.5
 </details>
 {:/}
 
-### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
+##### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
 
 {::nomarkdown}
 <details>
@@ -346,7 +346,7 @@ Calificación: SOBRESALIENTE 9.7
 </details>
 {:/}
 
-### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
+##### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
 
 {::nomarkdown}
 <details>
@@ -359,7 +359,7 @@ Calificación: NOTABLE 8.6
 </details>
 {:/}
 
-### Diseño experimental de una antena para generación de imagen por microondas
+##### Diseño experimental de una antena para generación de imagen por microondas
 
 {::nomarkdown}
 <details>
@@ -372,7 +372,7 @@ Calificación: NOTABLE 8.6
 </details>
 {:/}
 
-### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
+##### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
 
 {::nomarkdown}
 <details>
@@ -385,7 +385,7 @@ Calificación: SOBRESALIENTE 10
 </details>
 {:/}
 
-### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
+##### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
 
 {::nomarkdown}
 <details>
@@ -398,7 +398,7 @@ Calificación: SOBRESALIENTE 9.5
 </details>
 {:/}
 
-### Refactorización de un código de elementos finitos en Julia
+##### Refactorización de un código de elementos finitos en Julia
 
 {::nomarkdown}
 <details>
@@ -411,7 +411,7 @@ Calificación: NOTABLE 8.5
 </details>
 {:/}
 
-### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
+##### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
 
 {::nomarkdown}
 <details>
@@ -436,7 +436,7 @@ Calificación: SOBRESALIENTE 9.7
   </div>
 {:/}
 
-### Diseño y fabricación de circuitos de adaptación para uso docente
+##### Diseño y fabricación de circuitos de adaptación para uso docente
 
 {::nomarkdown}
 <details>
@@ -453,15 +453,13 @@ Calificación: ---
 
 ## Cursos en el extranjero
 
-### Computational Electromagnetics: a review and future developments for finite element methods
+##### Computational Electromagnetics: a review and future developments for finite element methods
 10 horas en el Politecnico di Torino en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
-### Métodos numéricos en el electromagnetismo computacional
+##### Métodos numéricos en el electromagnetismo computacional
 8 horas en la Pontificia Universidad Católica del Perú en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
 ## Cursos Impartidos
-
-### 2025/2026
 
 {::nomarkdown}
 <div class="section" id="sec-cursos">
@@ -471,6 +469,8 @@ Calificación: ---
   </div>
 {:/}
 
+##### 2025/2026
+
 {::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
@@ -497,7 +497,7 @@ Coordinador.
 </details>
 {:/}
 
-### 2024/2025
+##### 2024/2025
 
 {::nomarkdown}
 <details>
@@ -529,7 +529,7 @@ Profesor de teoría.
 </details>
 {:/}
 
-### 2023/2024
+##### 2023/2024
 
 {::nomarkdown}
 <details>
@@ -557,7 +557,7 @@ Profesor de teoría.
 </details>
 {:/}
 
-### 2022/2023
+##### 2022/2023
 
 {::nomarkdown}
 <details>
@@ -589,7 +589,7 @@ Profesor de teoría.
 </details>
 {:/}
 
-### 2021/2022
+##### 2021/2022
 
 {::nomarkdown}
 <details>
@@ -625,7 +625,7 @@ Profesor de teoría.
 </details>
 {:/}
 
-### 2020/2021
+##### 2020/2021
 
 {::nomarkdown}
 <details>
