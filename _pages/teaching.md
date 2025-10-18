@@ -18,7 +18,7 @@ nav_order: 2
   </div>
 {:/}
 
-### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
+##### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
 
 {::nomarkdown}
 <details>
@@ -32,7 +32,7 @@ En esta temática hay varias opciones disponibles (regularización del problema,
 </details>
 {:/}
 
-### Desarrollo de técnicas de IA para identificación de agua o petróleo en terreno desconocido (colaboración con el BSC)
+##### Desarrollo de técnicas de IA para identificación de agua o petróleo en terreno desconocido (colaboración con el BSC)
 
 {::nomarkdown}
 <details>
@@ -45,7 +45,7 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 </details>
 {:/}
 
-### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
+##### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
 
 {::nomarkdown}
 <details>
@@ -60,7 +60,7 @@ El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuá
 </details>
 {:/}
 
-### Diseño de pruebas unitarias para una suite de elementos finitos
+##### Diseño de pruebas unitarias para una suite de elementos finitos
 
 {::nomarkdown}
 <details>
@@ -80,7 +80,7 @@ usará Fortran, MATLAB, Python o Julia.
 </details>
 {:/}
 
-### Procesado en Python de medidas de campo cercano de un sistema de antenas
+##### Procesado en Python de medidas de campo cercano de un sistema de antenas
 
 {::nomarkdown}
 <details>
@@ -93,7 +93,7 @@ En la actualidad, se dispone de un software "legacy" escrito en Octave que gener
 </details>
 {:/}
 
-### Orientación de mallas semi estructuradas en electromagnetismo
+##### Orientación de mallas semi estructuradas en electromagnetismo
 
 {::nomarkdown}
 <details>
@@ -106,7 +106,7 @@ En este proyecto, el alumno tendrá disponible un código de MATLAB que orienta 
 </details>
 {:/}
 
-### Alimentación uniforme de diferentes malladores para un software de elementos finitos
+##### Alimentación uniforme de diferentes malladores para un software de elementos finitos
 
 {::nomarkdown}
 <details>
@@ -119,7 +119,7 @@ La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D
 </details>
 {:/}
 
-### Definición y fabricación de circuitos de alta frecuencia para docencia presencial en laboratorio
+##### Definición y fabricación de circuitos de alta frecuencia para docencia presencial en laboratorio
 
 {::nomarkdown}
 <details>
@@ -131,9 +131,6 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 {:/}
 
 {::nomarkdown}</div>{:/}
-
-***
-
 
 
 ## TFG/TFM dirigidos
@@ -149,7 +146,6 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 ### Plataforma web de simulación remota en un cluster de computación científica
 
 {::nomarkdown}
-
 <details>
 <summary>PFC en Ingeniería de Telecomunicación</summary>
 <br>
@@ -160,9 +156,11 @@ Publicación en URSI 2013.
 Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
+{:/}
 
 ### Clasificación y detección de contaminantes en datos generados por microondas
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
 <br>
@@ -173,9 +171,11 @@ Publicación en URSI 2023.
 Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
+{:/}
 
 ### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación</summary>
 <br>
@@ -186,9 +186,11 @@ Publicación en URSI 2023.
 Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
+{:/}
 
 ### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
@@ -197,9 +199,11 @@ Pablo Iglesias García, septiembre 2023.
 Calificación: SOBRESALIENTE 9.1
 <br><br>
 </details>
+{:/}
 
 ### Sonda de monitorización para redes privadas
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
 <br>
@@ -208,9 +212,11 @@ Marta López Izquierdo, marzo 2024.
 Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 <br><br>
 </details>
+{:/}
 
 ### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
@@ -219,9 +225,11 @@ Marta López Izquierdo, marzo 2024.
 Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
+{:/}
 
 ### Implementación de un simulador 2D de elementos finitos en Julia
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -232,9 +240,11 @@ Publicación en URSI 2024.
 Calificación: SOBRESALIENTE 9.3
 <br><br>
 </details>
+{:/}
 
 ### Desarrollo de una interfaz para Paraview desde Fortran
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -243,9 +253,11 @@ Macarena Fernández Rodríguez, marzo 2024.
 Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 <br><br>
 </details>
+{:/}
 
 ### Envío de datos por redes IoT para caracterización de materiales a través de microondas
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
 <br>
@@ -254,9 +266,11 @@ Pablo Iglesias García, septiembre 2024.
 Calificación: NOTABLE 8.8
 <br><br>
 </details>
+{:/}
 
 ### Implementación de un sensor para la identificación de materiales en la banda de microondas
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
@@ -265,9 +279,11 @@ Antonio Javier Ruiz Cascales, septiembre 2024.
 Calificación: NOTABLE 7.0
 <br><br>
 </details>
+{:/}
 
 ### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
 <br>
@@ -276,9 +292,11 @@ Fernando Martín San Bruno, septiembre 2024.
 Calificación: SOBRESALIENTE 9.4
 <br><br>
 </details>
+{:/}
 
 ### Estudio comparativo de diferentes software de diferenciación automática
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -287,9 +305,11 @@ Alberto López de Lerma del Olmo, septiembre 2024.
 Calificación: NOTABLE 8.2
 <br><br>
 </details>
+{:/}
 
 ### Design, simulation and development of improvements for material characterization technologies.
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -298,9 +318,11 @@ Carlos de Quinto Cáceres, septiembre 2024.
 Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
+{:/}
 
 ### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
@@ -309,9 +331,11 @@ Antonio Rueda Escalona, febrero 2025.
 Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
+{:/}
 
 ### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -320,9 +344,11 @@ Alejandro Fernández-Vegue García-Caro, julio 2025.
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
+{:/}
 
 ### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -331,9 +357,11 @@ Rodrigo Ruiz Bustos, julio 2025.
 Calificación: NOTABLE 8.6 
 <br><br>
 </details>
+{:/}
 
 ### Diseño experimental de una antena para generación de imagen por microondas
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -342,9 +370,11 @@ Miguel Ángel Hurtado Manchado, julio 2025.
 Calificación: NOTABLE 8.6 
 <br><br>
 </details>
+{:/}
 
 ### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
 <br>
@@ -353,9 +383,11 @@ Silvia Casino Colom, septiembre 2025.
 Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
+{:/}
 
 ### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
 
+{::nomarkdown}
 <details>
 <summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
 <br>
@@ -364,9 +396,11 @@ Rubén Ribes Serrano, julio 2025.
 Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
+{:/}
 
 ### Refactorización de un código de elementos finitos en Julia
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
@@ -375,9 +409,11 @@ Alberto Trufero Martínez, septiembre 2025.
 Calificación: NOTABLE 8.5 
 <br><br>
 </details>
+{:/}
 
 ### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
 <br>
@@ -386,14 +422,23 @@ Lucía Diéguez González, septiembre 2025.
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
+{:/}
 
-***
+{::nomarkdown}</div>{:/}
 
 ## TFG/TFM en dirección
 
+{::nomarkdown}
+<div class="section" id="sec-endireccion">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
 
 ### Diseño y fabricación de circuitos de adaptación para uso docente
 
+{::nomarkdown}
 <details>
 <summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
 <br>
@@ -402,9 +447,9 @@ Luis María Casla Gárate, septiembre 2025.
 Calificación: ---
 <br><br>
 </details>
+{:/}
 
-
-***
+{::nomarkdown}</div>{:/}
 
 ## Cursos en el extranjero
 
@@ -413,11 +458,6 @@ Calificación: ---
 
 ### Métodos numéricos en el electromagnetismo computacional
 8 horas en la Pontificia Universidad Católica del Perú en mayo de 2023. Financiado por la convocatoria Erasmus+.
-
-***
-
-</div>
-{:/}
 
 ## Cursos Impartidos
 
@@ -455,9 +495,11 @@ Coordinador, profesor de teoría y de prácticas.
 Coordinador.
 <br><br><br><br>
 </details>
+{:/}
 
 ### 2024/2025
 
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -485,9 +527,11 @@ Coordinador.
 Profesor de teoría.
 <br><br><br><br>
 </details>
+{:/}
 
 ### 2023/2024
 
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -511,9 +555,11 @@ Coordinador, profesor de teoría y de prácticas.
 Profesor de teoría.
 <br><br><br><br>
 </details>
+{:/}
 
 ### 2022/2023
 
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -541,9 +587,11 @@ Coordinador, profesor de teoría y de prácticas.
 Profesor de teoría.
 <br><br><br><br>
 </details>
+{:/}
 
 ### 2021/2022
 
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -575,9 +623,11 @@ Profesor de teoría.
 Profesor de teoría.
 <br><br><br><br>
 </details>
+{:/}
 
 ### 2020/2021
 
+{::nomarkdown}
 <details>
 <summary>Asignaturas</summary>
 <br>
@@ -598,11 +648,11 @@ Profesor de teoría y responsable de prácticas.
 Profesor de teoría.
 <br><br><br><br>
 </details>
-
-</div>
 {:/}
 
-</div>
+{::nomarkdown}</div>{:/}
+
+{::nomarkdown}</div>{:/}
 
 {::nomarkdown}
 <style>

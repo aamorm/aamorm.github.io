@@ -545,24 +545,23 @@ footer.sticky-bottom {
   }
 }
 
-/* === Icono junto al nombre en la portada (al-folio) === */
-/* Selector habitual en al-folio: .home .name (ajusto varias variantes por si tu build usa otra clase) */
-.home .name::after,
-.homepage .name::after,
-.landing .name::after {
+/* Icono junto al nombre en la portada */
+.home main h1:first-of-type::after,
+.homepage main h1:first-of-type::after,
+.landing main h1:first-of-type::after {
   content: "";
   display: inline-block;
-  width: 1em;              /* mismo alto que el texto */
+  width: 1em;
   height: 1em;
   margin-left: .35rem;
   vertical-align: -0.15em;
 
-  /* Opción 1 (recomendada): SVG coloreable con currentColor usando mask */
+  /* SVG que hereda el color del texto */
   background-color: currentColor;
   -webkit-mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
           mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
 
-  /* Opción 2 (fallback PNG/SVG directo): descomenta si prefieres background-image clásico
+  /* Si prefieres background-image en lugar de mask, comenta lo de arriba y descomenta:
   background-image: url("/assets/img/favicons/favicon.svg");
   background-repeat: no-repeat;
   background-position: center;
@@ -570,13 +569,14 @@ footer.sticky-bottom {
   */
 }
 
-/* Por si quedó alguna imagen inline en el nombre, forzamos tamaño seguro */
-.home .name img {
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.15em;
-  margin-left: .35rem;
+/* Por si quedara un <img> inline en el H1, fuerza tamaño seguro (opcional) */
+.home main h1:first-of-type img,
+.homepage main h1:first-of-type img,
+.landing main h1:first-of-type img {
+  width: 1em; height: 1em; vertical-align: -0.15em; margin-left: .35rem;
 }
+
+
 
 .teaching {
   /* Toolbar y botones (solo teaching) */
