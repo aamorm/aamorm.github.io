@@ -30,9 +30,11 @@ En esta temática hay varias opciones disponibles (regularización del problema,
 <br>
 <br>
 </details>
+{:/}
 
 ### Desarrollo de técnicas de IA para identificación de agua o petróleo en terreno desconocido (colaboración con el BSC)
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -41,9 +43,11 @@ Las técnicas de Inteligencia Artificial (IA) han conseguido que problemas anter
 Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC y el entrenamiento de clasificadores (basados en árboles de decisión o en redes neuronales) en infraestructuras del BSC.
 <br><br>
 </details>
+{:/}
 
 ### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -54,9 +58,11 @@ Python lleva muchos años clamando ser el killer language de todos los lenguajes
 El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuál es el mejor para una aplicación de elementos finitos. Para ello, el alumno no empezaría de cero sino que ya hay algunas rutinas programadas en MATLAB que habría que comparar con los nuevos códigos desarrollados.
 <br><br>
 </details>
+{:/}
 
 ### Diseño de pruebas unitarias para una suite de elementos finitos
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -72,9 +78,11 @@ En función del perfil del alumno se trabajará con diferentes lenguajes de prog
 usará Fortran, MATLAB, Python o Julia.
 <br><br>
 </details>
+{:/}
 
 ### Procesado en Python de medidas de campo cercano de un sistema de antenas
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -83,9 +91,11 @@ Python se ha erigido en los últimos tiempos como uno de los abanderados del Big
 En la actualidad, se dispone de un software "legacy" escrito en Octave que genera unas hojas de Excel que posteriormente se procesan para generar un informe Word. Se busca automatizar todos estos pasos por medio de Python de forma que parsee los ficheros originales (ficheros en texto de 1 GB), lo transforme a un DataFrame y llame a las diferentes librerías (o se reprogramen, en función de la viabilidad del proyecto).
 <br><br>
 </details>
+{:/}
 
 ### Orientación de mallas semi estructuradas en electromagnetismo
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -94,9 +104,11 @@ Para un software de elementos finitos, la orientación de las diferentes aristas
 En este proyecto, el alumno tendrá disponible un código de MATLAB que orienta prismas triangulares de forma satisfactoria en la mayoría de las veces. Se busca optimizar este algoritmo (probablemente con teoría de grafos) para hacerlo más rápido y que funcione en todas las ocasiones. El código se realizará en MATLAB.
 <br><br>
 </details>
+{:/}
 
 ### Alimentación uniforme de diferentes malladores para un software de elementos finitos
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
@@ -105,15 +117,18 @@ Un problema electromagnético necesita ser mallado para poder resolverlo de form
 La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D como 3D) y los alimente con un determinado formato a una librería ya existente en MATLAB de elementos finitos. Hay un prototipo ya desarrollado que habría que unificar y expandir a otros malladores para mejorar el número de problemas que se pueden resolver en la librería.
 <br><br>
 </details>
+{:/}
 
 ### Definición y fabricación de circuitos de alta frecuencia para docencia presencial en laboratorio
 
+{::nomarkdown}
 <details>
 <summary>Planteamiento</summary>
 <br>
 En este proyecto se busca identificar y fabricar diferentes circuitos de alta frecuencia (adaptadores de impedancia, acopladores híbridos, diplexores...) para su posterior identificación en el laboratorio con equipos de medida.
 <br><br>
 </details>
+{:/}
 
 ***
 

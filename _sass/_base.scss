@@ -545,6 +545,14 @@ footer.sticky-bottom {
   }
 }
 
+/* Icono junto al nombre en el hero */
+.name-icon {
+  width: 1em;             /* mismo alto que el texto */
+  height: 1em;
+  vertical-align: -0.15em;/* ajusta fino la alineación con el texto */
+  margin-left: .35rem;    /* espacio respecto al apellido */
+  display: inline-block;
+}
 
 // Publications
 
