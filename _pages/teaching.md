@@ -130,10 +130,11 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 </details>
 {:/}
 
+{::nomarkdown}</div>{:/}
+
 ***
 
-</div>
-{:/}
+
 
 ## TFG/TFM dirigidos
 
@@ -639,31 +640,54 @@ Profesor de teoría.
 {::nomarkdown}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  const sections = document.querySelectorAll('.teaching .section');
-  sections.forEach(section => {
+  // Repite este bloque para cada sección con toolbar (o selecciona todas si tienes varias)
+  document.querySelectorAll('.section').forEach(section => {
     const btnExpand   = section.querySelector('.btn-expand');
     const btnCollapse = section.querySelector('.btn-collapse');
-    const detailsIn   = () => Array.from(section.querySelectorAll('details'));
+    if (!btnExpand || !btnCollapse) return;
 
-    function setAll(open){
+    const detailsIn = () => Array.from(section.querySelectorAll('details'));
+
+    function setAll(open) {
       detailsIn().forEach(d => d.open = !!open);
-      updateState();
+      // siempre ocultamos los summaries en ambos estados
+      section.classList.add('hide-summaries');
+      // marca visual de "todo abierto"
+      section.classList.toggle('all-expanded', !!open);
+      // aria-pressed del botón expand
+      btnExpand.setAttribute('aria-pressed', open ? 'true' : 'false');
     }
-    function updateState(){
+
+    // Al hacer Expand all: abre todo y oculta summaries
+    btnExpand.addEventListener('click', () => setAll(true));
+
+    // Al hacer Collapse all: cierra todo y oculta summaries (quedan sólo H3)
+    btnCollapse.addEventListener('click', () => setAll(false));
+
+    // Si el usuario interactúa manualmente con un <details>, salimos de los estados “globales”
+    section.addEventListener('toggle', (e) => {
+      if (e.target.tagName !== 'DETAILS') return;
       const det = detailsIn();
       const allOpen = det.length > 0 && det.every(d => d.open);
-      btnExpand?.setAttribute('aria-pressed', allOpen ? 'true' : 'false');
-      section.classList.toggle('all-expanded', allOpen);
-    }
+      const allClosed = det.length > 0 && det.every(d => !d.open);
 
-    btnExpand?.addEventListener('click', () => setAll(true));
-    btnCollapse?.addEventListener('click', () => setAll(false));
-
-    section.addEventListener('toggle', (e) => {
-      if (e.target.tagName === 'DETAILS') updateState();
+      // si está todo abierto/cerrado, mantenemos hide-summaries;
+      // si hay mezcla (estado manual), mostramos summaries otra vez
+      if (allOpen) {
+        section.classList.add('hide-summaries', 'all-expanded');
+        btnExpand.setAttribute('aria-pressed', 'true');
+      } else if (allClosed) {
+        section.classList.add('hide-summaries');
+        section.classList.remove('all-expanded');
+        btnExpand.setAttribute('aria-pressed', 'false');
+      } else {
+        section.classList.remove('hide-summaries', 'all-expanded');
+        btnExpand.setAttribute('aria-pressed', 'false');
+      }
     }, true);
 
-    updateState();
+    // Estado inicial: colapsado y sin summaries (sólo títulos) si quieres; si no, comenta la línea:
+    // setAll(false);
   });
 });
 </script>

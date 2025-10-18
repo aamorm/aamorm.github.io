@@ -545,14 +545,70 @@ footer.sticky-bottom {
   }
 }
 
-/* Icono junto al nombre en el hero */
-.name-icon {
-  width: 1em;             /* mismo alto que el texto */
-  height: 1em;
-  vertical-align: -0.15em;/* ajusta fino la alineación con el texto */
-  margin-left: .35rem;    /* espacio respecto al apellido */
+/* === Icono junto al nombre en la portada (al-folio) === */
+/* Selector habitual en al-folio: .home .name (ajusto varias variantes por si tu build usa otra clase) */
+.home .name::after,
+.homepage .name::after,
+.landing .name::after {
+  content: "";
   display: inline-block;
+  width: 1em;              /* mismo alto que el texto */
+  height: 1em;
+  margin-left: .35rem;
+  vertical-align: -0.15em;
+
+  /* Opción 1 (recomendada): SVG coloreable con currentColor usando mask */
+  background-color: currentColor;
+  -webkit-mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
+          mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
+
+  /* Opción 2 (fallback PNG/SVG directo): descomenta si prefieres background-image clásico
+  background-image: url("/assets/img/favicons/favicon.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  */
 }
+
+/* Por si quedó alguna imagen inline en el nombre, forzamos tamaño seguro */
+.home .name img {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-left: .35rem;
+}
+
+.teaching {
+  /* Toolbar y botones (solo teaching) */
+  .section-toolbar{
+    display:flex; gap:.5rem; justify-content:flex-end; margin:.5rem 0 1rem;
+  }
+  .btn-small{
+    font:inherit; line-height:1; padding:.35rem .6rem;
+    border:1px solid var(--global-divider-color);
+    background:var(--global-card-bg-color);
+    color:var(--global-text-color);
+    border-radius:.35rem; cursor:pointer;
+  }
+  .btn-small:hover{
+    border-color:var(--global-theme-color); color:var(--global-theme-color);
+  }
+  .section.all-expanded .btn-expand{
+    border-color:var(--global-theme-color); color:var(--global-theme-color);
+  }
+
+  /* Details dentro de teaching */
+  .section details{ border-top:1px solid var(--global-divider-color); padding-top:.5rem; }
+  .section summary{ cursor:pointer; list-style:none; }
+  .section summary::-webkit-details-marker{ display:none; }
+  .section summary::after{ content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block; }
+  .section details[open] > summary::after{ transform:rotate(90deg); }
+
+  /* Estados por sección */
+  .section.hide-summaries details > summary{ display:none; }
+  .section.hide-summaries details{ padding-top:.25rem; }
+}
+
 
 // Publications
 
