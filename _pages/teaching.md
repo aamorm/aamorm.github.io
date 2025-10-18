@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<div class="teaching">
+
 ## Oferta de TFG/TFM
 
 ### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
@@ -547,3 +549,104 @@ Profesor de teoría y responsable de prácticas.
 Profesor de teoría.
 <br><br><br><br>
 </details>
+
+</div>
+
+{::nomarkdown}
+<style>
+/* Toolbar y comportamiento por sección */
+.teaching .section-toolbar{
+  display:flex; gap:.5rem; justify-content:flex-end; margin:.5rem 0 1rem;
+}
+.teaching .btn-small{
+  font:inherit; line-height:1; padding:.35rem .6rem;
+  border:1px solid var(--global-divider-color);
+  background:var(--global-card-bg-color);
+  color:var(--global-text-color);
+  border-radius:.35rem; cursor:pointer;
+}
+.teaching .btn-small:hover{
+  border-color:var(--global-theme-color); color:var(--global-theme-color);
+}
+.teaching .section.all-expanded .btn-expand{ border-color:var(--global-theme-color); color:var(--global-theme-color); }
+
+/* Estilo de details + ocultar summaries cuando todo está expandido en esa sección */
+.teaching details{ border-top:1px solid var(--global-divider-color); padding-top:.5rem; }
+.teaching summary{ cursor:pointer; list-style:none; }
+.teaching summary::-webkit-details-marker{ display:none; }
+.teaching summary::after{
+  content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block;
+}
+.teaching details[open] > summary::after{ transform:rotate(90deg); }
+
+/* En modo "todo expandido" de UNA sección: ocultamos los summaries de esa sección */
+.teaching .section.all-expanded details > summary{ display:none; }
+.teaching .section.all-expanded details{ padding-top:.25rem; }
+
+/* Separadores/títulos */
+.teaching h2{ position:relative; margin-top:2rem; }
+.teaching .section{ margin-bottom:2rem; }
+</style>
+{:/}
+
+{::nomarkdown}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const root = document.querySelector('.teaching');
+  if (!root) return;
+
+  // 1) Agrupar automáticamente cada sección desde un H2 hasta el siguiente H2
+  const h2s = Array.from(root.querySelectorAll(':scope > h2'));
+  h2s.forEach((h2, idx) => {
+    // crear wrapper .section
+    const section = document.createElement('div');
+    section.className = 'section';
+    h2.before(section);
+    section.appendChild(h2);
+
+    // mover nodos hasta el próximo H2 (o fin)
+    let next = section.nextSibling;
+    while (next && !(next.nodeType === 1 && next.tagName === 'H2')) {
+      const moving = next;
+      next = next.nextSibling;
+      section.appendChild(moving);
+    }
+
+    // 2) Insertar toolbar con Expand/Collapse para ESA sección
+    const toolbar = document.createElement('div');
+    toolbar.className = 'section-toolbar';
+    toolbar.innerHTML = `
+      <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+      <button type="button" class="btn-small btn-collapse">Collapse all</button>
+    `;
+    h2.after(toolbar);
+
+    const btnExpand = toolbar.querySelector('.btn-expand');
+    const btnCollapse = toolbar.querySelector('.btn-collapse');
+
+    const detailsInSection = () => Array.from(section.querySelectorAll('details'));
+
+    function setAll(open){
+      detailsInSection().forEach(d => d.open = !!open);
+      updateState();
+    }
+    function updateState(){
+      const det = detailsInSection();
+      const openCount = det.filter(d => d.open).length;
+      const allOpen = det.length > 0 && openCount === det.length;
+      btnExpand.setAttribute('aria-pressed', allOpen ? 'true' : 'false');
+      section.classList.toggle('all-expanded', allOpen);
+    }
+
+    btnExpand.addEventListener('click', () => setAll(true));
+    btnCollapse.addEventListener('click', () => setAll(false));
+
+    section.addEventListener('toggle', (e) => {
+      if (e.target.tagName === 'DETAILS') updateState();
+    }, true);
+
+    updateState();
+  });
+});
+</script>
+{:/}
