@@ -10,38 +10,44 @@ nav_order: 1
 
 <div class="publications">
 
+{::nomarkdown}
 <details class="pub-section" open>
-<summary><span class="h2">JCR journals</span></summary>
+  <summary><span class="h2">JCR journals</span></summary>
+{:/}
 {% for y in page.years %}
-<details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
-<summary><span class="year">{{ y }}</span></summary>
-<div class="bibwrap">
+{::nomarkdown}
+  <details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
+    <summary><span class="year">{{ y }}</span></summary>
+  <div class="bibwrap">
+{:/}
 {% bibliography -f aamor_journals -q @*[year={{y}}]* %}
-</div>
-</details>
+{::nomarkdown}
+  </div>
+  </details>
+{:/}
 {% endfor %}
+{::nomarkdown}
 </details>
+{:/}
 
+{::nomarkdown}
 <details class="pub-section" open>
-<summary><span class="h2">conferences</span></summary>
+  <summary><span class="h2">conferences</span></summary>
+{:/}
 {% for y in page.conference_years %}
-<details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
-<summary><span class="year">{{ y }}</span></summary>
-<div class="bibwrap">
+{::nomarkdown}
+  <details class="pub-year"{% if forloop.index <= 2 %} open{% endif %}>
+    <summary><span class="year">{{ y }}</span></summary>
+  <div class="bibwrap">
+{:/}
 {% bibliography -f aamor_conferences -q @*[year={{y}}]* %}
-</div>
-</details>
+{::nomarkdown}
+  </div>
+  </details>
+{:/}
 {% endfor %}
+{::nomarkdown}
 </details>
-
-{% comment %}
-<details class="pub-section" open>
-<summary><h2 style="display:inline">Ph.D. thesis</h2></summary>
-<details class="pub-year" open>
-<summary><h3 class="year" style="display:inline">2018</h3></summary>
-{% bibliography -f aamor_phd %}
-</details>
-</details>
-{% endcomment %}
+{:/}
 
 </div>
