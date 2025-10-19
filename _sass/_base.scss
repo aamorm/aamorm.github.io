@@ -545,29 +545,6 @@ footer.sticky-bottom {
   }
 }
 
-/* Icono junto al nombre del hero (usando tu selector exacto) */
-body > div.container.mt-5 > div > header > h1::after {
-  content: "";
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  margin-left: .35rem;
-  vertical-align: -0.15em;
-
-  /* Preferido: SVG que hereda el color del texto */
-  background-color: currentColor;
-  -webkit-mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
-          mask: url("/assets/img/favicons/favicon.svg") no-repeat center / contain;
-
-  /* Fallback (si el mask no se ve en tu navegador):
-  background-image: url("/assets/img/favicons/favicon.svg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  background-color: transparent; // quita el color si usas background-image
-  */
-}
-
 .teaching {
   /* Toolbar y botones (solo teaching) */
   .section-toolbar{

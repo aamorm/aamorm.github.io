@@ -475,23 +475,23 @@ Calificación: ---
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
-<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+<h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
-<h4> Prácticas en empresa </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Prácticas en empresa </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
 <br><br><br><br>
 </details>
@@ -503,27 +503,27 @@ Coordinador.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
-<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+<h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
-<h4> Prácticas en empresa </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Prácticas en empresa </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied to communications I </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied to communications I </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
 </details>
@@ -535,23 +535,23 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
-<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+<h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied to communications I </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied to communications I </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
 </details>
@@ -563,27 +563,27 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Subsistemas de Radiofrecuencia y Antenas </h4>
-<h5> Máster Universitario en Ingeniería de Telecomunicación</h5>
+<h5> Subsistemas de Radiofrecuencia y Antenas </h5>
+<h6> Máster Universitario en Ingeniería de Telecomunicación</h6>
 Profesor de repaso.
 <br><br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+<h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido y responsable de prácticas.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied  to communications I </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
 </details>
@@ -595,31 +595,31 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Subsistemas de Radiofrecuencia y Antenas </h4> 
-<h5> Máster Universitario en Ingeniería de Telecomunicación </h5>
+<h5> Subsistemas de Radiofrecuencia y Antenas </h5> 
+<h6> Máster Universitario en Ingeniería de Telecomunicación </h6>
 Profesor de repaso y responsable de prácticas.
 <br><br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h5> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h5>
+<h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido y responsable de prácticas.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Profesor de teoría y responsable de prácticas.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied  to communications I </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied  to communications II </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied  to communications II </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
 </details>
@@ -631,20 +631,20 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h4> Campos Electromagnéticos </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Campos Electromagnéticos </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h4> Tecnologías de Alta Frecuencia </h4> 
-<h5> Grado en Ingeniería de Tecnologías de Telecomunicación. </h5>
+<h5> Tecnologías de Alta Frecuencia </h5> 
+<h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de dos grupos reducidos y responsable de prácticas.
 <br><br>
-<h4> Dispositivos inalámbricos en IoT </h4> 
-<h5> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h5>
+<h5> Dispositivos inalámbricos en IoT </h5> 
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Profesor de teoría y responsable de prácticas.
 <br><br>
-<h4> Fundamentals on computational electromagnetism applied  to communications I </h4>
-<h5> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h5>
+<h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
 </details>
@@ -690,7 +690,6 @@ Profesor de teoría.
 {::nomarkdown}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  // Repite este bloque para cada sección con toolbar (o selecciona todas si tienes varias)
   document.querySelectorAll('.section').forEach(section => {
     const btnExpand   = section.querySelector('.btn-expand');
     const btnCollapse = section.querySelector('.btn-collapse');
@@ -699,44 +698,28 @@ document.addEventListener('DOMContentLoaded', function () {
     const detailsIn = () => Array.from(section.querySelectorAll('details'));
 
     function setAll(open) {
-      detailsIn().forEach(d => d.open = !!open);
-      // siempre ocultamos los summaries en ambos estados
+      detailsIn().forEach(d => { d.open = !!open; });
+      // En ambos estados ocultamos summaries (solo títulos H3 visibles en collapse,
+      // títulos + contenido en expand)
       section.classList.add('hide-summaries');
-      // marca visual de "todo abierto"
       section.classList.toggle('all-expanded', !!open);
-      // aria-pressed del botón expand
       btnExpand.setAttribute('aria-pressed', open ? 'true' : 'false');
     }
 
-    // Al hacer Expand all: abre todo y oculta summaries
+    // Botones (controlan el estado global de la sección)
     btnExpand.addEventListener('click', () => setAll(true));
-
-    // Al hacer Collapse all: cierra todo y oculta summaries (quedan sólo H3)
     btnCollapse.addEventListener('click', () => setAll(false));
 
-    // Si el usuario interactúa manualmente con un <details>, salimos de los estados “globales”
+    // Interacción manual: NO tocamos el resto de <details>.
+    // Sólo salimos del modo global para que reaparezcan los <summary> y el usuario
+    // pueda seguir plegando/desplegando individualmente.
     section.addEventListener('toggle', (e) => {
       if (e.target.tagName !== 'DETAILS') return;
-      const det = detailsIn();
-      const allOpen = det.length > 0 && det.every(d => d.open);
-      const allClosed = det.length > 0 && det.every(d => !d.open);
-
-      // si está todo abierto/cerrado, mantenemos hide-summaries;
-      // si hay mezcla (estado manual), mostramos summaries otra vez
-      if (allOpen) {
-        section.classList.add('hide-summaries', 'all-expanded');
-        btnExpand.setAttribute('aria-pressed', 'true');
-      } else if (allClosed) {
-        section.classList.add('hide-summaries');
-        section.classList.remove('all-expanded');
-        btnExpand.setAttribute('aria-pressed', 'false');
-      } else {
-        section.classList.remove('hide-summaries', 'all-expanded');
-        btnExpand.setAttribute('aria-pressed', 'false');
-      }
+      section.classList.remove('hide-summaries', 'all-expanded');
+      btnExpand.setAttribute('aria-pressed', 'false');
     }, true);
 
-    // Estado inicial: colapsado y sin summaries (sólo títulos) si quieres; si no, comenta la línea:
+    // Si quieres estado inicial colapsado con sólo títulos visibles, descomenta:
     // setAll(false);
   });
 });

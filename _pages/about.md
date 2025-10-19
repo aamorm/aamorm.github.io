@@ -40,3 +40,34 @@ projects and organizations. You can also download my
 You can download my personal CV **[here](/assets/pdf/curriculum_en.pdf)**,
 my CVN **[here](https://cvn.fecyt.es/0000-0002-6123-4324)**,
 and their abbreviated version **[here](/assets/pdf/cva_aamor.pdf)**. -->
+
+{::nomarkdown}
+<style>
+/* Estilo local a esta página */
+.name-inline-icon {
+  width: 1em;           /* altura como el texto */
+  height: 1em;
+  margin-left: .35rem;
+  vertical-align: -0.15em;
+  display: inline-block;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Selector exacto de tu H1:
+  const h1 = document.querySelector('body > div.container.mt-5 > div > header > h1');
+  if (!h1 || h1.dataset.iconInjected) return;
+
+  // Usa imagen en color (SVG/PNG), NO mask (así no sale gris)
+  const img = document.createElement('img');
+  img.src = '/assets/img/favicons/favicon.svg';   // o PNG si prefieres
+  img.alt = '';
+  img.setAttribute('aria-hidden', 'true');
+  img.className = 'name-inline-icon';
+
+  h1.appendChild(img);
+  h1.dataset.iconInjected = 'true';
+});
+</script>
+{:/}
