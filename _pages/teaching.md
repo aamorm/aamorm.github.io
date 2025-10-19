@@ -442,7 +442,33 @@ Calificación: SOBRESALIENTE 9.7
 <details>
 <summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
 <br>
-Luis María Casla Gárate, septiembre 2025. 
+Luis María Casla Gárate, septiembre 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+##### Estudio de técnicas de detección de tejidos anómalos por medio de simulación electromagnética e inteligencia artificial
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Sara Rodríguez Galán, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+##### Cosimulación de parte activa y pasiva en el desarrollo de sensores activos para caracterización biológica
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Alejandro Thomas Oliva, junio 2026. 
 <br>
 Calificación: ---
 <br><br>
