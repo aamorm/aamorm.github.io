@@ -133,7 +133,7 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 {::nomarkdown}</div>{:/}
 
 
-## TFG/TFM dirigidos
+## TFM dirigidos
 
 {::nomarkdown}
 <div class="section" id="sec-dirigidos">
@@ -147,9 +147,9 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 
 {::nomarkdown}
 <details>
-<summary>PFC en Ingeniería de Telecomunicación</summary>
+<summary>Cristina García Muñoz</summary>
 <br>
-Cristina García Muñoz, octubre 2014. 
+PFC en Ingeniería de Telecomunicació, octubre 2014. 
 <br>
 Publicación en URSI 2013. 
 <br>
@@ -162,9 +162,9 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
+<summary>César Turienzo Forcada</summary>
 <br>
-César Turienzo Forcada, julio 2023. 
+TFM en Máster Universitario en Inteligencia Artificial Aplicada, julio 2023. 
 <br>
 Publicación en URSI 2023. 
 <br>
@@ -173,28 +173,13 @@ Calificación: SOBRESALIENTE 10
 </details>
 {:/}
 
-##### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación</summary>
-<br>
-Antonio Rueda Escalona, julio 2023. 
-<br>
-Publicación en URSI 2023. 
-<br>
-Calificación: SOBRESALIENTE 10 (matrícula de honor)
-<br><br>
-</details>
-{:/}
-
 ##### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<summary>Pablo Iglesias García</summary>
 <br>
-Pablo Iglesias García, septiembre 2023. 
+TFM en Máster Universitario en Ingeniería de Telecomunicación, septiembre 2023. 
 <br>
 Calificación: SOBRESALIENTE 9.1
 <br><br>
@@ -205,9 +190,9 @@ Calificación: SOBRESALIENTE 9.1
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
+<summary>Marta López Izquierdo</summary>
 <br>
-Marta López Izquierdo, marzo 2024. 
+TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas, marzo 2024. 
 <br>
 Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 <br><br>
@@ -218,11 +203,116 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<summary>Marta López Izquierdo</summary>
 <br>
-Marta López Izquierdo, marzo 2024. 
+TFM en Máster Universitario en Ingeniería de Telecomunicación, marzo 2024. 
 <br>
 Calificación: SOBRESALIENTE 9.5
+<br><br>
+</details>
+{:/}
+
+##### Envío de datos por redes IoT para caracterización de materiales a través de microondas
+
+{::nomarkdown}
+<details>
+<summary>Pablo Iglesias García</summary>
+<br>
+TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas, septiembre 2024. 
+<br>
+Calificación: NOTABLE 8.8
+<br><br>
+</details>
+{:/}
+
+##### Implementación de un sensor para la identificación de materiales en la banda de microondas
+
+{::nomarkdown}
+<details>
+<summary>Antonio Javier Ruiz Cascales</summary>
+<br>
+TFM en Máster Universitario en Ingeniería de Telecomunicación, septiembre 2024. 
+<br>
+Calificación: NOTABLE 7.0
+<br><br>
+</details>
+{:/}
+
+##### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
+
+{::nomarkdown}
+<details>
+<summary>Fernando Martín San Bruno</summary>
+<br>
+TFM en Máster Universitario en Inteligencia Artificial Aplicada, septiembre 2024. 
+<br>
+Calificación: SOBRESALIENTE 9.4
+<br><br>
+</details>
+{:/}
+
+##### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
+
+{::nomarkdown}
+<details>
+<summary>Antonio Rueda Escalona</summary>
+<br>
+TFM en Máster Universitario en Ingeniería de Telecomunicación, febrero 2025. 
+<br>
+Calificación: SOBRESALIENTE 9.5
+<br><br>
+</details>
+{:/}
+
+##### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
+
+{::nomarkdown}
+<details>
+<summary>Silvia Casino Colom</summary>
+<br>
+TFM en Máster Universitario en Ingeniería de Telecomunicación, septiembre 2025. 
+<br>
+Calificación: SOBRESALIENTE 10
+<br><br>
+</details>
+{:/}
+
+##### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
+
+{::nomarkdown}
+<details>
+<summary>Rubén Ribes Serrano</summary>
+<br>
+TFM en Máster Universitario en Inteligencia Artificial Aplicada, julio 2025. 
+<br>
+Calificación: SOBRESALIENTE 9.5
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}</div>{:/}
+
+## TFG dirigidos
+
+{::nomarkdown}
+<div class="section" id="sec-dirigidos">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
+
+##### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
+
+{::nomarkdown}
+<details>
+<summary>Antonio Rueda Escalona</summary>
+<br>
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicació, julio 2023. 
+<br>
+Publicación en URSI 2023. 
+<br>
+Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 {:/}
@@ -231,9 +321,9 @@ Calificación: SOBRESALIENTE 9.5
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Mario Núñez Domínguez</summary>
 <br>
-Mario Núñez Domínguez, marzo 2024. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, marzo 2024. 
 <br>
 Publicación en URSI 2024. 
 <br>
@@ -246,50 +336,11 @@ Calificación: SOBRESALIENTE 9.3
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Macarena Fernández Rodríguez</summary>
 <br>
-Macarena Fernández Rodríguez, marzo 2024. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, marzo 2024. 
 <br>
 Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
-<br><br>
-</details>
-{:/}
-
-##### Envío de datos por redes IoT para caracterización de materiales a través de microondas
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas </summary>
-<br>
-Pablo Iglesias García, septiembre 2024. 
-<br>
-Calificación: NOTABLE 8.8
-<br><br>
-</details>
-{:/}
-
-##### Implementación de un sensor para la identificación de materiales en la banda de microondas
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Antonio Javier Ruiz Cascales, septiembre 2024. 
-<br>
-Calificación: NOTABLE 7.0
-<br><br>
-</details>
-{:/}
-
-##### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
-<br>
-Fernando Martín San Bruno, septiembre 2024. 
-<br>
-Calificación: SOBRESALIENTE 9.4
 <br><br>
 </details>
 {:/}
@@ -298,9 +349,9 @@ Calificación: SOBRESALIENTE 9.4
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Alberto López de Lerma del Olmo</summary>
 <br>
-Alberto López de Lerma del Olmo, septiembre 2024. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, septiembre 2024. 
 <br>
 Calificación: NOTABLE 8.2
 <br><br>
@@ -311,24 +362,11 @@ Calificación: NOTABLE 8.2
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Carlos de Quinto Cáceres</summary>
 <br>
-Carlos de Quinto Cáceres, septiembre 2024. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, septiembre 2024. 
 <br>
 Calificación: SOBRESALIENTE 9.7
-<br><br>
-</details>
-{:/}
-
-##### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Antonio Rueda Escalona, febrero 2025. 
-<br>
-Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
@@ -337,9 +375,9 @@ Calificación: SOBRESALIENTE 9.5
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Alejandro Fernández-Vegue García-Caro</summary>
 <br>
-Alejandro Fernández-Vegue García-Caro, julio 2025. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, julio 2025. 
 <br>
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
@@ -350,9 +388,9 @@ Calificación: SOBRESALIENTE 9.7
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Rodrigo Ruiz Bustos</summary>
 <br>
-Rodrigo Ruiz Bustos, julio 2025. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, julio 2025. 
 <br>
 Calificación: NOTABLE 8.6 
 <br><br>
@@ -363,37 +401,11 @@ Calificación: NOTABLE 8.6
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Miguel Ángel Hurtado Manchado</summary>
 <br>
-Miguel Ángel Hurtado Manchado, julio 2025. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, julio 2025. 
 <br>
 Calificación: NOTABLE 8.6 
-<br><br>
-</details>
-{:/}
-
-##### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
-<br>
-Silvia Casino Colom, septiembre 2025. 
-<br>
-Calificación: SOBRESALIENTE 10
-<br><br>
-</details>
-{:/}
-
-##### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada </summary>
-<br>
-Rubén Ribes Serrano, julio 2025. 
-<br>
-Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
@@ -402,9 +414,9 @@ Calificación: SOBRESALIENTE 9.5
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Alberto Trufero Martínez</summary>
 <br>
-Alberto Trufero Martínez, septiembre 2025. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, septiembre 2025. 
 <br>
 Calificación: NOTABLE 8.5 
 <br><br>
@@ -415,9 +427,9 @@ Calificación: NOTABLE 8.5
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<summary>Lucía Diéguez González</summary>
 <br>
-Lucía Diéguez González, septiembre 2025. 
+TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales, septiembre 2025. 
 <br>
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
