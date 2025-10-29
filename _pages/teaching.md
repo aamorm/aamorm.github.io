@@ -489,13 +489,16 @@ Calificación: ---
 
 {::nomarkdown}</div>{:/}
 
-## Cursos en el extranjero
+## Cursos internacionales
 
 ##### Computational Electromagnetics: a review and future developments for finite element methods
 10 horas en el Politecnico di Torino en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
 ##### Métodos numéricos en el electromagnetismo computacional
 8 horas en la Pontificia Universidad Católica del Perú en mayo de 2023. Financiado por la convocatoria Erasmus+.
+
+##### Artificial Intelligence in Electromagnetics and Antennas
+An invited talk about *Fundamentals on Antennas* in European School of Antennas. The slides are [here](/assets/pdf/ai_slides_aamor.pdf).
 
 ## Cursos Impartidos
 
