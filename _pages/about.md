@@ -19,12 +19,9 @@ social: true  # includes social icons at the bottom of the page
 Born in Móstoles and raised in Toledo, Spain. I am an **associate professor** at
 University Carlos III of Madrid (Spain) from March 2025.
 
-My research interests are **computational electromagnetics**, High Performance
-Computing (HPC) techniques, and antenna measurements. I am part of **27 indexed
-papers** and **54 conference papers**. I was a **postdoctoral researcher** at
-Saarland University from 2019 to 2020 with Prof. Dyczij-Edlinger. I have also
-been a **visiting scholar** at The Ohio State University hosted by Prof. Jin-Fa
-Lee for seven months, and at the University of Macau for two months. 
+My track record sits at the intersection of computational electromagnetics (CEM) in the Hz and GHz regime, high-performance computing (HPC), and AI-assisted inverse problems. I develop verified, curl-conforming high-order finite element method (FEM) technology and specific accelerators, and I take them all the way to production—open code, industrial transfer (AIRBUS), and measurement-driven validation. International collaboration is a constant (59.5% of my outputs involve international co-authors), and 68.2% of my papers appear in the Q1 CiteScore journals. I have authored or co-authored 27 JCR-indexed papers (21 in Q1/Q2 journals) and contributed to 54 conferences. 
+
+As Principal Investigator (PI), I have led 2 national and 2 regional publicly funded research projects, as well as two private research contracts, totaling over €500,000. I have also been granted a Ramón y Cajal fellowship in 2025, the most prestigious tenure-track program in Spain. I have participated in 6 additional research projects and 9 private contracts and hold one six-year research period (2015-2020). I have opened two research lines (inverse problems and active sensors) within my group. My international experience includes 33 months at foreign institutions with competitive grants or contracts, yielding high-quality results (i.e., JCR papers and conferences).
 
 Related to teaching, I have imparted more than 1000 teaching hours in different
 Telecommunication bachelor and master degrees in the last 10 years. You can find
