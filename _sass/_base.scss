@@ -546,48 +546,73 @@ footer.sticky-bottom {
 }
 
 .teaching {
-  /* Toolbar y botones (solo teaching) */
+  /* Toolbar y botones (teaching) */
   .section-toolbar{
-    display:flex; gap:.5rem; justify-content:flex-end; margin:.5rem 0 1rem;
+    display:flex;
+    gap:.5rem;
+    justify-content:flex-end;
+    margin:.5rem 0 1rem;
   }
   .btn-small{
-    font:inherit; line-height:1; padding:.35rem .6rem;
+    font:inherit;
+    line-height:1;
+    padding:.35rem .6rem;
     border:1px solid var(--global-divider-color);
     background:var(--global-card-bg-color);
     color:var(--global-text-color);
-    border-radius:.35rem; cursor:pointer;
+    border-radius:.35rem;
+    cursor:pointer;
   }
   .btn-small:hover{
-    border-color:var(--global-theme-color); color:var(--global-theme-color);
+    border-color:var(--global-theme-color);
+    color:var(--global-theme-color);
   }
   .section.all-expanded .btn-expand{
-    border-color:var(--global-theme-color); color:var(--global-theme-color);
+    border-color:var(--global-theme-color);
+    color:var(--global-theme-color);
   }
 
   /* Details dentro de teaching */
-  .section details{ border-top:none solid var(--global-divider-color); padding-top: 0; }
   .section summary{ cursor:pointer; list-style:none; }
   .section summary::-webkit-details-marker{ display:none; }
-  .section summary::after{ content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block; }
+  .section summary::after{
+    content:"▸";
+    margin-left:.5rem;
+    transition:transform .2s;
+    display:inline-block;
+  }
   .section details[open] > summary::after{ transform:rotate(90deg); }
 
-  /* Estados por sección */
+  /* Estado por sección */
   .section.hide-summaries details > summary{ display:none; }
   .section.hide-summaries details{ padding-top:.25rem; }
 
-  /* Separador entre propuestas */
-  .offer + .offer{
-    border-top: 1px solid var(--global-divider-color);
-    margin-top: 1.25rem;
-    padding-top: 1.25rem;
+  /* =========================
+     Estilo "offer" (toda la página)
+     ========================= */
+
+  /* El separador va ENTRE ofertas (no en el <details>) */
+  .teachingDetail + .teachingDetail{
+    border-top:1px solid var(--global-divider-color);
+    margin-top:1.25rem;
+    padding-top:1.25rem;
   }
 
-  /* (opcional) ajustar espacio del título */
-  .offer h5 { /* ojo: "#####" en markdown suele renderizar como h5 */
-    margin-top: 0;
-    margin-bottom: .5rem;
+  /* Quitamos la raya en details para que no quede entre título y planteamiento */
+  .teachingDetail details{
+    border-top:0;
+    padding-top:0;
+  }
+
+  /* Opcional: un poco de aire antes del bloque desplegable */
+  .teachingDetail details{ margin-top:.35rem; }
+
+  /* Ajuste del título de la oferta (##### -> h5 normalmente) */
+  .teachingDetail h5{
+    margin:0;
   }
 }
+
 
 
 // Publications

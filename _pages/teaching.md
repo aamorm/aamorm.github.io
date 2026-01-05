@@ -19,7 +19,7 @@ nav_order: 2
 {:/}
 
 {::nomarkdown}
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
@@ -38,7 +38,7 @@ En esta temática hay varias opciones disponibles (regularización del problema,
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Desarrollo de técnicas de IA para identificación de agua o petróleo en terreno desconocido (colaboración con el BSC)
@@ -56,7 +56,7 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
@@ -76,7 +76,7 @@ El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuá
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Diseño de pruebas unitarias para una suite de elementos finitos
@@ -101,7 +101,7 @@ usará Fortran, MATLAB, Python o Julia.
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Procesado en Python de medidas de campo cercano de un sistema de antenas
@@ -119,7 +119,7 @@ En la actualidad, se dispone de un software "legacy" escrito en Octave que gener
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Orientación de mallas semi estructuradas en electromagnetismo
@@ -137,7 +137,7 @@ En este proyecto, el alumno tendrá disponible un código de MATLAB que orienta 
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Alimentación uniforme de diferentes malladores para un software de elementos finitos
@@ -155,7 +155,7 @@ La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Desarrollo de un código FEM 2D/3D para la simulación de estructuras SIW
@@ -173,7 +173,7 @@ En este trabajo, se propone implementar un código FEM de 2D que aproveche la ge
 
 {::nomarkdown}
 </div>
-<div class="offer">
+<div class="teachingDetail">
 {:/}
 
 ##### Definición y fabricación de circuitos de alta frecuencia para docencia presencial en laboratorio
@@ -202,6 +202,9 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
   </div>
 {:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Plataforma web de simulación remota en un cluster de computación científica
 
 {::nomarkdown}
@@ -216,7 +219,13 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Clasificación y detección de contaminantes en datos generados por microondas
 
 {::nomarkdown}
@@ -231,7 +240,13 @@ Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -244,7 +259,13 @@ Calificación: SOBRESALIENTE 9.1
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Sonda de monitorización para redes privadas
 
 {::nomarkdown}
@@ -257,7 +278,13 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
 
 {::nomarkdown}
@@ -270,7 +297,13 @@ Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Envío de datos por redes IoT para caracterización de materiales a través de microondas
 
 {::nomarkdown}
@@ -283,7 +316,13 @@ Calificación: NOTABLE 8.8
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Implementación de un sensor para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -296,7 +335,13 @@ Calificación: NOTABLE 7.0
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
 
 {::nomarkdown}
@@ -309,7 +354,13 @@ Calificación: SOBRESALIENTE 9.4
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
 
 {::nomarkdown}
@@ -322,7 +373,13 @@ Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
 
 {::nomarkdown}
@@ -335,7 +392,13 @@ Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
 
 {::nomarkdown}
@@ -347,6 +410,9 @@ TFM en Máster Universitario en Inteligencia Artificial Aplicada, julio 2025.
 Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
+{:/}
+{::nomarkdown}
+</div>
 {:/}
 
 {::nomarkdown}</div>{:/}
@@ -361,6 +427,9 @@ Calificación: SOBRESALIENTE 9.5
   </div>
 {:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
 
 {::nomarkdown}
@@ -375,7 +444,13 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Implementación de un simulador 2D de elementos finitos en Julia
 
 {::nomarkdown}
@@ -390,7 +465,13 @@ Calificación: SOBRESALIENTE 9.3
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Desarrollo de una interfaz para Paraview desde Fortran
 
 {::nomarkdown}
@@ -403,7 +484,13 @@ Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Estudio comparativo de diferentes software de diferenciación automática
 
 {::nomarkdown}
@@ -416,7 +503,13 @@ Calificación: NOTABLE 8.2
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Design, simulation and development of improvements for material characterization technologies.
 
 {::nomarkdown}
@@ -429,7 +522,13 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -442,7 +541,13 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
 
 {::nomarkdown}
@@ -455,7 +560,13 @@ Calificación: NOTABLE 8.6
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Diseño experimental de una antena para generación de imagen por microondas
 
 {::nomarkdown}
@@ -468,7 +579,13 @@ Calificación: NOTABLE 8.6
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Refactorización de un código de elementos finitos en Julia
 
 {::nomarkdown}
@@ -481,7 +598,13 @@ Calificación: NOTABLE 8.5
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
 
 {::nomarkdown}
@@ -493,6 +616,9 @@ TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales, septiembre 
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
+{:/}
+{::nomarkdown}
+</div>
 {:/}
 
 {::nomarkdown}</div>{:/}
@@ -507,6 +633,9 @@ Calificación: SOBRESALIENTE 9.7
   </div>
 {:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Diseño y fabricación de circuitos de adaptación para uso docente
 
 {::nomarkdown}
@@ -519,7 +648,13 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Estudio de técnicas de detección de tejidos anómalos por medio de simulación electromagnética e inteligencia artificial
 
 {::nomarkdown}
@@ -532,7 +667,13 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Cosimulación de parte activa y pasiva en el desarrollo de sensores activos para caracterización biológica
 
 {::nomarkdown}
@@ -545,11 +686,17 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
 {::nomarkdown}</div>{:/}
 
 ## Cursos internacionales
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### Computational Electromagnetics: a review and future developments for finite element methods
 10 horas en el Politecnico di Torino en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
@@ -596,7 +743,13 @@ Coordinador.
 <br><br><br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### 2024/2025
 
 {::nomarkdown}
@@ -628,7 +781,13 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### 2023/2024
 
 {::nomarkdown}
@@ -656,7 +815,13 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### 2022/2023
 
 {::nomarkdown}
@@ -688,7 +853,13 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### 2021/2022
 
 {::nomarkdown}
@@ -724,7 +895,13 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+{::nomarkdown}
+</div>
+{:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 ##### 2020/2021
 
 {::nomarkdown}
@@ -749,43 +926,13 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
-
-{::nomarkdown}</div>{:/}
-
-{::nomarkdown}</div>{:/}
-
 {::nomarkdown}
-<style>
-/* Toolbar y botones */
-.teaching .section-toolbar{
-  display:flex; gap:.5rem; justify-content:flex-end; margin:.5rem 0 1rem;
-}
-.teaching .btn-small{
-  font:inherit; line-height:1; padding:.35rem .6rem;
-  border:1px solid var(--global-divider-color);
-  background:var(--global-card-bg-color);
-  color:var(--global-text-color);
-  border-radius:.35rem; cursor:pointer;
-}
-.teaching .btn-small:hover{
-  border-color:var(--global-theme-color); color:var(--global-theme-color);
-}
-.teaching .section.all-expanded .btn-expand{
-  border-color:var(--global-theme-color); color:var(--global-theme-color);
-}
-
-/* Details y comportamiento “todo expandido” por sección */
-.teaching details{ border-top:1px solid var(--global-divider-color); padding-top:.5rem; }
-.teaching summary{ cursor:pointer; list-style:none; }
-.teaching summary::-webkit-details-marker{ display:none; }
-.teaching summary::after{ content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block; }
-.teaching details[open] > summary::after{ transform:rotate(90deg); }
-
-/* En modo all-expanded de UNA sección, escondemos summaries */
-.teaching .section.all-expanded details > summary{ display:none; }
-.teaching .section.all-expanded details{ padding-top:.25rem; }
-</style>
+</div>
 {:/}
+
+{::nomarkdown}</div>{:/}
+
+{::nomarkdown}</div>{:/}
 
 {::nomarkdown}
 <script>
