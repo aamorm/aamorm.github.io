@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: docencia/tfg-tfm
+title: teaching/tfg-tfm
 description: Oferta de TFG/TFM, TFG/TFM dirigidos y en dirección, y cursos impartidos.
 nav: true
 nav_order: 2
@@ -18,6 +18,10 @@ nav_order: 2
   </div>
 {:/}
 
+{::nomarkdown}
+<div class="offer">
+{:/}
+
 ##### Desarrollo de técnicas de IA para diagnóstico médico y detección de contaminantes
 
 {::nomarkdown}
@@ -30,6 +34,11 @@ En esta temática hay varias opciones disponibles (regularización del problema,
 <br>
 <br>
 </details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="offer">
 {:/}
 
 ##### Desarrollo de técnicas de IA para identificación de agua o petróleo en terreno desconocido (colaboración con el BSC)
@@ -45,6 +54,11 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 </details>
 {:/}
 
+{::nomarkdown}
+</div>
+<div class="offer">
+{:/}
+
 ##### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
 
 {::nomarkdown}
@@ -58,6 +72,11 @@ Python lleva muchos años clamando ser el killer language de todos los lenguajes
 El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuál es el mejor para una aplicación de elementos finitos. Para ello, el alumno no empezaría de cero sino que ya hay algunas rutinas programadas en MATLAB que habría que comparar con los nuevos códigos desarrollados.
 <br><br>
 </details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="offer">
 {:/}
 
 ##### Diseño de pruebas unitarias para una suite de elementos finitos
@@ -80,6 +99,11 @@ usará Fortran, MATLAB, Python o Julia.
 </details>
 {:/}
 
+{::nomarkdown}
+</div>
+<div class="offer">
+{:/}
+
 ##### Procesado en Python de medidas de campo cercano de un sistema de antenas
 
 {::nomarkdown}
@@ -91,6 +115,11 @@ Python se ha erigido en los últimos tiempos como uno de los abanderados del Big
 En la actualidad, se dispone de un software "legacy" escrito en Octave que genera unas hojas de Excel que posteriormente se procesan para generar un informe Word. Se busca automatizar todos estos pasos por medio de Python de forma que parsee los ficheros originales (ficheros en texto de 1 GB), lo transforme a un DataFrame y llame a las diferentes librerías (o se reprogramen, en función de la viabilidad del proyecto).
 <br><br>
 </details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="offer">
 {:/}
 
 ##### Orientación de mallas semi estructuradas en electromagnetismo
@@ -106,6 +135,11 @@ En este proyecto, el alumno tendrá disponible un código de MATLAB que orienta 
 </details>
 {:/}
 
+{::nomarkdown}
+</div>
+<div class="offer">
+{:/}
+
 ##### Alimentación uniforme de diferentes malladores para un software de elementos finitos
 
 {::nomarkdown}
@@ -117,6 +151,29 @@ Un problema electromagnético necesita ser mallado para poder resolverlo de form
 La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D como 3D) y los alimente con un determinado formato a una librería ya existente en MATLAB de elementos finitos. Hay un prototipo ya desarrollado que habría que unificar y expandir a otros malladores para mejorar el número de problemas que se pueden resolver en la librería.
 <br><br>
 </details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="offer">
+{:/}
+
+##### Desarrollo de un código FEM 2D/3D para la simulación de estructuras SIW
+
+{::nomarkdown}
+<details>
+<summary>Planteamiento</summary>
+<br>
+Los circuitos SIW (*Substrate Integrated Waveguide*, por sus siglas en inglés) son circuitos con altas prestaciones en las bandas de radiofrecuencia ya que combinan las ventajas de tecnologías planares (microstrip, stripline) con prestaciones comparables a las de guías de onda tradicionales, lo que las hace especialmente atractivas para aplicaciones satelitales. Sin embargo, son circuitos difíciles de analizar con la precisión necesaria debido al nivel de detalle necesario que introducen las vías que confinan el campo electromagnético.
+<br>
+En este trabajo, se propone implementar un código FEM de 2D que aproveche la geometría de los circuitos SIW (básicamente, un circuito planar que se extrusiona en el tercer eje) para comparar sus prestaciones con las de simuladores in-house de los que se dispone en el grupo de investigación, adecuados también para este tipo de geometrías (prismas triangulares con diferentes órdenes de aproximación).
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="offer">
 {:/}
 
 ##### Definición y fabricación de circuitos de alta frecuencia para docencia presencial en laboratorio
@@ -132,6 +189,8 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 
 {::nomarkdown}</div>{:/}
 
+{::nomarkdown}</div>{:/}
+</div>
 
 ## TFM dirigidos
 

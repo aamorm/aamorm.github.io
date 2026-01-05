@@ -37,6 +37,8 @@ nav_order: 1
 </details>
 {:/}
 
+<hr>
+
 {::nomarkdown}
 <details class="pub-section" open>
   <summary><span class="h2">conferences</span></summary>

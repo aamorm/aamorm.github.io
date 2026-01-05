@@ -565,7 +565,7 @@ footer.sticky-bottom {
   }
 
   /* Details dentro de teaching */
-  .section details{ border-top:1px solid var(--global-divider-color); padding-top:.5rem; }
+  .section details{ border-top:none solid var(--global-divider-color); padding-top: 0; }
   .section summary{ cursor:pointer; list-style:none; }
   .section summary::-webkit-details-marker{ display:none; }
   .section summary::after{ content:"▸"; margin-left:.5rem; transition:transform .2s; display:inline-block; }
@@ -574,6 +574,19 @@ footer.sticky-bottom {
   /* Estados por sección */
   .section.hide-summaries details > summary{ display:none; }
   .section.hide-summaries details{ padding-top:.25rem; }
+
+  /* Separador entre propuestas */
+  .offer + .offer{
+    border-top: 1px solid var(--global-divider-color);
+    margin-top: 1.25rem;
+    padding-top: 1.25rem;
+  }
+
+  /* (opcional) ajustar espacio del título */
+  .offer h5 { /* ojo: "#####" en markdown suele renderizar como h5 */
+    margin-top: 0;
+    margin-bottom: .5rem;
+  }
 }
 
 
