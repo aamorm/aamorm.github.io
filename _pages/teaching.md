@@ -190,12 +190,11 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 {::nomarkdown}</div>{:/}
 
 {::nomarkdown}</div>{:/}
-</div>
 
 ## TFM dirigidos
 
 {::nomarkdown}
-<div class="section" id="sec-dirigidos">
+<div class="section" id="sec-tfm-dirigidos">
   <div class="section-toolbar">
     <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
     <button type="button" class="btn-small btn-collapse">Collapse all</button>
@@ -205,6 +204,10 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Plataforma web de simulación remota en un cluster de computación científica
 
 {::nomarkdown}
@@ -219,6 +222,11 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -226,6 +234,10 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Clasificación y detección de contaminantes en datos generados por microondas
 
 {::nomarkdown}
@@ -240,6 +252,11 @@ Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -247,6 +264,10 @@ Calificación: SOBRESALIENTE 10
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Creación e investigación de un prototipo para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -259,6 +280,11 @@ Calificación: SOBRESALIENTE 9.1
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -266,6 +292,10 @@ Calificación: SOBRESALIENTE 9.1
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Sonda de monitorización para redes privadas
 
 {::nomarkdown}
@@ -278,6 +308,11 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -285,6 +320,10 @@ Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Comparison between LTE Cat 1, LTE Cat 1 bis and LTE-M cellular technologies
 
 {::nomarkdown}
@@ -297,6 +336,11 @@ Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -304,6 +348,10 @@ Calificación: SOBRESALIENTE 9.5
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Envío de datos por redes IoT para caracterización de materiales a través de microondas
 
 {::nomarkdown}
@@ -316,6 +364,11 @@ Calificación: NOTABLE 8.8
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -323,6 +376,10 @@ Calificación: NOTABLE 8.8
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Implementación de un sensor para la identificación de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -335,6 +392,11 @@ Calificación: NOTABLE 7.0
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -342,6 +404,10 @@ Calificación: NOTABLE 7.0
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Avanzando en el diagnóstico médico del futuro: identificación de lesiones cutáneas con radiofrecuencia e IA.
 
 {::nomarkdown}
@@ -354,6 +420,11 @@ Calificación: SOBRESALIENTE 9.4
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -361,6 +432,10 @@ Calificación: SOBRESALIENTE 9.4
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Estudio de la variabilidad de posición de un material bajo medida con técnicas de Inteligencia Artificial
 
 {::nomarkdown}
@@ -373,6 +448,11 @@ Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -380,6 +460,10 @@ Calificación: SOBRESALIENTE 9.5
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Recognizing Emotions in 360-degree Video Communications using Deep Learning Models
 
 {::nomarkdown}
@@ -392,6 +476,11 @@ Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -399,6 +488,10 @@ Calificación: SOBRESALIENTE 10
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Implementación de un sistema de selección de audio basado en lenguaje natural mediante técnicas de inteligencia artificial
 
 {::nomarkdown}
@@ -411,6 +504,11 @@ Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -420,7 +518,7 @@ Calificación: SOBRESALIENTE 9.5
 ## TFG dirigidos
 
 {::nomarkdown}
-<div class="section" id="sec-dirigidos">
+<div class="section" id="sec-tfg-dirigidos">
   <div class="section-toolbar">
     <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
     <button type="button" class="btn-small btn-collapse">Collapse all</button>
@@ -430,6 +528,10 @@ Calificación: SOBRESALIENTE 9.5
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Predicción de resultados de circuitos de alta frecuencia con técnicas de inteligencia artificial
 
 {::nomarkdown}
@@ -444,6 +546,11 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -451,6 +558,10 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Implementación de un simulador 2D de elementos finitos en Julia
 
 {::nomarkdown}
@@ -465,6 +576,11 @@ Calificación: SOBRESALIENTE 9.3
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -472,6 +588,10 @@ Calificación: SOBRESALIENTE 9.3
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Desarrollo de una interfaz para Paraview desde Fortran
 
 {::nomarkdown}
@@ -484,6 +604,11 @@ Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -491,6 +616,10 @@ Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Estudio comparativo de diferentes software de diferenciación automática
 
 {::nomarkdown}
@@ -503,6 +632,11 @@ Calificación: NOTABLE 8.2
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -510,6 +644,10 @@ Calificación: NOTABLE 8.2
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Design, simulation and development of improvements for material characterization technologies.
 
 {::nomarkdown}
@@ -522,6 +660,11 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -529,6 +672,10 @@ Calificación: SOBRESALIENTE 9.7
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Estudio de técnicas de Inteligencia Artificial para la caracterización de materiales en la banda de microondas
 
 {::nomarkdown}
@@ -541,6 +688,11 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -548,6 +700,10 @@ Calificación: SOBRESALIENTE 9.7
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Diseño experimental de un array de antenas para comunicaciones con HAPS (High Altitude Platform Station)
 
 {::nomarkdown}
@@ -560,6 +716,11 @@ Calificación: NOTABLE 8.6
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -567,6 +728,10 @@ Calificación: NOTABLE 8.6
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Diseño experimental de una antena para generación de imagen por microondas
 
 {::nomarkdown}
@@ -579,6 +744,11 @@ Calificación: NOTABLE 8.6
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -586,6 +756,10 @@ Calificación: NOTABLE 8.6
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Refactorización de un código de elementos finitos en Julia
 
 {::nomarkdown}
@@ -598,6 +772,11 @@ Calificación: NOTABLE 8.5
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -605,6 +784,10 @@ Calificación: NOTABLE 8.5
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Estudio de los efectos del modelado electromagnético para la detección no invasiva de lesiones cutáneas.
 
 {::nomarkdown}
@@ -617,6 +800,11 @@ Calificación: SOBRESALIENTE 9.7
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -636,6 +824,10 @@ Calificación: SOBRESALIENTE 9.7
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Diseño y fabricación de circuitos de adaptación para uso docente
 
 {::nomarkdown}
@@ -648,6 +840,11 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -655,6 +852,10 @@ Calificación: ---
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Estudio de técnicas de detección de tejidos anómalos por medio de simulación electromagnética e inteligencia artificial
 
 {::nomarkdown}
@@ -667,6 +868,11 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -674,6 +880,10 @@ Calificación: ---
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Cosimulación de parte activa y pasiva en el desarrollo de sensores activos para caracterización biológica
 
 {::nomarkdown}
@@ -686,6 +896,11 @@ Calificación: ---
 <br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -716,6 +931,10 @@ An invited talk about *Fundamentals on Antennas* in European School of Antennas.
   </div>
 {:/}
 
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2025/2026
 
 {::nomarkdown}
@@ -743,6 +962,11 @@ Coordinador.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -750,6 +974,10 @@ Coordinador.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2024/2025
 
 {::nomarkdown}
@@ -781,6 +1009,11 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -788,6 +1021,10 @@ Profesor de teoría.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2023/2024
 
 {::nomarkdown}
@@ -815,6 +1052,11 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -822,6 +1064,10 @@ Profesor de teoría.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2022/2023
 
 {::nomarkdown}
@@ -853,6 +1099,11 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -860,6 +1111,10 @@ Profesor de teoría.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2021/2022
 
 {::nomarkdown}
@@ -895,6 +1150,11 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -902,6 +1162,10 @@ Profesor de teoría.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### 2020/2021
 
 {::nomarkdown}
@@ -926,6 +1190,11 @@ Profesor de teoría.
 <br><br><br><br>
 </details>
 {:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 </div>
 {:/}
@@ -937,37 +1206,36 @@ Profesor de teoría.
 {::nomarkdown}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.section').forEach(section => {
+  // Un toolbar por cada sección (Oferta, Dirigidos, Cursos, ...)
+  document.querySelectorAll('.teaching .section').forEach(section => {
     const btnExpand   = section.querySelector('.btn-expand');
     const btnCollapse = section.querySelector('.btn-collapse');
     if (!btnExpand || !btnCollapse) return;
 
     const detailsIn = () => Array.from(section.querySelectorAll('details'));
 
-    function setAll(open) {
-      detailsIn().forEach(d => { d.open = !!open; });
-      // En ambos estados ocultamos summaries (solo títulos H3 visibles en collapse,
-      // títulos + contenido en expand)
-      section.classList.add('hide-summaries');
-      section.classList.toggle('all-expanded', !!open);
-      btnExpand.setAttribute('aria-pressed', open ? 'true' : 'false');
+    function updateState() {
+      const ds = detailsIn();
+      const openCount = ds.filter(d => d.open).length;
+      const allOpen = ds.length > 0 && openCount === ds.length;
+      btnExpand.setAttribute('aria-pressed', allOpen ? 'true' : 'false');
     }
 
-    // Botones (controlan el estado global de la sección)
+    function setAll(open) {
+      detailsIn().forEach(d => { d.open = !!open; });
+      updateState();
+    }
+
     btnExpand.addEventListener('click', () => setAll(true));
     btnCollapse.addEventListener('click', () => setAll(false));
 
-    // Interacción manual: NO tocamos el resto de <details>.
-    // Sólo salimos del modo global para que reaparezcan los <summary> y el usuario
-    // pueda seguir plegando/desplegando individualmente.
+    // Si el usuario abre/cierra manualmente, recalculamos el estado del botón
     section.addEventListener('toggle', (e) => {
       if (e.target.tagName !== 'DETAILS') return;
-      section.classList.remove('hide-summaries', 'all-expanded');
-      btnExpand.setAttribute('aria-pressed', 'false');
+      updateState();
     }, true);
 
-    // Si quieres estado inicial colapsado con sólo títulos visibles, descomenta:
-    // setAll(false);
+    updateState();
   });
 });
 </script>

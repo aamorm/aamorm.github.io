@@ -567,7 +567,7 @@ footer.sticky-bottom {
     border-color:var(--global-theme-color);
     color:var(--global-theme-color);
   }
-  .section.all-expanded .btn-expand{
+  .btn-expand[aria-pressed="true"]{
     border-color:var(--global-theme-color);
     color:var(--global-theme-color);
   }
@@ -582,12 +582,7 @@ footer.sticky-bottom {
     display:inline-block;
   }
   .section details[open] > summary::after{ transform:rotate(90deg); }
-
-  /* Estado por sección */
-  .section.hide-summaries details > summary{ display:none; }
-  .section.hide-summaries details{ padding-top:.25rem; }
-
-  /* =========================
+/* =========================
      Estilo "offer" (toda la página)
      ========================= */
 
