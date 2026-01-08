@@ -828,6 +828,34 @@ Calificación: SOBRESALIENTE 9.7
 <div class="teachingDetail">
 {:/}
 
+##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
+
+{::nomarkdown}
+<details>
+<summary>Fernando Francisco Moya Rangel</summary>
+<br>
+TFM en Máster Universitario en Inteligencia Artificial Aplicada, septiembre 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Diseño y fabricación de circuitos de adaptación para uso docente
 
 {::nomarkdown}
@@ -863,6 +891,62 @@ Calificación: ---
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
 Sara Rodríguez Galán, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Diseño experimental de una antena en banda de microondas
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
+<br>
+Samuel Sánchez García, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Desarrollo experimental de un array de antenas con polarización circular
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Adrián del Cerro Bonilla, junio 2026. 
 <br>
 Calificación: ---
 <br><br>
@@ -934,6 +1018,9 @@ An invited talk about *Fundamentals on Antennas* in European School of Antennas.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
 
 ##### 2025/2026
 
@@ -942,6 +1029,7 @@ An invited talk about *Fundamentals on Antennas* in European School of Antennas.
 <summary>Asignaturas</summary>
 <br>
 <h5> Campos Electromagnéticos </h5> 
+<br>
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
@@ -949,14 +1037,17 @@ Coordinador, profesor de grupo reducido y prácticas.
 Coordinador, profesor de grupo reducido.
 <br><br>
 <h5> Tecnologías de Alta Frecuencia </h5> 
+<br>
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
 <h5> Dispositivos inalámbricos en IoT </h5> 
+<br>
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
 <h5> Prácticas en empresa </h5> 
+<br>
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
 <br><br><br><br>
@@ -984,26 +1075,31 @@ Coordinador.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h5> Campos Electromagnéticos </h5> 
+<h5> Campos Electromagnéticos </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
 <h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h5> Tecnologías de Alta Frecuencia </h5> 
+<h5> Tecnologías de Alta Frecuencia </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h5> Dispositivos inalámbricos en IoT </h5> 
+<h5> Dispositivos inalámbricos en IoT </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
-<h5> Prácticas en empresa </h5> 
+<h5> Prácticas en empresa </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied to communications I </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
@@ -1031,22 +1127,26 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h5> Campos Electromagnéticos </h5> 
+<h5> Campos Electromagnéticos </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Coordinador, profesor de grupo reducido y prácticas.
 <br><br>
 <h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h5> Tecnologías de Alta Frecuencia </h5> 
+<h5> Tecnologías de Alta Frecuencia </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h5> Dispositivos inalámbricos en IoT </h5> 
+<h5> Dispositivos inalámbricos en IoT </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied to communications I </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
@@ -1075,25 +1175,30 @@ Profesor de teoría.
 <summary>Asignaturas</summary>
 <br>
 <h5> Subsistemas de Radiofrecuencia y Antenas </h5>
+<br>
 <h6> Máster Universitario en Ingeniería de Telecomunicación</h6>
 Profesor de repaso.
 <br><br>
-<h5> Campos Electromagnéticos </h5> 
+<h5> Campos Electromagnéticos </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
 <h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h5> Tecnologías de Alta Frecuencia </h5> 
+<h5> Tecnologías de Alta Frecuencia </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido y responsable de prácticas.
 <br><br>
-<h5> Dispositivos inalámbricos en IoT </h5> 
+<h5> Dispositivos inalámbricos en IoT </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador, profesor de teoría y de prácticas.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
@@ -1121,30 +1226,36 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h5> Subsistemas de Radiofrecuencia y Antenas </h5> 
+<h5> Subsistemas de Radiofrecuencia y Antenas </h5>
+<br> 
 <h6> Máster Universitario en Ingeniería de Telecomunicación </h6>
 Profesor de repaso y responsable de prácticas.
 <br><br>
-<h5> Campos Electromagnéticos </h5> 
+<h5> Campos Electromagnéticos </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
 <h6> Grado en Ingeniería de Comunicaciones Móviles y Espacio. </h6>
 Coordinador, profesor de grupo reducido.
 <br><br>
-<h5> Tecnologías de Alta Frecuencia </h5> 
+<h5> Tecnologías de Alta Frecuencia </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido y responsable de prácticas.
 <br><br>
-<h5> Dispositivos inalámbricos en IoT </h5> 
+<h5> Dispositivos inalámbricos en IoT </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Profesor de teoría y responsable de prácticas.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied  to communications II </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
@@ -1172,19 +1283,23 @@ Profesor de teoría.
 <details>
 <summary>Asignaturas</summary>
 <br>
-<h5> Campos Electromagnéticos </h5> 
+<h5> Campos Electromagnéticos </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de grupo reducido.
 <br><br>
-<h5> Tecnologías de Alta Frecuencia </h5> 
+<h5> Tecnologías de Alta Frecuencia </h5>
+<br> 
 <h6> Grado en Ingeniería de Tecnologías de Telecomunicación. </h6>
 Profesor de dos grupos reducidos y responsable de prácticas.
 <br><br>
-<h5> Dispositivos inalámbricos en IoT </h5> 
+<h5> Dispositivos inalámbricos en IoT </h5>
+<br> 
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Profesor de teoría y responsable de prácticas.
 <br><br>
 <h5> Fundamentals on computational electromagnetism applied  to communications I </h5>
+<br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
 <br><br><br><br>
