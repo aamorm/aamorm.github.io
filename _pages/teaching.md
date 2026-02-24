@@ -59,7 +59,7 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 <div class="teachingDetail">
 {:/}
 
-##### Estudio comparativo de lenguajes de programación (python, julia, MATLAB) en un software de elementos finitos
+##### Estudio comparativo de lenguajes de programación (python, julia, MATLAB, rust) en un software de elementos finitos
 
 {::nomarkdown}
 <details>
@@ -67,7 +67,7 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 <br>
 El mundo de la programación científica es muy cambiante y cada cierto tiempo salen nuevos actores que dicen que son los más rápidos, o los más eficientes.
 <br>
-Python lleva muchos años clamando ser el killer language de todos los lenguajes "user-friendly" o fáciles de programar, aunque sus prestaciones no parecen ser muy elevadas. MATLAB es un lenguaje que ha mejorado mucho en los últimos años, especialmente su paradigma de orientación a objetos. Finalmente, julia, con su multiple dispatch, insiste en ser igual de rápido que versiones compiladas (C, Fortran) pero más fácil de aprender.
+Python lleva muchos años clamando ser el killer language de todos los lenguajes "user-friendly" o fáciles de programar, aunque sus prestaciones no parecen ser muy elevadas. MATLAB es un lenguaje que ha mejorado mucho en los últimos años, especialmente su paradigma de orientación a objetos. Rust es una alternativa que ha surgido en los últimos tiempos y que intenta mejorar prestaciones sobre C/C++, con una mejor gestión de la seguridad. Finalmente, julia, con su multiple dispatch, insiste en ser igual de rápido que versiones compiladas (C, Fortran) pero más fácil de aprender.
 <br>
 El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuál es el mejor para una aplicación de elementos finitos. Para ello, el alumno no empezaría de cero sino que ya hay algunas rutinas programadas en MATLAB que habría que comparar con los nuevos códigos desarrollados.
 <br><br>
@@ -832,9 +832,9 @@ Calificación: SOBRESALIENTE 9.7
 
 {::nomarkdown}
 <details>
-<summary>Fernando Francisco Moya Rangel</summary>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
 <br>
-TFM en Máster Universitario en Inteligencia Artificial Aplicada, septiembre 2026. 
+, septiembre 2026. 
 <br>
 Calificación: ---
 <br><br>
@@ -940,6 +940,34 @@ Calificación: ---
 <div class="teachingDetail">
 {:/}
 
+##### 5G for Airbone Communications
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería Telemática </summary>
+<br>
+Andrea González García, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Desarrollo experimental de un array de antenas con polarización circular
 
 {::nomarkdown}
@@ -947,6 +975,62 @@ Calificación: ---
 <summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
 <br>
 Adrián del Cerro Bonilla, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Simulación de modelos antropomórficos para sensores de radiofrecuencia
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Lucía Merinero López, junio 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Implementación de un solver autodiferenciable en lenguajes de computación científica
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Izan Rodríguez Cuerdo, junio 2026. 
 <br>
 Calificación: ---
 <br><br>
