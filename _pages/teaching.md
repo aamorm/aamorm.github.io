@@ -158,6 +158,24 @@ La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D
 <div class="teachingDetail">
 {:/}
 
+##### Cosimulación de elementos activos y pasivos en ADS
+
+{::nomarkdown}
+<details>
+<summary>Planteamiento</summary>
+<br>
+La motivación de este trabajo es que, actualmente, para el diseño de elementos activos que interactúan con circuitos pasivos (por ejemplo, sensores) se usan simuladores circuitales que están optimizados para esa tarea, pero no tiene la parte de interacción con los materiales. Esto es necesario porque las técnicas de análisis de circuitos activos son no lineales y normalmente no están dentro de las herramientas de simulación de onda completa que se utilizan habitualmente en circuitos pasivos.
+<br>
+La idea es desarrollar un proyecto de cosimulación en ADS que permita conectar estos elementos dentro del mismo software para tener una representación más realista de los circuitos que se fabricna posteriormente. Ya se han hecho esfuerzos en otros softwares (CST) y se quiere experimentar con la licencia de ADS, que es un software más potente que otros simuladores circuitales y que está pensado precisamente para este caso.
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+<div class="teachingDetail">
+{:/}
+
 ##### Desarrollo de un código FEM 2D/3D para la simulación de estructuras SIW
 
 {::nomarkdown}
@@ -862,9 +880,9 @@ Calificación: ---
 <details>
 <summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
 <br>
-Luis María Casla Gárate, septiembre 2026. 
+Luis María Casla Gárate, febrero 2026. 
 <br>
-Calificación: ---
+Calificación: 9.7 SOBRESALIENTE
 <br><br>
 </details>
 {:/}
