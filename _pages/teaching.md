@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching/tfg-tfm
 description: Oferta de TFG/TFM, TFG/TFM dirigidos y en dirección, y cursos impartidos.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div class="teaching">
