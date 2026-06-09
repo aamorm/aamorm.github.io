@@ -8,7 +8,6 @@
           {%- if content.publisher -%}{{ content.publisher }}{%- endif -%}
           {%- if content.quartile -%}{% if content.publisher %} · {% endif %}{{ content.quartile }}{%- endif -%}
           {%- if content.years -%}{% if content.publisher or content.quartile %} · {% endif %}{{ content.years }}{%- endif -%}
-          {%- if content.reviews -%}{% if content.publisher or content.quartile or content.years %} · {% endif %}{{ content.reviews }} review{% if content.reviews != 1 %}s{% endif %}{%- endif -%}
         </h6>
       </div>
     </div>

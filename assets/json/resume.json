@@ -139,6 +139,89 @@
       "role": "Treasurer, elected on march 2024"
     }
   ],
+  "selected publicly funded projects": [
+    {
+      "name": "DISCO6G-CM",
+      "summary": "Desarrollo e Integración de Sensores y COmunicaciones para servicios avanzados en 6G",
+      "amount": "Principal researcher at IPMEC-UC3M; awarded by Comunidad de Madrid",
+      "startDate": "2025",
+      "endDate": "2028"
+    },
+    {
+      "name": "6G-LEADER",
+      "summary": "Learning-Driven and Evolved Radio for 6G Communication Systems",
+      "amount": "Researcher; European Research Project awarded by the European Commission Research Executive Agency",
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "STARRING-IMPLE",
+      "summary": "Spatial Audio and Array Processing for Industrial Applications and Digital Transformation: Efficient Implementations through Parallel and Approximate Computing",
+      "amount": "Principal researcher; awarded by Agencia Estatal de Investigación (AEI)",
+      "startDate": "2023",
+      "endDate": "2026"
+    },
+    {
+      "name": "PTec-UC3M",
+      "summary": "Plan de promoción de estudios de Telecomunicaciones y atracción de talento UC3M",
+      "amount": "Principal researcher; awarded by Ministerio de Economía, Comercio y Empresa",
+      "startDate": "2021",
+      "endDate": "2025"
+    },
+    {
+      "name": "MIMACUHSPACE-CM-UC3M",
+      "summary": "Microwave Materials Characterization Using Heterogeneous Systems-on-Chip for the Space Environment",
+      "amount": "Principal researcher; awarded by Comunidad de Madrid",
+      "startDate": "2022",
+      "endDate": "2023"
+    }
+  ],
+  "research contracts": [
+    {
+      "name": "Clasificación de Descargas Parciales mediante uso de IA",
+      "summary": "AI-based classification of partial discharges",
+      "amount": "Researcher; contract with AMPACIMON SLU",
+      "startDate": "2026",
+      "endDate": "2026"
+    },
+    {
+      "name": "Consultoría tecnológica en el desarrollo del BWG dentro del proyecto S3TTR",
+      "summary": "Technology consultancy for BWG development within the S3TTR project",
+      "amount": "Principal researcher; contract with TTI Norte SLU",
+      "startDate": "2025",
+      "endDate": "2025"
+    },
+    {
+      "name": "SPACECAR",
+      "summary": "Caracterización de materiales mediante tecnología de microondas usando sistemas embebidos heterogéneos para el entorno espacial",
+      "amount": "Principal researcher; contract with Arquimea Aerospace Defence and Security",
+      "startDate": "2023",
+      "endDate": "2023"
+    },
+    {
+      "name": "FEM solutions for AIRBUS",
+      "summary": "Integration and Industrialization of FEM Solutions for Computational Electromagnetics",
+      "amount": "Researcher; contract with Airbus Defence and Space",
+      "startDate": "2022",
+      "endDate": "2026"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1 certified"
+    },
+    {
+      "language": "German",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [],
+  "references": [],
   "reviewer": [
     {
       "name": "IEEE Antennas and Propagation Magazine",
@@ -163,8 +246,7 @@
     {
       "name": "Mathematics",
       "publisher": "MDPI",
-      "quartile": "JCR Q1",
-      "reviews": 2
+      "quartile": "JCR Q1"
     },
     {
       "name": "IEEE Transactions on Fuzzy Systems",
@@ -184,8 +266,7 @@
     {
       "name": "Journal of Computational Science",
       "publisher": "Elsevier",
-      "quartile": "JCR Q1",
-      "reviews": 5
+      "quartile": "JCR Q1"
     },
     {
       "name": "Journal of Computational Design and Engineering",
@@ -205,8 +286,7 @@
     {
       "name": "Advances in Engineering Software",
       "publisher": "Elsevier",
-      "quartile": "JCR Q1",
-      "reviews": 1
+      "quartile": "JCR Q1"
     },
     {
       "name": "Archives of Computational Methods in Engineering",
@@ -216,20 +296,17 @@
     {
       "name": "Applied Sciences",
       "publisher": "MDPI",
-      "quartile": "JCR Q2",
-      "reviews": 2
+      "quartile": "JCR Q2"
     },
     {
       "name": "Sensors",
       "publisher": "MDPI",
-      "quartile": "JCR Q2",
-      "reviews": 1
+      "quartile": "JCR Q2"
     },
     {
       "name": "Journal of Applied Geophysics",
       "publisher": "Elsevier",
-      "quartile": "JCR Q2",
-      "reviews": 4
+      "quartile": "JCR Q2"
     },
     {
       "name": "IEEE Transactions on Artificial Intelligence",
@@ -239,8 +316,7 @@
     {
       "name": "The Journal of Supercomputing",
       "publisher": "Springer",
-      "quartile": "JCR Q2",
-      "reviews": 2
+      "quartile": "JCR Q2"
     },
     {
       "name": "Physics of the Earth and Planetary Interiors",
@@ -260,8 +336,7 @@
     {
       "name": "PLOS ONE",
       "publisher": "PLOS",
-      "quartile": "JCR Q2",
-      "reviews": 1
+      "quartile": "JCR Q2"
     },
     {
       "name": "IET Microwaves, Antennas & Propagation",
@@ -320,65 +395,5 @@
       "publisher": "Technovation",
       "years": "2020"
     }
-  ],
-  "selected projects": [
-    {
-      "name": "DISCO6G-CM", 
-      "summary": "Desarrollo e Integración de Sensores y COmunicaciones para servicios avanzados en 6G",
-      "amount": "Principal Investigator of IPMEC-UC3M, funded with 112,301€ by Madrid Regional Government in the call Tecnologías 2024",
-      "startDate": "2025-01",
-      "endDate": "2028-12"
-    },
-    {
-      "name": "STARRING-IMPLE", 
-      "summary": "Spatial Audio and Array Processing for Industrial Applications and Digital Transformation: Efficient Implementations through Parallel and Approximate Computing",
-      "amount": "Principal Investigator, funded with 42,000€ by Spanish Research Agency in the 2022 call of Proyectos de Generación de Conocimiento",
-      "startDate": "2023-10",
-      "endDate": "2026-05"
-    },
-    {
-      "name": "MIMACUHSPACE-CM", 
-      "summary": "MIcrowave MAterial Characterization Using Heterogeneous Systems-on-chip for the SPACE environment",
-      "amount": "Principal Investigator, funded with 60,000€ by Madrid Regional Government",
-      "startDate": "2022-01",
-      "endDate": "2023-12"
-    },
-    {
-      "name": "SPACECAR", 
-      "summary": "Caracterización de materiales mediante tecnología de microondas usando sistemas embebidos heterogéneos para el entorno espacial",
-      "amount": "Principal Investigator, funded with 60,500€ by Arquimea Aerospace Defence and Security",
-      "startDate": "2023-04",
-      "endDate": "2023-12"
-    },
-    {
-      "name": "PTec-UC3M", 
-      "summary": "Plan de promoción de estudios de telecomunicaciones y atracción de talento UC3M",
-      "amount": "Principal Investigator, funded with 250,000€ by Spanish Ministry of Economy and Digital Transformation",
-      "startDate": "2021-11",
-      "endDate": "2024-12"
-    },
-    {
-      "name": "FEM solutions for AIRBUS", 
-      "summary": "Integration and Industrialization of FEM Solutions for Computational Electromagnetics",
-      "amount": "Part of the research team, funded by Airbus Defence and Space",
-      "startDate": "2022-05",
-      "endDate": "2026-12"
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "C1 certified"
-    },
-    {
-      "language": "German",
-      "fluency": "B1"
-    }
-  ],
-  "interests": [],
-  "references": []
+  ]
 }

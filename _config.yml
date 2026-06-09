@@ -420,9 +420,9 @@ jsonresume:
   - work
   - education
   - publications
-  - reviewer
   - participation in organizations
-  - selected projects
+  - selected publicly funded projects
+  - research contracts
   - volunteer
   - awards
   - certificates
@@ -430,3 +430,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - reviewer
