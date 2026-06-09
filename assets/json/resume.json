@@ -84,6 +84,15 @@
   "skills": [],
   "participation in organizations": [
     {
+      "organization": "Board of Government @ COIT",
+      "url": "https://www.coit.es/el-colegio/organos-de-gobierno/elecciones-junta-de-gobierno-coit-2026",
+      "startDate": "2026-05",
+      "role": "Vocal Suplente 4º",
+      "highlights": [
+        "Fourth substitute board member of the Official Association of Telecommunications Engineers"
+      ]
+    },
+    {
       "organization": "GT Ciencia @ COIT",
       "url": "https://www.coit.es/grupos-de-trabajo/ciencia",
       "startDate": "2025-04",
@@ -128,6 +137,188 @@
       "organization": "Treasurer of the Spanish Chapter of IEEE MTT and AP-S Sections",
       "startDate": "2024-03",
       "role": "Treasurer, elected on march 2024"
+    }
+  ],
+  "reviewer": [
+    {
+      "name": "IEEE Antennas and Propagation Magazine",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "IEEE Access",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "AIMS Mathematics",
+      "publisher": "AIMS Press",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "Mathematics",
+      "publisher": "MDPI",
+      "quartile": "JCR Q1",
+      "reviews": 2
+    },
+    {
+      "name": "IEEE Transactions on Fuzzy Systems",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "IEEE Transactions on Antennas and Propagation",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "IEEE Geoscience and Remote Sensing Letters",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "Journal of Computational Science",
+      "publisher": "Elsevier",
+      "quartile": "JCR Q1",
+      "reviews": 5
+    },
+    {
+      "name": "Journal of Computational Design and Engineering",
+      "publisher": "Oxford University Press",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "WIREs Data Mining and Knowledge Discovery",
+      "publisher": "Wiley",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "Engineering with Computers",
+      "publisher": "Springer",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "Advances in Engineering Software",
+      "publisher": "Elsevier",
+      "quartile": "JCR Q1",
+      "reviews": 1
+    },
+    {
+      "name": "Archives of Computational Methods in Engineering",
+      "publisher": "Springer",
+      "quartile": "JCR Q1"
+    },
+    {
+      "name": "Applied Sciences",
+      "publisher": "MDPI",
+      "quartile": "JCR Q2",
+      "reviews": 2
+    },
+    {
+      "name": "Sensors",
+      "publisher": "MDPI",
+      "quartile": "JCR Q2",
+      "reviews": 1
+    },
+    {
+      "name": "Journal of Applied Geophysics",
+      "publisher": "Elsevier",
+      "quartile": "JCR Q2",
+      "reviews": 4
+    },
+    {
+      "name": "IEEE Transactions on Artificial Intelligence",
+      "publisher": "IEEE",
+      "quartile": "Scopus Q1"
+    },
+    {
+      "name": "The Journal of Supercomputing",
+      "publisher": "Springer",
+      "quartile": "JCR Q2",
+      "reviews": 2
+    },
+    {
+      "name": "Physics of the Earth and Planetary Interiors",
+      "publisher": "Elsevier",
+      "quartile": "JCR Q2"
+    },
+    {
+      "name": "Transactions on Emerging Telecommunications Technologies",
+      "publisher": "Wiley",
+      "quartile": "JCR Q2"
+    },
+    {
+      "name": "IEEE Transactions on Microwave Theory and Techniques",
+      "publisher": "IEEE",
+      "quartile": "JCR Q2"
+    },
+    {
+      "name": "PLOS ONE",
+      "publisher": "PLOS",
+      "quartile": "JCR Q2",
+      "reviews": 1
+    },
+    {
+      "name": "IET Microwaves, Antennas & Propagation",
+      "publisher": "IET",
+      "quartile": "JCR Q3"
+    },
+    {
+      "name": "Energies",
+      "publisher": "MDPI",
+      "quartile": "JCR Q3"
+    },
+    {
+      "name": "International Journal of RF and Microwave Computer-Aided Engineering",
+      "publisher": "Wiley",
+      "quartile": "JCR Q3"
+    },
+    {
+      "name": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+      "publisher": "IEEE",
+      "quartile": "JCR Q3"
+    },
+    {
+      "name": "ACES Journal",
+      "publisher": "ACES Society",
+      "quartile": "JCR Q4"
+    },
+    {
+      "name": "IEEE Magnetics Letters",
+      "publisher": "IEEE",
+      "quartile": "JCR Q4"
+    },
+    {
+      "name": "Discover Mechanical Engineering",
+      "publisher": "Springer Nature",
+      "quartile": "Scopus Q2"
+    },
+    {
+      "name": "SoftwareX",
+      "publisher": "Elsevier"
+    },
+    {
+      "name": "Electromagnetic Science",
+      "publisher": "URSI"
+    },
+    {
+      "name": "URSI Spanish Symposium",
+      "publisher": "URSI",
+      "years": "2021, 2022, 2023, 2024, 2025, 2026"
+    },
+    {
+      "name": "Premios del Colegio Oficial de Ingenieros de Telecomunicación",
+      "publisher": "COIT"
+    },
+    {
+      "name": "Technovation Girls",
+      "publisher": "Technovation",
+      "years": "2020"
     }
   ],
   "selected projects": [
