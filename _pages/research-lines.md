@@ -7,15 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-{::nomarkdown}
-<style>
-  .research-lines-bibliography summary .h2 {
-    font-size: 1rem;
-    font-weight: 400;
-  }
-</style>
-{:/}
-
 ## Computational electromagnetics
 
 This line focuses on numerical methods for solving Maxwell's equations in complex scenarios. The main technical core is the finite element method (FEM), especially high-order curl-conforming formulations, Nedelec basis functions, domain decomposition methods, verification, and large-scale simulation. Strongly related with Luis E. García Castillo and Sergio Llorente Romano.
@@ -31,9 +22,9 @@ This line connects with previous work on high-order FEM, Nedelec elements, domai
 Selected references and conference contributions:
 
 {::nomarkdown}
-<div class="publications research-lines-bibliography">
+<div class="publications">
   <details class="pub-section" open>
-    <summary><span class="h2">selected papers</span></summary>
+    <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_journals -q @*[key^=aamor_ap23|toth_ap23|aamor_ap22|aamor_mmas24|aamor_jcomp21|aamor_ap16]* %}
@@ -42,7 +33,7 @@ Selected references and conference contributions:
   </details>
 
   <details class="pub-section">
-    <summary><span class="h2">conference contributions</span></summary>
+    <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_conferences -q @*[key^=aamor_cmmse25|aamor_iceaa23|aamor_eiec23|toth_mikon22|aamor_eumc18]* %}
@@ -65,10 +56,10 @@ This line explores the intersection between electromagnetic simulation and AI. T
 Selected references:
 
 {::nomarkdown}
-<div class="publications research-lines-bibliography">
+<div class="publications">
 
   <details class="pub-section">
-    <summary><span class="h2">conference contributions</span></summary>
+    <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_conferences -q @*[key^=gomez_eiec25]* %}
@@ -91,9 +82,9 @@ This line applies computational electromagnetics to subsurface exploration, geop
 Selected references:
 
 {::nomarkdown}
-<div class="publications research-lines-bibliography">
+<div class="publications">
   <details class="pub-section" open>
-    <summary><span class="h2">selected papers</span></summary>
+    <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_journals -q @*[key^=castilo_cg23|castillo_cg22|castillo_jcs22]* %}
@@ -118,9 +109,9 @@ This line connects with work on GPU acceleration, many-core architectures, edge 
 Selected references:
 
 {::nomarkdown}
-<div class="publications research-lines-bibliography">
+<div class="publications">
   <details class="pub-section" open>
-    <summary><span class="h2">selected papers</span></summary>
+    <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_journals -q @*[key^=ortigoso-narro26|martin_eurasip25|badia_tns25|badia_access20]* %}
@@ -146,9 +137,9 @@ This line is a strong option for students who want to combine simulation with la
 Selected references and conference contributions:
 
 {::nomarkdown}
-<div class="publications research-lines-bibliography">
+<div class="publications">
   <details class="pub-section" open>
-    <summary><span class="h2">selected papers</span></summary>
+    <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_journals -q @*[key^=sasantia_access26]* %}
@@ -157,7 +148,7 @@ Selected references and conference contributions:
   </details>
 
   <details class="pub-section">
-    <summary><span class="h2">conference contributions</span></summary>
+    <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
 {% bibliography -f aamor_conferences -q @*[key^=santiago_eumc24|santiago_imbioc24|santiago_eumc23]* %}
