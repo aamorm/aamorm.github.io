@@ -102,6 +102,35 @@
       ]
     },
     {
+      "organization": "IEEE",
+      "url": "https://www.ieee.org/",
+      "startDate": "2023",
+      "role": "Senior Member",
+      "highlights": [
+        "Elevated to IEEE Senior Member in recognition of professional maturity and significant performance"
+      ]
+    },
+    {
+      "organization": "Sigma Xi, The Scientific Research Honor Society",
+      "url": "https://www.sigmaxi.org/",
+      "startDate": "2023",
+      "role": "Full Member",
+      "highlights": [
+        "Elected as Full Member in recognition of scholarly achievements and contributions"
+      ]
+    },
+    {
+      "organization": "Signal Processing and Communications Engineering Ph.D. Program @ UC3M",
+      "url": "https://www.uc3m.es/phdprogram/signal-processing-communications",
+      "startDate": "2022-05",
+      "role": "Member of the Academic Commission",
+      "highlights": [
+        "Participation in the academic governance and quality assurance of the doctoral program",
+        "Evaluation and follow-up of Ph.D. students' research progress and training activities",
+        "Support for admission, supervision and program coordination procedures"
+      ]
+    },
+    {
       "organization": "GT Jóvenes @ COIT",
       "url": "https://www.coit.es/grupos-de-trabajo/gt-jovenes",
       "startDate": "2020-10",
@@ -128,9 +157,18 @@
       "url": "https://ursi.es/comite-nacional/",
       "startDate": "2022-11",
       "role": "Member, social networks and representative of young engineers",
-      "highlights": [ 
+      "highlights": [
         "Created the LinkedIn channel from scratch to the current 552 followers",
         "Created the 3MT Award"
+      ]
+    },
+    {
+      "organization": "IEEE APS/SC/CEM Working Group P2816",
+      "url": "https://standards.ieee.org/",
+      "startDate": "2018",
+      "role": "Working Group Member",
+      "highlights": [
+        "Contribution to IEEE P2816 Recommended Practice for Computational Electromagnetics Applied to Modeling and Simulation of Antennas"
       ]
     },
     {
@@ -176,7 +214,7 @@
       "endDate": "2023"
     }
   ],
-  "research contracts": [
+  "selected research contracts": [
     {
       "name": "Clasificación de Descargas Parciales mediante uso de IA",
       "summary": "AI-based classification of partial discharges",

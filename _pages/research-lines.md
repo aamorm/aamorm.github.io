@@ -7,6 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+{::nomarkdown}
+<style>
+  .research-lines-bibliography summary .h2 {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+</style>
+{:/}
+
 ## Computational electromagnetics
 
 This line focuses on numerical methods for solving Maxwell's equations in complex scenarios. The main technical core is the finite element method (FEM), especially high-order curl-conforming formulations, Nedelec basis functions, domain decomposition methods, verification, and large-scale simulation. Strongly related with Luis E. García Castillo and Sergio Llorente Romano.
@@ -22,7 +31,7 @@ This line connects with previous work on high-order FEM, Nedelec elements, domai
 Selected references and conference contributions:
 
 {::nomarkdown}
-<div class="publications">
+<div class="publications research-lines-bibliography">
   <details class="pub-section" open>
     <summary><span class="h2">selected papers</span></summary>
     <div class="bibwrap">
@@ -56,7 +65,7 @@ This line explores the intersection between electromagnetic simulation and AI. T
 Selected references:
 
 {::nomarkdown}
-<div class="publications">
+<div class="publications research-lines-bibliography">
 
   <details class="pub-section">
     <summary><span class="h2">conference contributions</span></summary>
@@ -82,7 +91,7 @@ This line applies computational electromagnetics to subsurface exploration, geop
 Selected references:
 
 {::nomarkdown}
-<div class="publications">
+<div class="publications research-lines-bibliography">
   <details class="pub-section" open>
     <summary><span class="h2">selected papers</span></summary>
     <div class="bibwrap">
@@ -109,7 +118,7 @@ This line connects with work on GPU acceleration, many-core architectures, edge 
 Selected references:
 
 {::nomarkdown}
-<div class="publications">
+<div class="publications research-lines-bibliography">
   <details class="pub-section" open>
     <summary><span class="h2">selected papers</span></summary>
     <div class="bibwrap">
@@ -137,7 +146,7 @@ This line is a strong option for students who want to combine simulation with la
 Selected references and conference contributions:
 
 {::nomarkdown}
-<div class="publications">
+<div class="publications research-lines-bibliography">
   <details class="pub-section" open>
     <summary><span class="h2">selected papers</span></summary>
     <div class="bibwrap">
