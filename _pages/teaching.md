@@ -322,7 +322,7 @@ Calificación: SOBRESALIENTE 9.1
 <br>
 TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas, marzo 2024. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominado matrícula de honor)
+Calificación: SOBRESALIENTE 10 (nominada a matrícula de honor)
 <br><br>
 </details>
 {:/}
@@ -618,7 +618,7 @@ Calificación: SOBRESALIENTE 9.3
 <br>
 TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, marzo 2024. 
 <br>
-Calificación: SOBRESALIENTE 10 (nominada matrícula de honor)
+Calificación: SOBRESALIENTE 10 (nominada a matrícula de honor)
 <br><br>
 </details>
 {:/}
@@ -966,7 +966,7 @@ Calificación: ---
 <br>
 Andrea González García, junio 2026. 
 <br>
-Calificación: ---
+Calificación: 9 SOBRESALIENTE
 <br><br>
 </details>
 {:/}
@@ -994,7 +994,7 @@ Calificación: ---
 <br>
 Adrián del Cerro Bonilla, junio 2026. 
 <br>
-Calificación: ---
+Calificación: 9.8 SOBRESALIENTE (nominado a matrícula de honor)
 <br><br>
 </details>
 {:/}
