@@ -827,52 +827,6 @@ Calificación: SOBRESALIENTE 9.7
 </div>
 {:/}
 
-{::nomarkdown}</div>{:/}
-
-## TFG/TFM en dirección
-
-{::nomarkdown}
-<div class="section" id="sec-endireccion">
-  <div class="section-toolbar">
-    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
-    <button type="button" class="btn-small btn-collapse">Collapse all</button>
-  </div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
-<br>
-, septiembre 2026. 
-<br>
-Calificación: ---
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 
 ##### Diseño y fabricación de circuitos de adaptación para uso docente
 
@@ -882,7 +836,7 @@ Calificación: ---
 <br>
 Luis María Casla Gárate, febrero 2026. 
 <br>
-Calificación: 9.7 SOBRESALIENTE
+Calificación: SOBRESALIENTE 9.7 
 <br><br>
 </details>
 {:/}
@@ -910,35 +864,7 @@ Calificación: 9.7 SOBRESALIENTE
 <br>
 Sara Rodríguez Galán, junio 2026. 
 <br>
-Calificación: ---
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Diseño experimental de una antena en banda de microondas
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
-<br>
-Samuel Sánchez García, junio 2026. 
-<br>
-Calificación: ---
+Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 <br><br>
 </details>
 {:/}
@@ -966,7 +892,7 @@ Calificación: ---
 <br>
 Andrea González García, junio 2026. 
 <br>
-Calificación: 9 SOBRESALIENTE
+Calificación: SOBRESALIENTE 9
 <br><br>
 </details>
 {:/}
@@ -994,63 +920,7 @@ Calificación: 9 SOBRESALIENTE
 <br>
 Adrián del Cerro Bonilla, junio 2026. 
 <br>
-Calificación: 9.8 SOBRESALIENTE (nominado a matrícula de honor)
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Simulación de modelos antropomórficos para sensores de radiofrecuencia
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Lucía Merinero López, junio 2026. 
-<br>
-Calificación: ---
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Implementación de un solver autodiferenciable en lenguajes de computación científica
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Izan Rodríguez Cuerdo, junio 2026. 
-<br>
-Calificación: ---
+Calificación: SOBRESALIENTE 9.8 (nominado a matrícula de honor)
 <br><br>
 </details>
 {:/}
@@ -1078,6 +948,46 @@ Calificación: ---
 <br>
 Alejandro Thomas Oliva, junio 2026. 
 <br>
+Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}</div>{:/}
+
+## TFG/TFM en dirección
+
+{::nomarkdown}
+<div class="section" id="sec-endireccion">
+  <div class="section-toolbar">
+    <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
+    <button type="button" class="btn-small btn-collapse">Collapse all</button>
+  </div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
+
+{::nomarkdown}
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<br>
+Fernando Francisco Moya Rangel, septiembre 2026. 
+<br>
 Calificación: ---
 <br><br>
 </details>
@@ -1089,6 +999,97 @@ Calificación: ---
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Diseño experimental de una antena en banda de microondas
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
+<br>
+Samuel Sánchez García, septiembre 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Simulación de modelos antropomórficos para sensores de radiofrecuencia
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Lucía Merinero López, septiembre 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Implementación de un solver autodiferenciable en lenguajes de computación científica
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Izan Rodríguez Cuerdo, septiembre 2026. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
 {:/}
 
 {::nomarkdown}</div>{:/}
