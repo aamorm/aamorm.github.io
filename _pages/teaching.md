@@ -961,6 +961,34 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 </div>
 {:/}
 
+##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
+
+{::nomarkdown}
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<br>
+Fernando Francisco Moya Rangel, septiembre 2026. 
+<br>
+Calificación: SOBRESALIENTE 9.7
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 {::nomarkdown}</div>{:/}
 
 ## TFG/TFM en dirección
@@ -980,13 +1008,13 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 <div class="teachingDetail">
 {:/}
 
-##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
+##### Clasificación de Descargas Parciales mediante uso de IA.
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<summary>TFM en Máster Universitario en Ingeniería de Diseño Microelectrónico</summary>
 <br>
-Fernando Francisco Moya Rangel, septiembre 2026. 
+María Sánchez Aparicio, septiembre 2026. 
 <br>
 Calificación: ---
 <br><br>
