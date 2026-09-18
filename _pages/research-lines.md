@@ -19,15 +19,13 @@ This line focuses on numerical methods for solving Maxwell's equations in comple
 
 This line connects with previous work on high-order FEM, Nedelec elements, domain decomposition, code verification through manufactured solutions, and industrial electromagnetic simulation.
 
-Selected references and conference contributions:
-
 {::nomarkdown}
 <div class="publications">
   <details class="pub-section" open>
     <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_journals -q @*[key^=aamor_ap23|toth_ap23|aamor_ap22|aamor_mmas24|aamor_jcomp21|aamor_ap16]* %}
+{% bibliography -f aamor_journals -q @*[key^=aamor_jcam26|aamor_ap23|toth_ap23|aamor_ap22|aamor_mmas24|aamor_jcomp21|aamor_ap16]* %}
 {::nomarkdown}
     </div>
   </details>
@@ -36,12 +34,14 @@ Selected references and conference contributions:
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_conferences -q @*[key^=aamor_cmmse25|aamor_iceaa23|aamor_eiec23|toth_mikon22|aamor_eumc18]* %}
+{% bibliography -f aamor_conferences -q @*[key^=aamor_iceaa23|aamor_eiec23|toth_mikon22|aamor_eumc18]* %}
 {::nomarkdown}
     </div>
   </details>
 </div>
 {:/}
+
+---
 
 ## Scientific machine learning and inverse problems
 
@@ -62,37 +62,14 @@ Selected references:
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_conferences -q @*[key^=gomez_eiec25]* %}
+{% bibliography -f aamor_conferences -q @*[key^=gomez_gonzalez_nemo26|gomez_eiec25]* %}
 {::nomarkdown}
     </div>
   </details>
 </div>
 {:/}
 
-## Geo-electromagnetics
-
-This line applies computational electromagnetics to subsurface exploration, geophysical modeling, and electromagnetic inverse problems at low frequencies. It includes collaboration with researchers working on large-scale scientific computing and geophysical simulations.
-
-- Preparing datasets from electromagnetic simulations for AI-based classification.
-- Studying reservoir identification problems involving water, oil, gas, or metallic infrastructure.
-- Comparing solver strategies for large geophysical electromagnetic models.
-- Working with high-performance computing tools and simulation workflows.
-- Testing mesh refinement strategies for challenging subsurface geometries.
-
-Selected references:
-
-{::nomarkdown}
-<div class="publications">
-  <details class="pub-section" open>
-    <summary><span class="h4">selected papers</span></summary>
-    <div class="bibwrap">
-{:/}
-{% bibliography -f aamor_journals -q @*[key^=castilo_cg23|castillo_cg22|castillo_jcs22]* %}
-{::nomarkdown}
-    </div>
-  </details>
-</div>
-{:/}
+---
 
 ## Heterogeneous and embedded computing
 
@@ -121,6 +98,33 @@ Selected references:
 </div>
 {:/}
 
+---
+
+## Geo-electromagnetics
+
+This line applies computational electromagnetics to subsurface exploration, geophysical modeling, and electromagnetic inverse problems at low frequencies. It includes collaboration with researchers working on large-scale scientific computing and geophysical simulations.
+
+- Preparing datasets from electromagnetic simulations for AI-based classification.
+- Studying reservoir identification problems involving water, oil, gas, or metallic infrastructure.
+- Comparing solver strategies for large geophysical electromagnetic models.
+- Working with high-performance computing tools and simulation workflows.
+- Testing mesh refinement strategies for challenging subsurface geometries.
+
+{::nomarkdown}
+<div class="publications">
+  <details class="pub-section" open>
+    <summary><span class="h4">selected papers</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_journals -q @*[key^=castilo_cg23|castillo_cg22|castillo_jcs22]* %}
+{::nomarkdown}
+    </div>
+  </details>
+</div>
+{:/}
+
+---
+
 ## Antennas, microwave sensors, and RF prototypes
 
 This line is closer to hardware, measurement, and RF design. It includes antennas, microwave sensors, active resonant circuits, biological and material characterization, and experimental validation. Strongly related with Daniel Segovia Vargas.
@@ -142,7 +146,7 @@ Selected references and conference contributions:
     <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_journals -q @*[key^=sasantia_access26]* %}
+{% bibliography -f aamor_journals -q @*[key^=fernandez_tap26|sasantia_access26]* %}
 {::nomarkdown}
     </div>
   </details>
@@ -151,12 +155,14 @@ Selected references and conference contributions:
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_conferences -q @*[key^=santiago_eumc24|santiago_imbioc24|santiago_eumc23]* %}
+{% bibliography -f aamor_conferences -q @*[key^=santiago_nemo26|santiago_eumc24|santiago_imbioc24|santiago_eumc23]* %}
 {::nomarkdown}
     </div>
   </details>
 </div>
 {:/}
+
+---
 
 ## ISAC, communications, audio, and XR
 
@@ -170,13 +176,7 @@ Typical student projects include:
 - Applying deep learning to XR, 360-degree video, or audio selection.
 - Studying measurement-driven quality of experience in immersive systems.
 
-## Available positions for students
-
-You do not need to arrive as an expert. A good project usually starts with curiosity, consistency, and a willingness to learn the tools. Depending on the topic, useful skills include programming, linear algebra, electromagnetics, RF design, machine learning, scientific computing, or laboratory measurements.
-
-Some projects are more mathematical, some are more software-oriented, and some involve hardware and experiments. The scope can be adapted to TFG or TFM level.
-
-For concrete available topics, see the [TFG/TFM page](/teaching/). For the research background behind these lines, see the [publications page](/publications/).
+---
 
 ## Doctoral theses
 
@@ -297,3 +297,13 @@ Journal articles and conference contributions co-authored by each doctoral resea
   </details>
 </div>
 {:/}
+
+---
+
+## Available positions for students
+
+You do not need to arrive as an expert. A good project usually starts with curiosity, consistency, and a willingness to learn the tools. Depending on the topic, useful skills include programming, linear algebra, electromagnetics, RF design, machine learning, scientific computing, or laboratory measurements.
+
+Some projects are more mathematical, some are more software-oriented, and some involve hardware and experiments. The scope can be adapted to TFG or TFM level.
+
+For concrete available topics, see the [TFG/TFM page](/teaching/). For the research background behind these lines, see the [publications page](/publications/).

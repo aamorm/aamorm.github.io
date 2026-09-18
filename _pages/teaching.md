@@ -243,6 +243,8 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 </div>
 {:/}
 
+---
+
 ## TFM dirigidos
 
 {::nomarkdown}
@@ -512,6 +514,8 @@ Calificación: SOBRESALIENTE 9.5
 {::nomarkdown}
 </div>
 {:/}
+
+---
 
 ## TFG dirigidos
 
@@ -867,6 +871,8 @@ Calificación: SOBRESALIENTE 9.7
 </div>
 {:/}
 
+---
+
 ## TFG/TFM en dirección
 
 {::nomarkdown}
@@ -1007,6 +1013,8 @@ Calificación: ---
 </div>
 {:/}
 
+---
+
 ## Cursos internacionales
 
 {::nomarkdown}
@@ -1045,7 +1053,9 @@ An invited talk about *Fundamentals on Antennas* in European School of Antennas.
 </div>
 {:/}
 
-## Cursos Impartidos
+---
+
+## Desglose de asignaturas impartidas por curso
 
 {::nomarkdown}
 <div class="section" id="sec-cursos">
@@ -1074,7 +1084,6 @@ Profesor de teoría
 <br>
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1114,7 +1123,6 @@ Coordinador, profesor de teoría y de prácticas.
 <br>
 <h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
 Coordinador.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1159,7 +1167,6 @@ Coordinador.
 <br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1199,7 +1206,6 @@ Coordinador, profesor de teoría y de prácticas.
 <br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1244,7 +1250,6 @@ Coordinador, profesor de teoría y de prácticas.
 <br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1294,7 +1299,6 @@ Profesor de teoría.
 <br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
-<br><br><br><br>
 </details>
 {:/}
 
@@ -1331,7 +1335,6 @@ Profesor de teoría y responsable de prácticas.
 <br>
 <h6> Máster Universitario en Tecnología Avanzada de  Comunicaciones. </h6>
 Profesor de teoría.
-<br><br><br><br>
 </details>
 {:/}
 
