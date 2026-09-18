@@ -2,7 +2,7 @@
 layout: page
 permalink: /research-lines/
 title: research lines
-description: Research topics and possible TFG/TFM directions for undergraduate and master students.
+description: Research topics, possible TFG/TFM directions, and ongoing and completed doctoral theses.
 nav: true
 nav_order: 2
 ---
@@ -177,3 +177,123 @@ You do not need to arrive as an expert. A good project usually starts with curio
 Some projects are more mathematical, some are more software-oriented, and some involve hardware and experiments. The scope can be adapted to TFG or TFM level.
 
 For concrete available topics, see the [TFG/TFM page](/teaching/). For the research background behind these lines, see the [publications page](/publications/).
+
+## Doctoral theses
+
+Journal articles and conference contributions co-authored by each doctoral researcher are listed below, including work published before enrolment or after the defence.
+
+### Ongoing theses
+
+#### Lester Rogelio Frías Domínguez
+
+**Thesis:** Diseño de una solución de endurecimiento eficaz y eficiente para modelos de redes neuronales artificiales.
+
+**Programme:** Doctorado en Ingeniería Eléctrica, Electrónica y Automática.  
+**Enrolment:** 15 November 2024. **Current deadline:** 14 November 2028.
+
+{::nomarkdown}
+<div class="publications">
+  <details class="pub-section">
+    <summary><span class="h4">journal articles (1)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_journals -q @*[key^=(badia_tns25)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+  <details class="pub-section">
+    <summary><span class="h4">conference contributions (1)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_conferences -q @*[key^=(badia_radecs24)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+</div>
+{:/}
+
+#### Ignacio Martín Salinas
+
+**Thesis:** Implementación Eficiente en Sistemas Embebidos de Algoritmos de Aprendizaje Profundo para Aplicaciones Industriales.
+
+**Programme:** Doctorado en Ingeniería Eléctrica, Electrónica y Automática.  
+**Enrolment:** 30 March 2024. **Current deadline:** 29 March 2028.
+
+{::nomarkdown}
+<div class="publications">
+  <details class="pub-section">
+    <summary><span class="h4">journal articles (3)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_journals -q @*[key^=(martin_eurasip25|badia_tns25|martin_js24)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+  <details class="pub-section">
+    <summary><span class="h4">conference contributions (2)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_conferences -q @*[key^=(martin_salinas_eusipco26|badia_radecs24)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+</div>
+{:/}
+
+#### Sandra Santiago Mesas
+
+**Thesis:** Caracterización de Muestras y Desarrollo de Sensores de Alta Resolución en Banda de Microondas y Milimétrica para Aplicaciones Biológicas.
+
+**Programme:** Doctorado en Tratamiento de Señales e Ingeniería de las Comunicaciones.  
+**Enrolment:** 30 March 2023. **Current deadline:** 29 March 2027.
+
+{::nomarkdown}
+<div class="publications">
+  <details class="pub-section">
+    <summary><span class="h4">journal articles (1)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_journals -q @*[key^=(sasantia_access26)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+  <details class="pub-section">
+    <summary><span class="h4">conference contributions (9)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_conferences -q @*[key^=(santiago_ursi22|santiago_ursi23|santiago_eumc23|santiago_imbioc24|santiago_eumc24|santiago_ursi24|santiago_ursi25|santiago_nemo26|santiago_ursi26)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+</div>
+{:/}
+
+### Completed theses
+
+#### Ignacio Martínez Fernández
+
+**Thesis:** Análisis Electromagnético de Estructuras Finitas de Tipo Periódico mediante el Método de los Elementos Finitos.
+
+**Programme:** Doctorado Interuniversitario en Multimedia y Comunicaciones.  
+**Enrolment:** 15 November 2012. **Defence:** 9 November 2020.
+
+{::nomarkdown}
+<div class="publications">
+  <details class="pub-section">
+    <summary><span class="h4">journal articles (2)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_journals -q @*[key^=(fernandez_mdpi21_2|aamor_apm15)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+  <details class="pub-section">
+    <summary><span class="h4">conference contributions (4)</span></summary>
+    <div class="bibwrap">
+{:/}
+{% bibliography -f aamor_conferences -q @*[key^=(aamor_eiec16|aamor_fem16|aamor_ursi12|garcia_ursi13)$]* %}
+{::nomarkdown}
+    </div>
+  </details>
+</div>
+{:/}

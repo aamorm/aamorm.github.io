@@ -7,9 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+{::nomarkdown}
 <div class="teaching">
+{:/}
 
 ## Oferta de TFG/TFM
+
 {::nomarkdown}
 <div class="section" id="sec-oferta">
   <div class="section-toolbar">
@@ -38,6 +41,9 @@ En esta temática hay varias opciones disponibles (regularización del problema,
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -56,6 +62,9 @@ Fundamentalmente, hay que tratar con el etiquetado de problemas a correr en HPC 
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -76,6 +85,9 @@ El objetivo del TFG es correr una serie de problemas o rutinas y establecer cuá
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -101,6 +113,9 @@ usará Fortran, MATLAB, Python o Julia.
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -119,6 +134,9 @@ En la actualidad, se dispone de un software "legacy" escrito en Octave que gener
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -137,6 +155,9 @@ En este proyecto, el alumno tendrá disponible un código de MATLAB que orienta 
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -155,6 +176,9 @@ La idea es desarrollar una librería que coja los diferentes elementos (tanto 2D
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -173,6 +197,9 @@ La idea es desarrollar un proyecto de cosimulación en ADS que permita conectar 
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -191,6 +218,9 @@ En este trabajo, se propone implementar un código FEM de 2D que aproveche la ge
 
 {::nomarkdown}
 </div>
+{:/}
+
+{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -205,9 +235,13 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
 </details>
 {:/}
 
-{::nomarkdown}</div>{:/}
+{::nomarkdown}
+</div>
+{:/}
 
-{::nomarkdown}</div>{:/}
+{::nomarkdown}
+</div>
+{:/}
 
 ## TFM dirigidos
 
@@ -219,9 +253,6 @@ En este proyecto se busca identificar y fabricar diferentes circuitos de alta fr
   </div>
 {:/}
 
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -246,13 +277,6 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -276,13 +300,6 @@ Calificación: SOBRESALIENTE 10
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -303,13 +320,6 @@ Calificación: SOBRESALIENTE 9.1
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -332,13 +342,6 @@ Calificación: SOBRESALIENTE 10 (nominada a matrícula de honor)
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -359,13 +362,6 @@ Calificación: SOBRESALIENTE 9.5
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -388,13 +384,6 @@ Calificación: NOTABLE 8.8
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -415,13 +404,6 @@ Calificación: NOTABLE 7.0
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -444,13 +426,6 @@ Calificación: SOBRESALIENTE 9.4
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -471,13 +446,6 @@ Calificación: SOBRESALIENTE 9.5
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -500,13 +468,6 @@ Calificación: SOBRESALIENTE 10
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -528,10 +489,29 @@ Calificación: SOBRESALIENTE 9.5
 {:/}
 
 {::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Refactorización de un código de elementos finitos diseñado para antenas de IoT
+
+{::nomarkdown}
+<details>
+<summary>María Lambás Sicilia</summary>
+<br>
+TFM en Máster Universitario en Internet de las Cosas: Tecnologías Aplicadas, septiembre 2026. 
+<br>
+Calificación: SOBRESALIENTE 9.5
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
 </div>
 {:/}
 
-{::nomarkdown}</div>{:/}
+{::nomarkdown}
+</div>
+{:/}
 
 ## TFG dirigidos
 
@@ -543,9 +523,6 @@ Calificación: SOBRESALIENTE 9.5
   </div>
 {:/}
 
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -570,13 +547,6 @@ Calificación: SOBRESALIENTE 10 (matrícula de honor)
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -600,13 +570,6 @@ Calificación: SOBRESALIENTE 9.3
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -627,13 +590,6 @@ Calificación: SOBRESALIENTE 10 (nominada a matrícula de honor)
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -656,13 +612,6 @@ Calificación: NOTABLE 8.2
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -683,13 +632,6 @@ Calificación: SOBRESALIENTE 9.7
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -712,13 +654,6 @@ Calificación: SOBRESALIENTE 9.7
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -739,13 +674,6 @@ Calificación: NOTABLE 8.6
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -768,13 +696,6 @@ Calificación: NOTABLE 8.6
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -795,13 +716,6 @@ Calificación: NOTABLE 8.5
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -824,9 +738,8 @@ Calificación: SOBRESALIENTE 9.7
 {:/}
 
 {::nomarkdown}
-</div>
+<div class="teachingDetail">
 {:/}
-
 
 ##### Diseño y fabricación de circuitos de adaptación para uso docente
 
@@ -845,13 +758,6 @@ Calificación: SOBRESALIENTE 9.7
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -874,17 +780,10 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
-##### 5G for Airbone Communications
+##### Evaluation of 5G communications performances in aerial environments
 
 {::nomarkdown}
 <details>
@@ -902,17 +801,10 @@ Calificación: SOBRESALIENTE 9
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
-##### Desarrollo experimental de un array de antenas con polarización circular
+##### Desarrollo experimental de un array de antenas en doble banda con polarización circular
 
 {::nomarkdown}
 <details>
@@ -929,13 +821,6 @@ Calificación: SOBRESALIENTE 9.8 (nominado a matrícula de honor)
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -958,10 +843,10 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 {:/}
 
 {::nomarkdown}
-</div>
+<div class="teachingDetail">
 {:/}
 
-##### Desarrollo de resolvedores electromagnéticos autodiferenciables en JAX para alimentar resolvedores inversos basados en IA.
+##### Resolución de problemas inversos electromagnéticos con solvers autodiferenciables en JAX y aprendizaje profundo
 
 {::nomarkdown}
 <details>
@@ -982,15 +867,6 @@ Calificación: SOBRESALIENTE 9.7
 </div>
 {:/}
 
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-{::nomarkdown}</div>{:/}
-
 ## TFG/TFM en dirección
 
 {::nomarkdown}
@@ -1004,11 +880,8 @@ Calificación: SOBRESALIENTE 9.7
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 
-##### Clasificación de Descargas Parciales mediante uso de IA.
+##### Estudio comparativo e implementación en sistemas embebidos de redes neuronales convolucionales para la identificación de descargas parciales
 
 {::nomarkdown}
 <details>
@@ -1026,17 +899,10 @@ Calificación: ---
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
-##### Diseño experimental de una antena en banda de microondas
+##### Diseño de una antena de parche con polarización circular para CubeSat 1U en banda LoRa
 
 {::nomarkdown}
 <details>
@@ -1053,13 +919,6 @@ Calificación: ---
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -1082,13 +941,6 @@ Calificación: ---
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -1110,31 +962,88 @@ Calificación: ---
 {:/}
 
 {::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Diseño y fabricación de electrónica de control para una agrupación en fase
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Alfonso Segura Giménez, junio 2027. 
+<br>
+Calificación: ---
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
 </div>
 {:/}
 
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+
+##### Estudio de alternativas para la detección del ángulo de llegada en una agrupación de antenas
+
 {::nomarkdown}
-<div class="teachingDetail">
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Telecomunicación </summary>
+<br>
+Lucía Sánchez Sánchez, junio 2027. 
+<br>
+Calificación: ---
+<br><br>
+</details>
 {:/}
 
-{::nomarkdown}</div>{:/}
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
 
 ## Cursos internacionales
 
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+
 ##### Computational Electromagnetics: a review and future developments for finite element methods
+
 10 horas en el Politecnico di Torino en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Métodos numéricos en el electromagnetismo computacional
+
 8 horas en la Pontificia Universidad Católica del Perú en mayo de 2023. Financiado por la convocatoria Erasmus+.
 
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
 ##### Artificial Intelligence in Electromagnetics and Antennas
+
 An invited talk about *Fundamentals on Antennas* in European School of Antennas. The slides are [here](/assets/pdf/ai_slides_aamor.pdf).
+
+{::nomarkdown}
+</div>
+{:/}
 
 ## Cursos Impartidos
 
@@ -1149,6 +1058,30 @@ An invited talk about *Fundamentals on Antennas* in European School of Antennas.
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
+
+##### 2026/2027
+
+{::nomarkdown}
+<details>
+<summary>Asignaturas</summary>
+<br>
+<h5> Electromagnetic fields and waves </h5> 
+<br>
+<h6> Grado en Ingeniería Física. </h6>
+Profesor de teoría
+<br><br>
+<h5> Prácticas en empresa </h5> 
+<br>
+<h6> Máster Universitario en Internet de las Cosas:  Tecnologías Aplicadas. </h6>
+Coordinador.
+<br><br><br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -1189,13 +1122,6 @@ Coordinador.
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -1242,13 +1168,6 @@ Profesor de teoría.
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -1288,13 +1207,6 @@ Profesor de teoría.
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -1340,13 +1252,6 @@ Profesor de teoría.
 </div>
 {:/}
 
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
 {::nomarkdown}
 <div class="teachingDetail">
 {:/}
@@ -1398,13 +1303,6 @@ Profesor de teoría.
 {:/}
 
 {::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-{::nomarkdown}
 <div class="teachingDetail">
 {:/}
 
@@ -1445,9 +1343,9 @@ Profesor de teoría.
 </div>
 {:/}
 
-{::nomarkdown}</div>{:/}
-
-{::nomarkdown}</div>{:/}
+{::nomarkdown}
+</div>
+{:/}
 
 {::nomarkdown}
 <script>
