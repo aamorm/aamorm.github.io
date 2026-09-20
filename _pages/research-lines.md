@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research-lines/
-title: research lines
-description: Research topics, possible TFG/TFM directions, and ongoing and completed doctoral theses.
+title: research lines/ph.d.
+description: Research topics, possible Ph.D. directions, and ongoing and completed doctoral theses.
 nav: true
 nav_order: 2
 ---
