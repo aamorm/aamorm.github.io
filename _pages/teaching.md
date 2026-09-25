@@ -916,7 +916,7 @@ Calificación: ---
 <br>
 Samuel Sánchez García, septiembre 2026. 
 <br>
-Calificación: ---
+Calificación: NOTABLE 8.8
 <br><br>
 </details>
 {:/}
