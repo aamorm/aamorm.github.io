@@ -512,6 +512,27 @@ Calificación: SOBRESALIENTE 9.5
 {:/}
 
 {::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Estudio comparativo e implementación en sistemas embebidos de redes neuronales convolucionales para la identificación de descargas parciales
+
+{::nomarkdown}
+<details>
+<summary>TFM en Máster Universitario en Ingeniería de Diseño Microelectrónico</summary>
+<br>
+María Sánchez Aparicio, septiembre 2026. 
+<br>
+Calificación: SOBRESALIENTE 10
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
 </div>
 {:/}
 
@@ -881,27 +902,6 @@ Calificación: SOBRESALIENTE 9.7
     <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
     <button type="button" class="btn-small btn-collapse">Collapse all</button>
   </div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Estudio comparativo e implementación en sistemas embebidos de redes neuronales convolucionales para la identificación de descargas parciales
-
-{::nomarkdown}
-<details>
-<summary>TFM en Máster Universitario en Ingeniería de Diseño Microelectrónico</summary>
-<br>
-María Sánchez Aparicio, septiembre 2026. 
-<br>
-Calificación: ---
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
 {:/}
 
 {::nomarkdown}
