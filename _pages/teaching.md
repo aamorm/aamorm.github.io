@@ -533,6 +533,27 @@ Calificación: SOBRESALIENTE 10
 {:/}
 
 {::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Resolución de problemas inversos electromagnéticos con solvers autodiferenciables en JAX y aprendizaje profundo
+
+{::nomarkdown}
+<details>
+<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<br>
+Fernando Francisco Moya Rangel, septiembre 2026.
+<br>
+Calificación: SOBRESALIENTE 9.7
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
 </div>
 {:/}
 
@@ -871,15 +892,36 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 <div class="teachingDetail">
 {:/}
 
-##### Resolución de problemas inversos electromagnéticos con solvers autodiferenciables en JAX y aprendizaje profundo
+##### Diseño de una antena de parche con polarización circular para CubeSat 1U en banda LoRa
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
 <br>
-Fernando Francisco Moya Rangel, septiembre 2026. 
+Samuel Sánchez García, septiembre 2026.
 <br>
-Calificación: SOBRESALIENTE 9.7
+Calificación: NOTABLE 8.8
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Simulación de modelos antropomórficos para sensores de radiofrecuencia
+
+{::nomarkdown}
+<details>
+<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<br>
+Lucía Merinero López, septiembre 2026.
+<br>
+Calificación: SOBRESALIENTE 9.5
 <br><br>
 </details>
 {:/}
@@ -902,48 +944,6 @@ Calificación: SOBRESALIENTE 9.7
     <button type="button" class="btn-small btn-expand" aria-pressed="false">Expand all</button>
     <button type="button" class="btn-small btn-collapse">Collapse all</button>
   </div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Diseño de una antena de parche con polarización circular para CubeSat 1U en banda LoRa
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
-<br>
-Samuel Sánchez García, septiembre 2026. 
-<br>
-Calificación: NOTABLE 8.8
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
-{:/}
-
-{::nomarkdown}
-<div class="teachingDetail">
-{:/}
-
-##### Simulación de modelos antropomórficos para sensores de radiofrecuencia
-
-{::nomarkdown}
-<details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
-<br>
-Lucía Merinero López, septiembre 2026. 
-<br>
-Calificación: ---
-<br><br>
-</details>
-{:/}
-
-{::nomarkdown}
-</div>
 {:/}
 
 {::nomarkdown}
