@@ -351,6 +351,11 @@
       "quartile": "JCR Q1"
     },
     {
+      "name": "Discover Applied Sciences",
+      "publisher": "Springer Nature",
+      "quartile": "JCR Q1"
+    },
+    {
       "name": "Applied Sciences",
       "publisher": "MDPI",
       "quartile": "JCR Q2"
@@ -376,6 +381,11 @@
       "quartile": "JCR Q2"
     },
     {
+      "name": "IEEE Transactions on Microwave Theory and Techniques",
+      "publisher": "IEEE",
+      "quartile": "JCR Q1"
+    },    
+    {
       "name": "IEEE Transactions on Artificial Intelligence",
       "publisher": "IEEE",
       "quartile": "Scopus Q1"
@@ -396,10 +406,10 @@
       "quartile": "JCR Q2"
     },
     {
-      "name": "IEEE Transactions on Microwave Theory and Techniques",
+      "name": "IEEE Signal Processing Letters",
       "publisher": "IEEE",
       "quartile": "JCR Q2"
-    },
+    },    
     {
       "name": "PLOS ONE",
       "publisher": "PLOS",

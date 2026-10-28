@@ -519,9 +519,9 @@ Calificación: SOBRESALIENTE 9.5
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Ingeniería de Diseño Microelectrónico</summary>
+<summary>María Sánchez Aparicio</summary>
 <br>
-María Sánchez Aparicio, septiembre 2026. 
+TFM en Máster Universitario en Ingeniería de Diseño Microelectrónico, septiembre 2026. 
 <br>
 Calificación: SOBRESALIENTE 10
 <br><br>
@@ -540,9 +540,9 @@ Calificación: SOBRESALIENTE 10
 
 {::nomarkdown}
 <details>
-<summary>TFM en Máster Universitario en Inteligencia Artificial Aplicada</summary>
+<summary>Fernando Francisco Moya Rangel</summary>
 <br>
-Fernando Francisco Moya Rangel, septiembre 2026.
+TFM en Máster Universitario en Inteligencia Artificial Aplicada, septiembre 2026.
 <br>
 Calificación: SOBRESALIENTE 9.7
 <br><br>
@@ -791,9 +791,9 @@ Calificación: SOBRESALIENTE 9.7
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales </summary>
+<summary>Luis María Casla Gárate</summary>
 <br>
-Luis María Casla Gárate, febrero 2026. 
+TFG en Grado en Ingeniería de Comunicaciones Móviles y Espaciales, febrero 2026. 
 <br>
 Calificación: SOBRESALIENTE 9.7 
 <br><br>
@@ -812,9 +812,9 @@ Calificación: SOBRESALIENTE 9.7
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Sara Rodríguez Galán</summary>
 <br>
-Sara Rodríguez Galán, junio 2026. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, junio 2026. 
 <br>
 Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 <br><br>
@@ -833,9 +833,9 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería Telemática </summary>
+<summary>Andrea González García</summary>
 <br>
-Andrea González García, junio 2026. 
+TFG en Grado en Ingeniería Telemática, junio 2026. 
 <br>
 Calificación: SOBRESALIENTE 9
 <br><br>
@@ -854,9 +854,9 @@ Calificación: SOBRESALIENTE 9
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Adrián del Cerro Bonilla</summary>
 <br>
-Adrián del Cerro Bonilla, junio 2026. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, junio 2026. 
 <br>
 Calificación: SOBRESALIENTE 9.8 (nominado a matrícula de honor)
 <br><br>
@@ -875,9 +875,9 @@ Calificación: SOBRESALIENTE 9.8 (nominado a matrícula de honor)
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Alejandro Thomas Oliva</summary>
 <br>
-Alejandro Thomas Oliva, junio 2026. 
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, junio 2026. 
 <br>
 Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 <br><br>
@@ -896,9 +896,9 @@ Calificación: SOBRESALIENTE 10 (nominado a matrícula de honor)
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio </summary>
+<summary>Samuel Sánchez García</summary>
 <br>
-Samuel Sánchez García, septiembre 2026.
+TFG en Grado en Ingeniería de Comunicaciones Móviles y Espacio, septiembre 2026.
 <br>
 Calificación: NOTABLE 8.8
 <br><br>
@@ -917,11 +917,32 @@ Calificación: NOTABLE 8.8
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>Lucía Merinero López</summary>
 <br>
-Lucía Merinero López, septiembre 2026.
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, septiembre 2026.
 <br>
 Calificación: SOBRESALIENTE 9.5
+<br><br>
+</details>
+{:/}
+
+{::nomarkdown}
+</div>
+{:/}
+
+{::nomarkdown}
+<div class="teachingDetail">
+{:/}
+
+##### Implementación de un solver autodiferenciable en lenguajes de computación científica
+
+{::nomarkdown}
+<details>
+<summary>Izan Rodríguez Cuerdo</summary>
+<br>
+TFG en Grado en Ingeniería de Tecnologías de Telecomunicación, septiembre 2026. 
+<br>
+Calificación: SOBRESALIENTE 10
 <br><br>
 </details>
 {:/}
@@ -950,13 +971,13 @@ Calificación: SOBRESALIENTE 9.5
 <div class="teachingDetail">
 {:/}
 
-##### Implementación de un solver autodiferenciable en lenguajes de computación científica
+##### Implementación de un solver FEM autodiferenciable en JAX
 
 {::nomarkdown}
 <details>
-<summary>TFG en Grado en Ingeniería de Tecnologías de Telecomunicación </summary>
+<summary>TFG en Grado en Ingeniería en Tecnologías de Telecomunicación (Plan 2019)</summary>
 <br>
-Izan Rodríguez Cuerdo, septiembre 2026. 
+Alonso del Pino Congosto.
 <br>
 Calificación: ---
 <br><br>
