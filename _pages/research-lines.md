@@ -6,6 +6,16 @@ description: Research topics, possible Ph.D. directions, and ongoing and complet
 nav: true
 nav_order: 2
 ---
+{::nomarkdown}
+<style>
+.publications .pub-section > summary > .h4 {
+  font-weight: 300;
+}
+.publications {
+  margin-bottom: 1.5rem;
+}
+</style>
+{:/}
 
 ## Computational electromagnetics
 
@@ -30,7 +40,7 @@ This line connects with previous work on high-order FEM, Nedelec elements, domai
     </div>
   </details>
 
-  <details class="pub-section">
+  <details class="pub-section" open>
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
@@ -53,12 +63,10 @@ This line explores the intersection between electromagnetic simulation and AI. T
 - Comparing automatic differentiation tools for scientific computing.
 - Building pipelines that connect simulation, data labeling, training, and validation.
 
-Selected references:
-
 {::nomarkdown}
 <div class="publications">
 
-  <details class="pub-section">
+  <details class="pub-section open">
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
@@ -82,8 +90,6 @@ This line studies how scientific and AI workloads behave on GPUs, embedded platf
 - Studying reliability issues in edge AI systems.
 
 This line connects with work on GPU acceleration, many-core architectures, edge AI, embedded deep learning, and reliability of neural networks in demanding environments.
-
-Selected references:
 
 {::nomarkdown}
 <div class="publications">
@@ -116,7 +122,7 @@ This line applies computational electromagnetics to subsurface exploration, geop
     <summary><span class="h4">selected papers</span></summary>
     <div class="bibwrap">
 {:/}
-{% bibliography -f aamor_journals -q @*[key^=castilo_cg23|castillo_cg22|castillo_jcs22]* %}
+{% bibliography -f aamor_journals -q @*[key^=castillo_cg23|castillo_cg22|castillo_jcs22]* %}
 {::nomarkdown}
     </div>
   </details>
@@ -138,8 +144,6 @@ This line is closer to hardware, measurement, and RF design. It includes antenna
 
 This line is a strong option for students who want to combine simulation with laboratory work.
 
-Selected references and conference contributions:
-
 {::nomarkdown}
 <div class="publications">
   <details class="pub-section" open>
@@ -151,7 +155,7 @@ Selected references and conference contributions:
     </div>
   </details>
 
-  <details class="pub-section">
+  <details class="pub-section open">
     <summary><span class="h4">conference contributions</span></summary>
     <div class="bibwrap">
 {:/}
@@ -267,6 +271,8 @@ Journal articles and conference contributions co-authored by each doctoral resea
   </details>
 </div>
 {:/}
+
+---
 
 ### Completed theses
 
