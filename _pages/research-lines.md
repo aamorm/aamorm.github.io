@@ -9,8 +9,16 @@ nav_order: 2
 {::nomarkdown}
 <style>
 .publications .pub-section > summary > .h4 {
+  font-size: 1.1rem;
   font-weight: 300;
 }
+
+/* Espacio entre desplegables */
+.publications .pub-section + .pub-section {
+  margin-top: 0.75rem;
+}
+
+/* Espacio antes del siguiente encabezado */
 .publications {
   margin-bottom: 1.5rem;
 }
