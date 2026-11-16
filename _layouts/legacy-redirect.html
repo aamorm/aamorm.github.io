@@ -1,0 +1,17 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page moved</title>
+    {% assign target = page.redirect_to | relative_url %}
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+    <meta http-equiv="refresh" content="0; url={{ target }}">
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+    <p>This page has moved. <a href="{{ target }}">Continue to the destination page.</a></p>
+  </body>
+</html>
